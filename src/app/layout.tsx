@@ -4,6 +4,7 @@ import { Toaster } from "sonner";
 
 import "./globals.css";
 import ReduxProvider from "@/providers/reduxProvider";
+import StorageInitializer from "@/lib/StorageInitializer";
 
 const poppins = Poppins({
   variable: "--font-poppins",
@@ -40,7 +41,10 @@ export default function RootLayout({
       <body
         className={`${poppins.variable} ${robotoMono.variable} antialiased`}
       >
-        <ReduxProvider>{children}</ReduxProvider>
+        <ReduxProvider>
+          <StorageInitializer />
+          {children}
+        </ReduxProvider>
         <Toaster position="top-right" richColors />
       </body>
     </html>

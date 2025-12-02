@@ -19,6 +19,28 @@ interface TransactionsState {
   };
 }
 
+const loadFromStorage = (): Transaction[] => {
+  if (typeof window === "undefined") return [];
+
+  try {
+    const stored = localStorage.getItem("transactions");
+    return stored ? JSON.parse(stored) : [];
+  } catch (error) {
+    console.error("Error loading transactions from storage:", error);
+    return [];
+  }
+};
+
+const saveToStorage = (transactions: Transaction[]) => {
+  if (typeof window === "undefined") return;
+
+  try {
+    localStorage.setItem("transactions", JSON.stringify(transactions));
+  } catch (error) {
+    console.error("Error saving transactions to storage:", error);
+  }
+};
+
 const initialState: TransactionsState = {
   transactions: [],
   isLoading: true,
@@ -32,17 +54,32 @@ export const transactionsSlice = createSlice({
   name: "transactions",
   initialState,
   reducers: {
+    initializeFromStorage: (state) => {
+      const storedTransactions = loadFromStorage();
+      if (storedTransactions.length > 0) {
+        state.transactions = storedTransactions;
+      }
+      state.isLoading = false;
+    },
     setTransactions: (state, action: PayloadAction<Transaction[]>) => {
-      state.transactions = action.payload;
+      const storedTransactions = loadFromStorage();
+      if (storedTransactions.length === 0) {
+        state.transactions = action.payload;
+        saveToStorage(action.payload);
+      } else {
+        state.transactions = storedTransactions;
+      }
       state.isLoading = false;
     },
     addTransaction: (state, action: PayloadAction<Transaction>) => {
       state.transactions.unshift(action.payload);
+      saveToStorage(state.transactions);
     },
     deleteTransaction: (state, action: PayloadAction<number>) => {
       state.transactions = state.transactions.filter(
         (t) => t.id !== action.payload
       );
+      saveToStorage(state.transactions);
     },
     setFilters: (
       state,
@@ -58,15 +95,21 @@ export const transactionsSlice = createSlice({
     setLoading: (state, action: PayloadAction<boolean>) => {
       state.isLoading = action.payload;
     },
+    clearAllTransactions: (state) => {
+      state.transactions = [];
+      saveToStorage([]);
+    },
   },
 });
 
 export const {
+  initializeFromStorage,
   setTransactions,
   addTransaction,
   deleteTransaction,
   setFilters,
   setLoading,
+  clearAllTransactions,
 } = transactionsSlice.actions;
 
 export const selectTransactions = (state: RootState) =>
