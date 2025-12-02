@@ -12,6 +12,7 @@ import {
   setLoading,
 } from "@/redux/features/transactions/transactionsSlice";
 import transactionsData from "@/data/TrackerTransaction.json";
+import LineChartVisualization from "@/components/LineChartVisualization";
 
 export default function Home() {
   const dispatch = useDispatch();
@@ -22,7 +23,7 @@ export default function Home() {
       await new Promise((resolve) => setTimeout(resolve, 1500));
       dispatch(
         setTransactions(
-          transactionsData.slice(0, 500).map((t) => ({
+          transactionsData.map((t) => ({
             ...t,
             type: t.type as "income" | "expense",
           }))
@@ -52,7 +53,7 @@ export default function Home() {
         <div className="grid gap-6 lg:grid-cols-2 mb-6">
           <ChartVisualization defaultChartType="bar" />
           <div className="lg:col-span-1">
-            <ChartVisualization defaultChartType="pie" />
+            <LineChartVisualization />
           </div>
         </div>
 

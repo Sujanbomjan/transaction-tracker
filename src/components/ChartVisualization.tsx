@@ -158,7 +158,6 @@ export default function ChartVisualization({
               {(filters.type === "all" || filters.type === "expense") && (
                 <Bar dataKey="expense" fill={EXPENSE_COLOR} name="Expense" />
               )}
-              <Bar dataKey="amount" fill="#0088FE" />
             </BarChart>
           </ResponsiveContainer>
         ) : (

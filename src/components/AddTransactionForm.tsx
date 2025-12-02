@@ -130,12 +130,16 @@ export default function AddTransactionForm() {
   return (
     <Dialog open={open} onOpenChange={setOpen}>
       <DialogTrigger asChild>
-        <Button className="gap-2">
+        <Button className="gap-2 cursor-pointer">
           <Plus className="h-4 w-4" />
           Add Transaction
         </Button>
       </DialogTrigger>
-      <DialogContent className="sm:max-w-[550px]">
+      <DialogContent
+        className="sm:max-w-[550px]"
+        onInteractOutside={(e) => e.preventDefault()}
+        onEscapeKeyDown={(e) => e.preventDefault()}
+      >
         <DialogHeader>
           <DialogTitle>Add New Transaction</DialogTitle>
           <DialogDescription>
@@ -308,10 +312,10 @@ export default function AddTransactionForm() {
                     Adding...
                   </>
                 ) : (
-                  <>
+                  <div className="cursor-pointer flex gap-3">
                     <Plus className="mr-2 h-4 w-4" />
                     Add Transaction
-                  </>
+                  </div>
                 )}
               </Button>
             </div>

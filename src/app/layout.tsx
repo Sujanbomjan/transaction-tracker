@@ -1,22 +1,33 @@
 import type { Metadata } from "next";
-import { Geist, Geist_Mono } from "next/font/google";
-import "./globals.css";
-import ReduxProvider from "@/providers/reduxProvider";
+import { Poppins, Roboto_Mono } from "next/font/google";
 import { Toaster } from "sonner";
 
-const geistSans = Geist({
-  variable: "--font-geist-sans",
+import "./globals.css";
+import ReduxProvider from "@/providers/reduxProvider";
+
+const poppins = Poppins({
+  variable: "--font-poppins",
   subsets: ["latin"],
+  weight: ["300", "400", "500", "600", "700"],
 });
 
-const geistMono = Geist_Mono({
-  variable: "--font-geist-mono",
+const robotoMono = Roboto_Mono({
+  variable: "--font-roboto-mono",
   subsets: ["latin"],
 });
 
 export const metadata: Metadata = {
-  title: "Tracker Transactions",
-  description: "Manage and visualize your financial transactions",
+  title: "Transaction Tracker",
+  description:
+    "Transaction tracker app with real-time analytics, interactive charts, and smart filtering. Track your income, expenses, and visualize spending  effortlessly.",
+  keywords: ["expense tracker", "income tracker"],
+  authors: [{ name: "Sujan Lama" }],
+  openGraph: {
+    title: "Transaction Tracker",
+    description:
+      "Track and visualize your  transactions with interactive charts and real-time analytics",
+    type: "website",
+  },
 };
 
 export default function RootLayout({
@@ -27,7 +38,7 @@ export default function RootLayout({
   return (
     <html lang="en">
       <body
-        className={`${geistSans.variable} ${geistMono.variable} antialiased`}
+        className={`${poppins.variable} ${robotoMono.variable} antialiased`}
       >
         <ReduxProvider>{children}</ReduxProvider>
         <Toaster position="top-right" richColors />
