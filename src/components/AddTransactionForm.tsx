@@ -142,9 +142,6 @@ export default function AddTransactionForm() {
       >
         <DialogHeader>
           <DialogTitle>Add New Transaction</DialogTitle>
-          <DialogDescription>
-            Fill in the details below to add a new transaction to your records.
-          </DialogDescription>
         </DialogHeader>
         <Form {...form}>
           <form onSubmit={form.handleSubmit(onSubmit)} className="space-y-6">
@@ -244,7 +241,7 @@ export default function AddTransactionForm() {
                     disabled={isSubmitting}
                   >
                     <FormControl>
-                      <SelectTrigger>
+                      <SelectTrigger className="w-full">
                         <SelectValue placeholder="Select a category" />
                       </SelectTrigger>
                     </FormControl>

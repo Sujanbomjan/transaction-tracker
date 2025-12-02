@@ -147,7 +147,6 @@ export default function FilterSection() {
             )}
           </div>
 
-          {/* Type Filter */}
           <div className="space-y-2">
             <Label htmlFor="type">Type</Label>
             <Select value={filters.type} onValueChange={handleTypeChange}>
