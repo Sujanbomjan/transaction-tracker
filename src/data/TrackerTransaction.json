@@ -1,0 +1,8002 @@
+[
+  {
+    "id": 1,
+    "description": "Refund credited to account",
+    "amount": 2771.91,
+    "type": "income",
+    "category": "Shopping",
+    "date": "2024-09-28"
+  },
+  {
+    "id": 2,
+    "description": "House rent monthly payment",
+    "amount": 289.63,
+    "type": "expense",
+    "category": "Food",
+    "date": "2024-02-27"
+  },
+  {
+    "id": 3,
+    "description": "Online shopping purchase",
+    "amount": 280.26,
+    "type": "expense",
+    "category": "Bills",
+    "date": "2024-06-16"
+  },
+  {
+    "id": 4,
+    "description": "Client invoice settlement",
+    "amount": 1217.66,
+    "type": "income",
+    "category": "Food",
+    "date": "2024-09-09"
+  },
+  {
+    "id": 5,
+    "description": "Cashback reward deposited",
+    "amount": 2657.39,
+    "type": "income",
+    "category": "Salary",
+    "date": "2024-01-06"
+  },
+  {
+    "id": 6,
+    "description": "Cashback reward deposited",
+    "amount": 943.26,
+    "type": "income",
+    "category": "Other",
+    "date": "2024-06-21"
+  },
+  {
+    "id": 7,
+    "description": "Restaurant dine\u2011in expense",
+    "amount": 17.15,
+    "type": "expense",
+    "category": "Food",
+    "date": "2024-10-20"
+  },
+  {
+    "id": 8,
+    "description": "House rent monthly payment",
+    "amount": 24.76,
+    "type": "expense",
+    "category": "Health",
+    "date": "2024-07-29"
+  },
+  {
+    "id": 9,
+    "description": "Water bill settlement",
+    "amount": 423.37,
+    "type": "expense",
+    "category": "Bills",
+    "date": "2024-03-14"
+  },
+  {
+    "id": 10,
+    "description": "Part\u2011time earnings received",
+    "amount": 344.96,
+    "type": "income",
+    "category": "Health",
+    "date": "2024-05-13"
+  },
+  {
+    "id": 11,
+    "description": "Water bill settlement",
+    "amount": 153.21,
+    "type": "expense",
+    "category": "Food",
+    "date": "2024-03-17"
+  },
+  {
+    "id": 12,
+    "description": "House rent monthly payment",
+    "amount": 484.01,
+    "type": "expense",
+    "category": "Work",
+    "date": "2024-03-02"
+  },
+  {
+    "id": 13,
+    "description": "Clothing store purchase",
+    "amount": 171.23,
+    "type": "expense",
+    "category": "Work",
+    "date": "2024-10-15"
+  },
+  {
+    "id": 14,
+    "description": "Part\u2011time earnings received",
+    "amount": 1872.5,
+    "type": "income",
+    "category": "Work",
+    "date": "2024-08-29"
+  },
+  {
+    "id": 15,
+    "description": "School stationery supplies",
+    "amount": 175.27,
+    "type": "expense",
+    "category": "Health",
+    "date": "2024-10-06"
+  },
+  {
+    "id": 16,
+    "description": "Monthly salary received",
+    "amount": 1724.17,
+    "type": "income",
+    "category": "Entertainment",
+    "date": "2024-12-24"
+  },
+  {
+    "id": 17,
+    "description": "Cashback reward deposited",
+    "amount": 2414.6,
+    "type": "income",
+    "category": "Other",
+    "date": "2024-02-20"
+  },
+  {
+    "id": 18,
+    "description": "Part\u2011time earnings received",
+    "amount": 358.98,
+    "type": "income",
+    "category": "Salary",
+    "date": "2024-12-20"
+  },
+  {
+    "id": 19,
+    "description": "Bonus payout from employer",
+    "amount": 13.47,
+    "type": "income",
+    "category": "Salary",
+    "date": "2024-05-30"
+  },
+  {
+    "id": 20,
+    "description": "Taxi fare for city travel",
+    "amount": 45.16,
+    "type": "expense",
+    "category": "Shopping",
+    "date": "2024-12-21"
+  },
+  {
+    "id": 21,
+    "description": "Clothing store purchase",
+    "amount": 162.18,
+    "type": "expense",
+    "category": "Work",
+    "date": "2024-04-20"
+  },
+  {
+    "id": 22,
+    "description": "Restaurant dine\u2011in expense",
+    "amount": 275.07,
+    "type": "expense",
+    "category": "Other",
+    "date": "2024-02-26"
+  },
+  {
+    "id": 23,
+    "description": "Fuel refill at petrol station",
+    "amount": 15.58,
+    "type": "expense",
+    "category": "Entertainment",
+    "date": "2024-02-23"
+  },
+  {
+    "id": 24,
+    "description": "Part\u2011time earnings received",
+    "amount": 1543.03,
+    "type": "income",
+    "category": "Shopping",
+    "date": "2024-05-04"
+  },
+  {
+    "id": 25,
+    "description": "Freelance project payment",
+    "amount": 1083.6,
+    "type": "income",
+    "category": "Salary",
+    "date": "2024-01-15"
+  },
+  {
+    "id": 26,
+    "description": "Dividend payout received",
+    "amount": 2741.71,
+    "type": "income",
+    "category": "Food",
+    "date": "2024-04-08"
+  },
+  {
+    "id": 27,
+    "description": "Gym membership monthly fee",
+    "amount": 464.11,
+    "type": "expense",
+    "category": "Transport",
+    "date": "2024-03-31"
+  },
+  {
+    "id": 28,
+    "description": "Pharmacy medical supplies",
+    "amount": 187.66,
+    "type": "expense",
+    "category": "Health",
+    "date": "2024-04-25"
+  },
+  {
+    "id": 29,
+    "description": "Monthly salary received",
+    "amount": 2197.8,
+    "type": "income",
+    "category": "Food",
+    "date": "2024-03-10"
+  },
+  {
+    "id": 30,
+    "description": "Online shopping purchase",
+    "amount": 465.14,
+    "type": "expense",
+    "category": "Entertainment",
+    "date": "2024-03-06"
+  },
+  {
+    "id": 31,
+    "description": "Commission income received",
+    "amount": 2406.35,
+    "type": "income",
+    "category": "Entertainment",
+    "date": "2024-05-17"
+  },
+  {
+    "id": 32,
+    "description": "Bonus payout from employer",
+    "amount": 2700.8,
+    "type": "income",
+    "category": "Salary",
+    "date": "2024-02-02"
+  },
+  {
+    "id": 33,
+    "description": "Freelance project payment",
+    "amount": 2703.35,
+    "type": "income",
+    "category": "Entertainment",
+    "date": "2024-01-25"
+  },
+  {
+    "id": 34,
+    "description": "Gym membership monthly fee",
+    "amount": 138.53,
+    "type": "expense",
+    "category": "Food",
+    "date": "2024-06-01"
+  },
+  {
+    "id": 35,
+    "description": "Movie tickets at cinema",
+    "amount": 38.96,
+    "type": "expense",
+    "category": "Entertainment",
+    "date": "2024-11-06"
+  },
+  {
+    "id": 36,
+    "description": "Part\u2011time earnings received",
+    "amount": 2913.02,
+    "type": "income",
+    "category": "Entertainment",
+    "date": "2024-08-22"
+  },
+  {
+    "id": 37,
+    "description": "Commission income received",
+    "amount": 2079.46,
+    "type": "income",
+    "category": "Salary",
+    "date": "2024-06-22"
+  },
+  {
+    "id": 38,
+    "description": "Restaurant dine\u2011in expense",
+    "amount": 423.9,
+    "type": "expense",
+    "category": "Shopping",
+    "date": "2024-10-25"
+  },
+  {
+    "id": 39,
+    "description": "Fuel refill at petrol station",
+    "amount": 235.04,
+    "type": "expense",
+    "category": "Other",
+    "date": "2024-05-17"
+  },
+  {
+    "id": 40,
+    "description": "Dividend payout received",
+    "amount": 1809.58,
+    "type": "income",
+    "category": "Entertainment",
+    "date": "2024-10-29"
+  },
+  {
+    "id": 41,
+    "description": "Cashback reward deposited",
+    "amount": 2491.76,
+    "type": "income",
+    "category": "Food",
+    "date": "2024-09-07"
+  },
+  {
+    "id": 42,
+    "description": "Commission income received",
+    "amount": 2272.62,
+    "type": "income",
+    "category": "Other",
+    "date": "2024-12-23"
+  },
+  {
+    "id": 43,
+    "description": "Commission income received",
+    "amount": 1538.19,
+    "type": "income",
+    "category": "Shopping",
+    "date": "2024-06-29"
+  },
+  {
+    "id": 44,
+    "description": "Gym membership monthly fee",
+    "amount": 447.06,
+    "type": "expense",
+    "category": "Health",
+    "date": "2024-06-18"
+  },
+  {
+    "id": 45,
+    "description": "Cashback reward deposited",
+    "amount": 351.52,
+    "type": "income",
+    "category": "Other",
+    "date": "2024-08-29"
+  },
+  {
+    "id": 46,
+    "description": "Commission income received",
+    "amount": 1124.44,
+    "type": "income",
+    "category": "Salary",
+    "date": "2024-02-19"
+  },
+  {
+    "id": 47,
+    "description": "Commission income received",
+    "amount": 2784.55,
+    "type": "income",
+    "category": "Bills",
+    "date": "2024-01-01"
+  },
+  {
+    "id": 48,
+    "description": "Electricity utility bill payment",
+    "amount": 161.86,
+    "type": "expense",
+    "category": "Shopping",
+    "date": "2024-09-14"
+  },
+  {
+    "id": 49,
+    "description": "Gym membership monthly fee",
+    "amount": 279.48,
+    "type": "expense",
+    "category": "Health",
+    "date": "2024-03-06"
+  },
+  {
+    "id": 50,
+    "description": "Monthly salary received",
+    "amount": 2127.55,
+    "type": "income",
+    "category": "Work",
+    "date": "2024-09-24"
+  },
+  {
+    "id": 51,
+    "description": "School stationery supplies",
+    "amount": 398.99,
+    "type": "expense",
+    "category": "Health",
+    "date": "2024-07-10"
+  },
+  {
+    "id": 52,
+    "description": "Mobile data recharge payment",
+    "amount": 425.92,
+    "type": "expense",
+    "category": "Bills",
+    "date": "2024-07-08"
+  },
+  {
+    "id": 53,
+    "description": "Fuel refill at petrol station",
+    "amount": 343.32,
+    "type": "expense",
+    "category": "Entertainment",
+    "date": "2024-04-10"
+  },
+  {
+    "id": 54,
+    "description": "Part\u2011time earnings received",
+    "amount": 2232.47,
+    "type": "income",
+    "category": "Work",
+    "date": "2024-01-23"
+  },
+  {
+    "id": 55,
+    "description": "Commission income received",
+    "amount": 719.6,
+    "type": "income",
+    "category": "Entertainment",
+    "date": "2024-05-29"
+  },
+  {
+    "id": 56,
+    "description": "Coffee shop takeaway order",
+    "amount": 54.28,
+    "type": "expense",
+    "category": "Other",
+    "date": "2024-04-11"
+  },
+  {
+    "id": 57,
+    "description": "Monthly salary received",
+    "amount": 2209.46,
+    "type": "income",
+    "category": "Health",
+    "date": "2024-03-23"
+  },
+  {
+    "id": 58,
+    "description": "Bank interest earned",
+    "amount": 825.49,
+    "type": "income",
+    "category": "Salary",
+    "date": "2024-07-17"
+  },
+  {
+    "id": 59,
+    "description": "Cashback reward deposited",
+    "amount": 1059.63,
+    "type": "income",
+    "category": "Transport",
+    "date": "2024-07-18"
+  },
+  {
+    "id": 60,
+    "description": "Bonus payout from employer",
+    "amount": 2857.7,
+    "type": "income",
+    "category": "Work",
+    "date": "2024-02-10"
+  },
+  {
+    "id": 61,
+    "description": "Dividend payout received",
+    "amount": 901.05,
+    "type": "income",
+    "category": "Shopping",
+    "date": "2024-01-20"
+  },
+  {
+    "id": 62,
+    "description": "Dividend payout received",
+    "amount": 1409.49,
+    "type": "income",
+    "category": "Entertainment",
+    "date": "2024-12-26"
+  },
+  {
+    "id": 63,
+    "description": "Freelance project payment",
+    "amount": 1438.77,
+    "type": "income",
+    "category": "Food",
+    "date": "2024-11-14"
+  },
+  {
+    "id": 64,
+    "description": "School stationery supplies",
+    "amount": 181.28,
+    "type": "expense",
+    "category": "Work",
+    "date": "2024-05-04"
+  },
+  {
+    "id": 65,
+    "description": "Clothing store purchase",
+    "amount": 239.56,
+    "type": "expense",
+    "category": "Shopping",
+    "date": "2024-03-24"
+  },
+  {
+    "id": 66,
+    "description": "Fuel refill at petrol station",
+    "amount": 139.49,
+    "type": "expense",
+    "category": "Salary",
+    "date": "2024-09-13"
+  },
+  {
+    "id": 67,
+    "description": "Freelance project payment",
+    "amount": 886.88,
+    "type": "income",
+    "category": "Shopping",
+    "date": "2024-12-07"
+  },
+  {
+    "id": 68,
+    "description": "Pharmacy medical supplies",
+    "amount": 417.56,
+    "type": "expense",
+    "category": "Work",
+    "date": "2024-07-13"
+  },
+  {
+    "id": 69,
+    "description": "Water bill settlement",
+    "amount": 330.43,
+    "type": "expense",
+    "category": "Food",
+    "date": "2024-07-15"
+  },
+  {
+    "id": 70,
+    "description": "Coffee shop takeaway order",
+    "amount": 448.11,
+    "type": "expense",
+    "category": "Health",
+    "date": "2024-06-26"
+  },
+  {
+    "id": 71,
+    "description": "Monthly salary received",
+    "amount": 1869.13,
+    "type": "income",
+    "category": "Food",
+    "date": "2024-08-15"
+  },
+  {
+    "id": 72,
+    "description": "Movie tickets at cinema",
+    "amount": 424.86,
+    "type": "expense",
+    "category": "Bills",
+    "date": "2024-08-16"
+  },
+  {
+    "id": 73,
+    "description": "School stationery supplies",
+    "amount": 355.39,
+    "type": "expense",
+    "category": "Other",
+    "date": "2024-07-05"
+  },
+  {
+    "id": 74,
+    "description": "Fuel refill at petrol station",
+    "amount": 265.05,
+    "type": "expense",
+    "category": "Entertainment",
+    "date": "2024-09-18"
+  },
+  {
+    "id": 75,
+    "description": "School stationery supplies",
+    "amount": 230.94,
+    "type": "expense",
+    "category": "Other",
+    "date": "2024-05-25"
+  },
+  {
+    "id": 76,
+    "description": "School stationery supplies",
+    "amount": 318.5,
+    "type": "expense",
+    "category": "Food",
+    "date": "2024-07-03"
+  },
+  {
+    "id": 77,
+    "description": "Electricity utility bill payment",
+    "amount": 351.59,
+    "type": "expense",
+    "category": "Salary",
+    "date": "2024-12-20"
+  },
+  {
+    "id": 78,
+    "description": "Electricity utility bill payment",
+    "amount": 467.76,
+    "type": "expense",
+    "category": "Health",
+    "date": "2024-01-29"
+  },
+  {
+    "id": 79,
+    "description": "Water bill settlement",
+    "amount": 56.66,
+    "type": "expense",
+    "category": "Food",
+    "date": "2024-09-19"
+  },
+  {
+    "id": 80,
+    "description": "Coffee shop takeaway order",
+    "amount": 431.77,
+    "type": "expense",
+    "category": "Other",
+    "date": "2024-01-30"
+  },
+  {
+    "id": 81,
+    "description": "Bank interest earned",
+    "amount": 1973.03,
+    "type": "income",
+    "category": "Salary",
+    "date": "2024-12-12"
+  },
+  {
+    "id": 82,
+    "description": "Cashback reward deposited",
+    "amount": 2491.37,
+    "type": "income",
+    "category": "Bills",
+    "date": "2024-05-16"
+  },
+  {
+    "id": 83,
+    "description": "Gym membership monthly fee",
+    "amount": 432.3,
+    "type": "expense",
+    "category": "Shopping",
+    "date": "2024-09-29"
+  },
+  {
+    "id": 84,
+    "description": "Part\u2011time earnings received",
+    "amount": 824.92,
+    "type": "income",
+    "category": "Bills",
+    "date": "2024-02-27"
+  },
+  {
+    "id": 85,
+    "description": "Restaurant dine\u2011in expense",
+    "amount": 308.55,
+    "type": "expense",
+    "category": "Bills",
+    "date": "2024-01-12"
+  },
+  {
+    "id": 86,
+    "description": "Pharmacy medical supplies",
+    "amount": 375.45,
+    "type": "expense",
+    "category": "Other",
+    "date": "2024-06-16"
+  },
+  {
+    "id": 87,
+    "description": "Coffee shop takeaway order",
+    "amount": 252.07,
+    "type": "expense",
+    "category": "Work",
+    "date": "2024-02-06"
+  },
+  {
+    "id": 88,
+    "description": "School stationery supplies",
+    "amount": 177.32,
+    "type": "expense",
+    "category": "Work",
+    "date": "2024-12-18"
+  },
+  {
+    "id": 89,
+    "description": "Refund credited to account",
+    "amount": 1676.29,
+    "type": "income",
+    "category": "Work",
+    "date": "2024-07-11"
+  },
+  {
+    "id": 90,
+    "description": "Dividend payout received",
+    "amount": 1051.97,
+    "type": "income",
+    "category": "Health",
+    "date": "2024-11-06"
+  },
+  {
+    "id": 91,
+    "description": "Monthly salary received",
+    "amount": 2885.31,
+    "type": "income",
+    "category": "Bills",
+    "date": "2024-09-20"
+  },
+  {
+    "id": 92,
+    "description": "School stationery supplies",
+    "amount": 209.38,
+    "type": "expense",
+    "category": "Salary",
+    "date": "2024-04-09"
+  },
+  {
+    "id": 93,
+    "description": "Electricity utility bill payment",
+    "amount": 183.56,
+    "type": "expense",
+    "category": "Entertainment",
+    "date": "2024-04-11"
+  },
+  {
+    "id": 94,
+    "description": "Cashback reward deposited",
+    "amount": 106.89,
+    "type": "income",
+    "category": "Other",
+    "date": "2024-11-17"
+  },
+  {
+    "id": 95,
+    "description": "Taxi fare for city travel",
+    "amount": 217.15,
+    "type": "expense",
+    "category": "Shopping",
+    "date": "2024-11-19"
+  },
+  {
+    "id": 96,
+    "description": "House rent monthly payment",
+    "amount": 416.68,
+    "type": "expense",
+    "category": "Bills",
+    "date": "2024-07-03"
+  },
+  {
+    "id": 97,
+    "description": "Water bill settlement",
+    "amount": 155.46,
+    "type": "expense",
+    "category": "Work",
+    "date": "2024-10-31"
+  },
+  {
+    "id": 98,
+    "description": "Freelance project payment",
+    "amount": 1007.68,
+    "type": "income",
+    "category": "Food",
+    "date": "2024-07-02"
+  },
+  {
+    "id": 99,
+    "description": "Movie tickets at cinema",
+    "amount": 360.84,
+    "type": "expense",
+    "category": "Entertainment",
+    "date": "2024-12-12"
+  },
+  {
+    "id": 100,
+    "description": "Fuel refill at petrol station",
+    "amount": 434.48,
+    "type": "expense",
+    "category": "Salary",
+    "date": "2024-08-21"
+  },
+  {
+    "id": 101,
+    "description": "Part\u2011time earnings received",
+    "amount": 375.65,
+    "type": "income",
+    "category": "Bills",
+    "date": "2024-08-25"
+  },
+  {
+    "id": 102,
+    "description": "Refund credited to account",
+    "amount": 1406.36,
+    "type": "income",
+    "category": "Transport",
+    "date": "2024-10-23"
+  },
+  {
+    "id": 103,
+    "description": "Gym membership monthly fee",
+    "amount": 93.13,
+    "type": "expense",
+    "category": "Work",
+    "date": "2024-10-17"
+  },
+  {
+    "id": 104,
+    "description": "Taxi fare for city travel",
+    "amount": 158.48,
+    "type": "expense",
+    "category": "Work",
+    "date": "2024-11-02"
+  },
+  {
+    "id": 105,
+    "description": "Movie tickets at cinema",
+    "amount": 105.72,
+    "type": "expense",
+    "category": "Food",
+    "date": "2024-08-27"
+  },
+  {
+    "id": 106,
+    "description": "Electricity utility bill payment",
+    "amount": 362.94,
+    "type": "expense",
+    "category": "Entertainment",
+    "date": "2024-01-30"
+  },
+  {
+    "id": 107,
+    "description": "Water bill settlement",
+    "amount": 412.3,
+    "type": "expense",
+    "category": "Other",
+    "date": "2024-11-09"
+  },
+  {
+    "id": 108,
+    "description": "Commission income received",
+    "amount": 2528.89,
+    "type": "income",
+    "category": "Food",
+    "date": "2024-09-02"
+  },
+  {
+    "id": 109,
+    "description": "Commission income received",
+    "amount": 989.01,
+    "type": "income",
+    "category": "Health",
+    "date": "2024-06-13"
+  },
+  {
+    "id": 110,
+    "description": "Commission income received",
+    "amount": 2956.82,
+    "type": "income",
+    "category": "Food",
+    "date": "2024-01-03"
+  },
+  {
+    "id": 111,
+    "description": "Monthly salary received",
+    "amount": 2514.12,
+    "type": "income",
+    "category": "Work",
+    "date": "2024-02-20"
+  },
+  {
+    "id": 112,
+    "description": "Restaurant dine\u2011in expense",
+    "amount": 303.98,
+    "type": "expense",
+    "category": "Other",
+    "date": "2024-09-29"
+  },
+  {
+    "id": 113,
+    "description": "Freelance project payment",
+    "amount": 2929.88,
+    "type": "income",
+    "category": "Transport",
+    "date": "2024-07-08"
+  },
+  {
+    "id": 114,
+    "description": "Coffee shop takeaway order",
+    "amount": 143.06,
+    "type": "expense",
+    "category": "Entertainment",
+    "date": "2024-12-12"
+  },
+  {
+    "id": 115,
+    "description": "Bank interest earned",
+    "amount": 1247.48,
+    "type": "income",
+    "category": "Other",
+    "date": "2024-05-09"
+  },
+  {
+    "id": 116,
+    "description": "Freelance project payment",
+    "amount": 1262.29,
+    "type": "income",
+    "category": "Entertainment",
+    "date": "2024-03-12"
+  },
+  {
+    "id": 117,
+    "description": "Coffee shop takeaway order",
+    "amount": 280.1,
+    "type": "expense",
+    "category": "Shopping",
+    "date": "2024-10-12"
+  },
+  {
+    "id": 118,
+    "description": "Dividend payout received",
+    "amount": 822.73,
+    "type": "income",
+    "category": "Health",
+    "date": "2024-09-30"
+  },
+  {
+    "id": 119,
+    "description": "Part\u2011time earnings received",
+    "amount": 1319.93,
+    "type": "income",
+    "category": "Health",
+    "date": "2024-09-11"
+  },
+  {
+    "id": 120,
+    "description": "Coffee shop takeaway order",
+    "amount": 316.47,
+    "type": "expense",
+    "category": "Other",
+    "date": "2024-09-14"
+  },
+  {
+    "id": 121,
+    "description": "Cashback reward deposited",
+    "amount": 1456.24,
+    "type": "income",
+    "category": "Work",
+    "date": "2024-06-15"
+  },
+  {
+    "id": 122,
+    "description": "Freelance project payment",
+    "amount": 1193.5,
+    "type": "income",
+    "category": "Bills",
+    "date": "2024-01-09"
+  },
+  {
+    "id": 123,
+    "description": "Restaurant dine\u2011in expense",
+    "amount": 428.87,
+    "type": "expense",
+    "category": "Bills",
+    "date": "2024-05-29"
+  },
+  {
+    "id": 124,
+    "description": "Dividend payout received",
+    "amount": 420.77,
+    "type": "income",
+    "category": "Health",
+    "date": "2024-11-11"
+  },
+  {
+    "id": 125,
+    "description": "Restaurant dine\u2011in expense",
+    "amount": 124.45,
+    "type": "expense",
+    "category": "Health",
+    "date": "2024-01-05"
+  },
+  {
+    "id": 126,
+    "description": "Coffee shop takeaway order",
+    "amount": 251.64,
+    "type": "expense",
+    "category": "Other",
+    "date": "2024-07-28"
+  },
+  {
+    "id": 127,
+    "description": "Cashback reward deposited",
+    "amount": 496.3,
+    "type": "income",
+    "category": "Entertainment",
+    "date": "2024-02-09"
+  },
+  {
+    "id": 128,
+    "description": "Monthly salary received",
+    "amount": 2042.05,
+    "type": "income",
+    "category": "Entertainment",
+    "date": "2024-07-20"
+  },
+  {
+    "id": 129,
+    "description": "Pharmacy medical supplies",
+    "amount": 224.67,
+    "type": "expense",
+    "category": "Transport",
+    "date": "2024-01-26"
+  },
+  {
+    "id": 130,
+    "description": "Mobile data recharge payment",
+    "amount": 178.97,
+    "type": "expense",
+    "category": "Entertainment",
+    "date": "2024-07-09"
+  },
+  {
+    "id": 131,
+    "description": "Water bill settlement",
+    "amount": 449.62,
+    "type": "expense",
+    "category": "Other",
+    "date": "2024-10-31"
+  },
+  {
+    "id": 132,
+    "description": "Pharmacy medical supplies",
+    "amount": 490.33,
+    "type": "expense",
+    "category": "Health",
+    "date": "2024-04-13"
+  },
+  {
+    "id": 133,
+    "description": "Mobile data recharge payment",
+    "amount": 455.59,
+    "type": "expense",
+    "category": "Other",
+    "date": "2024-05-27"
+  },
+  {
+    "id": 134,
+    "description": "Monthly salary received",
+    "amount": 780.28,
+    "type": "income",
+    "category": "Food",
+    "date": "2024-11-14"
+  },
+  {
+    "id": 135,
+    "description": "Clothing store purchase",
+    "amount": 66.71,
+    "type": "expense",
+    "category": "Other",
+    "date": "2024-04-04"
+  },
+  {
+    "id": 136,
+    "description": "Water bill settlement",
+    "amount": 415.9,
+    "type": "expense",
+    "category": "Food",
+    "date": "2024-03-18"
+  },
+  {
+    "id": 137,
+    "description": "Bonus payout from employer",
+    "amount": 1059.22,
+    "type": "income",
+    "category": "Food",
+    "date": "2024-01-29"
+  },
+  {
+    "id": 138,
+    "description": "Taxi fare for city travel",
+    "amount": 92.01,
+    "type": "expense",
+    "category": "Shopping",
+    "date": "2024-01-01"
+  },
+  {
+    "id": 139,
+    "description": "Client invoice settlement",
+    "amount": 2957.42,
+    "type": "income",
+    "category": "Other",
+    "date": "2024-03-08"
+  },
+  {
+    "id": 140,
+    "description": "Restaurant dine\u2011in expense",
+    "amount": 44.39,
+    "type": "expense",
+    "category": "Shopping",
+    "date": "2024-05-04"
+  },
+  {
+    "id": 141,
+    "description": "Commission income received",
+    "amount": 2334.51,
+    "type": "income",
+    "category": "Other",
+    "date": "2024-03-15"
+  },
+  {
+    "id": 142,
+    "description": "Pharmacy medical supplies",
+    "amount": 77.2,
+    "type": "expense",
+    "category": "Entertainment",
+    "date": "2024-09-26"
+  },
+  {
+    "id": 143,
+    "description": "Bank interest earned",
+    "amount": 292.2,
+    "type": "income",
+    "category": "Health",
+    "date": "2024-04-10"
+  },
+  {
+    "id": 144,
+    "description": "Grocery shopping at supermarket",
+    "amount": 203.88,
+    "type": "expense",
+    "category": "Food",
+    "date": "2024-02-28"
+  },
+  {
+    "id": 145,
+    "description": "Clothing store purchase",
+    "amount": 363.42,
+    "type": "expense",
+    "category": "Salary",
+    "date": "2024-10-19"
+  },
+  {
+    "id": 146,
+    "description": "Refund credited to account",
+    "amount": 1352.53,
+    "type": "income",
+    "category": "Salary",
+    "date": "2024-03-01"
+  },
+  {
+    "id": 147,
+    "description": "Taxi fare for city travel",
+    "amount": 386.03,
+    "type": "expense",
+    "category": "Salary",
+    "date": "2024-04-13"
+  },
+  {
+    "id": 148,
+    "description": "Electricity utility bill payment",
+    "amount": 118.72,
+    "type": "expense",
+    "category": "Shopping",
+    "date": "2024-10-22"
+  },
+  {
+    "id": 149,
+    "description": "Refund credited to account",
+    "amount": 179.6,
+    "type": "income",
+    "category": "Entertainment",
+    "date": "2024-01-15"
+  },
+  {
+    "id": 150,
+    "description": "Part\u2011time earnings received",
+    "amount": 151.11,
+    "type": "income",
+    "category": "Health",
+    "date": "2024-08-23"
+  },
+  {
+    "id": 151,
+    "description": "Cashback reward deposited",
+    "amount": 1435.45,
+    "type": "income",
+    "category": "Entertainment",
+    "date": "2024-03-27"
+  },
+  {
+    "id": 152,
+    "description": "Pharmacy medical supplies",
+    "amount": 66.0,
+    "type": "expense",
+    "category": "Health",
+    "date": "2024-10-29"
+  },
+  {
+    "id": 153,
+    "description": "Monthly salary received",
+    "amount": 965.22,
+    "type": "income",
+    "category": "Health",
+    "date": "2024-04-15"
+  },
+  {
+    "id": 154,
+    "description": "Coffee shop takeaway order",
+    "amount": 240.66,
+    "type": "expense",
+    "category": "Work",
+    "date": "2024-06-07"
+  },
+  {
+    "id": 155,
+    "description": "Coffee shop takeaway order",
+    "amount": 485.58,
+    "type": "expense",
+    "category": "Entertainment",
+    "date": "2024-01-09"
+  },
+  {
+    "id": 156,
+    "description": "Gym membership monthly fee",
+    "amount": 416.12,
+    "type": "expense",
+    "category": "Work",
+    "date": "2024-08-08"
+  },
+  {
+    "id": 157,
+    "description": "Refund credited to account",
+    "amount": 890.43,
+    "type": "income",
+    "category": "Bills",
+    "date": "2024-05-12"
+  },
+  {
+    "id": 158,
+    "description": "Freelance project payment",
+    "amount": 1684.21,
+    "type": "income",
+    "category": "Transport",
+    "date": "2024-05-08"
+  },
+  {
+    "id": 159,
+    "description": "Clothing store purchase",
+    "amount": 15.3,
+    "type": "expense",
+    "category": "Transport",
+    "date": "2024-03-12"
+  },
+  {
+    "id": 160,
+    "description": "Water bill settlement",
+    "amount": 292.53,
+    "type": "expense",
+    "category": "Shopping",
+    "date": "2024-12-13"
+  },
+  {
+    "id": 161,
+    "description": "School stationery supplies",
+    "amount": 61.09,
+    "type": "expense",
+    "category": "Entertainment",
+    "date": "2024-11-27"
+  },
+  {
+    "id": 162,
+    "description": "Gym membership monthly fee",
+    "amount": 378.24,
+    "type": "expense",
+    "category": "Entertainment",
+    "date": "2024-01-31"
+  },
+  {
+    "id": 163,
+    "description": "Bonus payout from employer",
+    "amount": 2180.13,
+    "type": "income",
+    "category": "Other",
+    "date": "2024-09-24"
+  },
+  {
+    "id": 164,
+    "description": "Monthly salary received",
+    "amount": 2403.27,
+    "type": "income",
+    "category": "Salary",
+    "date": "2024-01-13"
+  },
+  {
+    "id": 165,
+    "description": "Bonus payout from employer",
+    "amount": 1257.78,
+    "type": "income",
+    "category": "Transport",
+    "date": "2024-08-30"
+  },
+  {
+    "id": 166,
+    "description": "House rent monthly payment",
+    "amount": 406.82,
+    "type": "expense",
+    "category": "Salary",
+    "date": "2024-02-14"
+  },
+  {
+    "id": 167,
+    "description": "School stationery supplies",
+    "amount": 134.21,
+    "type": "expense",
+    "category": "Shopping",
+    "date": "2024-07-11"
+  },
+  {
+    "id": 168,
+    "description": "Client invoice settlement",
+    "amount": 2397.04,
+    "type": "income",
+    "category": "Work",
+    "date": "2024-07-16"
+  },
+  {
+    "id": 169,
+    "description": "Mobile data recharge payment",
+    "amount": 483.62,
+    "type": "expense",
+    "category": "Salary",
+    "date": "2024-04-08"
+  },
+  {
+    "id": 170,
+    "description": "Restaurant dine\u2011in expense",
+    "amount": 358.56,
+    "type": "expense",
+    "category": "Transport",
+    "date": "2024-12-19"
+  },
+  {
+    "id": 171,
+    "description": "Online shopping purchase",
+    "amount": 388.97,
+    "type": "expense",
+    "category": "Work",
+    "date": "2024-05-02"
+  },
+  {
+    "id": 172,
+    "description": "Bank interest earned",
+    "amount": 722.56,
+    "type": "income",
+    "category": "Shopping",
+    "date": "2024-08-16"
+  },
+  {
+    "id": 173,
+    "description": "Client invoice settlement",
+    "amount": 190.49,
+    "type": "income",
+    "category": "Shopping",
+    "date": "2024-09-19"
+  },
+  {
+    "id": 174,
+    "description": "Gym membership monthly fee",
+    "amount": 485.49,
+    "type": "expense",
+    "category": "Bills",
+    "date": "2024-02-29"
+  },
+  {
+    "id": 175,
+    "description": "House rent monthly payment",
+    "amount": 193.68,
+    "type": "expense",
+    "category": "Shopping",
+    "date": "2024-04-05"
+  },
+  {
+    "id": 176,
+    "description": "Movie tickets at cinema",
+    "amount": 434.48,
+    "type": "expense",
+    "category": "Food",
+    "date": "2024-10-13"
+  },
+  {
+    "id": 177,
+    "description": "Freelance project payment",
+    "amount": 2019.38,
+    "type": "income",
+    "category": "Work",
+    "date": "2024-08-01"
+  },
+  {
+    "id": 178,
+    "description": "Monthly salary received",
+    "amount": 1457.65,
+    "type": "income",
+    "category": "Entertainment",
+    "date": "2024-03-18"
+  },
+  {
+    "id": 179,
+    "description": "Freelance project payment",
+    "amount": 749.07,
+    "type": "income",
+    "category": "Food",
+    "date": "2024-04-20"
+  },
+  {
+    "id": 180,
+    "description": "Dividend payout received",
+    "amount": 1063.81,
+    "type": "income",
+    "category": "Work",
+    "date": "2024-05-22"
+  },
+  {
+    "id": 181,
+    "description": "School stationery supplies",
+    "amount": 219.85,
+    "type": "expense",
+    "category": "Work",
+    "date": "2024-09-23"
+  },
+  {
+    "id": 182,
+    "description": "Monthly salary received",
+    "amount": 1548.49,
+    "type": "income",
+    "category": "Other",
+    "date": "2024-01-02"
+  },
+  {
+    "id": 183,
+    "description": "Bonus payout from employer",
+    "amount": 414.87,
+    "type": "income",
+    "category": "Work",
+    "date": "2024-12-24"
+  },
+  {
+    "id": 184,
+    "description": "Grocery shopping at supermarket",
+    "amount": 411.09,
+    "type": "expense",
+    "category": "Health",
+    "date": "2024-06-29"
+  },
+  {
+    "id": 185,
+    "description": "Movie tickets at cinema",
+    "amount": 403.99,
+    "type": "expense",
+    "category": "Other",
+    "date": "2024-08-30"
+  },
+  {
+    "id": 186,
+    "description": "Dividend payout received",
+    "amount": 29.54,
+    "type": "income",
+    "category": "Health",
+    "date": "2024-12-23"
+  },
+  {
+    "id": 187,
+    "description": "Cashback reward deposited",
+    "amount": 2647.72,
+    "type": "income",
+    "category": "Shopping",
+    "date": "2024-07-20"
+  },
+  {
+    "id": 188,
+    "description": "Online shopping purchase",
+    "amount": 181.17,
+    "type": "expense",
+    "category": "Bills",
+    "date": "2024-11-01"
+  },
+  {
+    "id": 189,
+    "description": "Mobile data recharge payment",
+    "amount": 300.12,
+    "type": "expense",
+    "category": "Shopping",
+    "date": "2024-12-08"
+  },
+  {
+    "id": 190,
+    "description": "Cashback reward deposited",
+    "amount": 2087.06,
+    "type": "income",
+    "category": "Salary",
+    "date": "2024-08-07"
+  },
+  {
+    "id": 191,
+    "description": "Freelance project payment",
+    "amount": 1810.12,
+    "type": "income",
+    "category": "Transport",
+    "date": "2024-06-04"
+  },
+  {
+    "id": 192,
+    "description": "House rent monthly payment",
+    "amount": 82.88,
+    "type": "expense",
+    "category": "Work",
+    "date": "2024-10-20"
+  },
+  {
+    "id": 193,
+    "description": "Clothing store purchase",
+    "amount": 274.0,
+    "type": "expense",
+    "category": "Entertainment",
+    "date": "2024-05-05"
+  },
+  {
+    "id": 194,
+    "description": "Online shopping purchase",
+    "amount": 249.02,
+    "type": "expense",
+    "category": "Food",
+    "date": "2024-11-23"
+  },
+  {
+    "id": 195,
+    "description": "Freelance project payment",
+    "amount": 448.13,
+    "type": "income",
+    "category": "Salary",
+    "date": "2024-07-12"
+  },
+  {
+    "id": 196,
+    "description": "Taxi fare for city travel",
+    "amount": 348.48,
+    "type": "expense",
+    "category": "Salary",
+    "date": "2024-05-29"
+  },
+  {
+    "id": 197,
+    "description": "Bonus payout from employer",
+    "amount": 2273.21,
+    "type": "income",
+    "category": "Health",
+    "date": "2024-10-25"
+  },
+  {
+    "id": 198,
+    "description": "Fuel refill at petrol station",
+    "amount": 406.01,
+    "type": "expense",
+    "category": "Entertainment",
+    "date": "2024-07-08"
+  },
+  {
+    "id": 199,
+    "description": "Water bill settlement",
+    "amount": 311.33,
+    "type": "expense",
+    "category": "Transport",
+    "date": "2024-01-06"
+  },
+  {
+    "id": 200,
+    "description": "Movie tickets at cinema",
+    "amount": 442.76,
+    "type": "expense",
+    "category": "Other",
+    "date": "2024-05-06"
+  },
+  {
+    "id": 201,
+    "description": "Cashback reward deposited",
+    "amount": 470.1,
+    "type": "income",
+    "category": "Bills",
+    "date": "2024-09-21"
+  },
+  {
+    "id": 202,
+    "description": "Freelance project payment",
+    "amount": 1951.31,
+    "type": "income",
+    "category": "Health",
+    "date": "2024-11-20"
+  },
+  {
+    "id": 203,
+    "description": "Bank interest earned",
+    "amount": 2097.25,
+    "type": "income",
+    "category": "Food",
+    "date": "2024-01-03"
+  },
+  {
+    "id": 204,
+    "description": "Dividend payout received",
+    "amount": 2570.94,
+    "type": "income",
+    "category": "Health",
+    "date": "2024-12-18"
+  },
+  {
+    "id": 205,
+    "description": "Electricity utility bill payment",
+    "amount": 218.14,
+    "type": "expense",
+    "category": "Bills",
+    "date": "2024-07-21"
+  },
+  {
+    "id": 206,
+    "description": "Refund credited to account",
+    "amount": 1789.22,
+    "type": "income",
+    "category": "Bills",
+    "date": "2024-01-04"
+  },
+  {
+    "id": 207,
+    "description": "Bank interest earned",
+    "amount": 1371.84,
+    "type": "income",
+    "category": "Shopping",
+    "date": "2024-09-11"
+  },
+  {
+    "id": 208,
+    "description": "Taxi fare for city travel",
+    "amount": 22.9,
+    "type": "expense",
+    "category": "Entertainment",
+    "date": "2024-03-21"
+  },
+  {
+    "id": 209,
+    "description": "Monthly salary received",
+    "amount": 1389.12,
+    "type": "income",
+    "category": "Food",
+    "date": "2024-07-25"
+  },
+  {
+    "id": 210,
+    "description": "House rent monthly payment",
+    "amount": 429.36,
+    "type": "expense",
+    "category": "Bills",
+    "date": "2024-11-29"
+  },
+  {
+    "id": 211,
+    "description": "Grocery shopping at supermarket",
+    "amount": 489.81,
+    "type": "expense",
+    "category": "Other",
+    "date": "2024-02-08"
+  },
+  {
+    "id": 212,
+    "description": "House rent monthly payment",
+    "amount": 357.52,
+    "type": "expense",
+    "category": "Salary",
+    "date": "2024-08-17"
+  },
+  {
+    "id": 213,
+    "description": "Pharmacy medical supplies",
+    "amount": 445.92,
+    "type": "expense",
+    "category": "Entertainment",
+    "date": "2024-10-23"
+  },
+  {
+    "id": 214,
+    "description": "Gym membership monthly fee",
+    "amount": 347.98,
+    "type": "expense",
+    "category": "Bills",
+    "date": "2024-07-23"
+  },
+  {
+    "id": 215,
+    "description": "Cashback reward deposited",
+    "amount": 942.06,
+    "type": "income",
+    "category": "Work",
+    "date": "2024-09-23"
+  },
+  {
+    "id": 216,
+    "description": "Coffee shop takeaway order",
+    "amount": 453.96,
+    "type": "expense",
+    "category": "Health",
+    "date": "2024-08-08"
+  },
+  {
+    "id": 217,
+    "description": "Freelance project payment",
+    "amount": 1704.98,
+    "type": "income",
+    "category": "Shopping",
+    "date": "2024-06-13"
+  },
+  {
+    "id": 218,
+    "description": "Part\u2011time earnings received",
+    "amount": 2852.56,
+    "type": "income",
+    "category": "Other",
+    "date": "2024-08-10"
+  },
+  {
+    "id": 219,
+    "description": "Refund credited to account",
+    "amount": 1800.43,
+    "type": "income",
+    "category": "Entertainment",
+    "date": "2024-11-15"
+  },
+  {
+    "id": 220,
+    "description": "Electricity utility bill payment",
+    "amount": 376.7,
+    "type": "expense",
+    "category": "Entertainment",
+    "date": "2024-03-09"
+  },
+  {
+    "id": 221,
+    "description": "Bonus payout from employer",
+    "amount": 1902.48,
+    "type": "income",
+    "category": "Transport",
+    "date": "2024-09-06"
+  },
+  {
+    "id": 222,
+    "description": "Client invoice settlement",
+    "amount": 2229.32,
+    "type": "income",
+    "category": "Other",
+    "date": "2024-06-08"
+  },
+  {
+    "id": 223,
+    "description": "Client invoice settlement",
+    "amount": 1711.27,
+    "type": "income",
+    "category": "Entertainment",
+    "date": "2024-08-29"
+  },
+  {
+    "id": 224,
+    "description": "Water bill settlement",
+    "amount": 453.89,
+    "type": "expense",
+    "category": "Shopping",
+    "date": "2024-11-04"
+  },
+  {
+    "id": 225,
+    "description": "Dividend payout received",
+    "amount": 1977.33,
+    "type": "income",
+    "category": "Work",
+    "date": "2024-09-03"
+  },
+  {
+    "id": 226,
+    "description": "Commission income received",
+    "amount": 2041.81,
+    "type": "income",
+    "category": "Work",
+    "date": "2024-07-31"
+  },
+  {
+    "id": 227,
+    "description": "Client invoice settlement",
+    "amount": 2886.51,
+    "type": "income",
+    "category": "Health",
+    "date": "2024-06-20"
+  },
+  {
+    "id": 228,
+    "description": "Commission income received",
+    "amount": 1325.68,
+    "type": "income",
+    "category": "Transport",
+    "date": "2024-01-28"
+  },
+  {
+    "id": 229,
+    "description": "Mobile data recharge payment",
+    "amount": 200.2,
+    "type": "expense",
+    "category": "Work",
+    "date": "2024-11-30"
+  },
+  {
+    "id": 230,
+    "description": "Monthly salary received",
+    "amount": 2209.24,
+    "type": "income",
+    "category": "Food",
+    "date": "2024-01-29"
+  },
+  {
+    "id": 231,
+    "description": "Taxi fare for city travel",
+    "amount": 437.35,
+    "type": "expense",
+    "category": "Work",
+    "date": "2024-03-15"
+  },
+  {
+    "id": 232,
+    "description": "Coffee shop takeaway order",
+    "amount": 155.99,
+    "type": "expense",
+    "category": "Transport",
+    "date": "2024-02-18"
+  },
+  {
+    "id": 233,
+    "description": "Grocery shopping at supermarket",
+    "amount": 291.81,
+    "type": "expense",
+    "category": "Other",
+    "date": "2024-01-08"
+  },
+  {
+    "id": 234,
+    "description": "Electricity utility bill payment",
+    "amount": 116.42,
+    "type": "expense",
+    "category": "Salary",
+    "date": "2024-10-11"
+  },
+  {
+    "id": 235,
+    "description": "Bank interest earned",
+    "amount": 2990.37,
+    "type": "income",
+    "category": "Bills",
+    "date": "2024-08-21"
+  },
+  {
+    "id": 236,
+    "description": "Freelance project payment",
+    "amount": 1270.48,
+    "type": "income",
+    "category": "Other",
+    "date": "2024-04-07"
+  },
+  {
+    "id": 237,
+    "description": "Cashback reward deposited",
+    "amount": 2672.38,
+    "type": "income",
+    "category": "Health",
+    "date": "2024-06-29"
+  },
+  {
+    "id": 238,
+    "description": "Commission income received",
+    "amount": 1088.1,
+    "type": "income",
+    "category": "Bills",
+    "date": "2024-06-03"
+  },
+  {
+    "id": 239,
+    "description": "Freelance project payment",
+    "amount": 2191.1,
+    "type": "income",
+    "category": "Transport",
+    "date": "2024-10-31"
+  },
+  {
+    "id": 240,
+    "description": "Taxi fare for city travel",
+    "amount": 194.14,
+    "type": "expense",
+    "category": "Salary",
+    "date": "2024-05-02"
+  },
+  {
+    "id": 241,
+    "description": "House rent monthly payment",
+    "amount": 37.29,
+    "type": "expense",
+    "category": "Other",
+    "date": "2024-05-06"
+  },
+  {
+    "id": 242,
+    "description": "House rent monthly payment",
+    "amount": 471.61,
+    "type": "expense",
+    "category": "Salary",
+    "date": "2024-10-06"
+  },
+  {
+    "id": 243,
+    "description": "Bank interest earned",
+    "amount": 2892.87,
+    "type": "income",
+    "category": "Food",
+    "date": "2024-10-01"
+  },
+  {
+    "id": 244,
+    "description": "Water bill settlement",
+    "amount": 117.04,
+    "type": "expense",
+    "category": "Entertainment",
+    "date": "2024-03-17"
+  },
+  {
+    "id": 245,
+    "description": "Fuel refill at petrol station",
+    "amount": 235.05,
+    "type": "expense",
+    "category": "Shopping",
+    "date": "2024-11-08"
+  },
+  {
+    "id": 246,
+    "description": "Cashback reward deposited",
+    "amount": 1148.17,
+    "type": "income",
+    "category": "Shopping",
+    "date": "2024-12-29"
+  },
+  {
+    "id": 247,
+    "description": "Client invoice settlement",
+    "amount": 579.3,
+    "type": "income",
+    "category": "Work",
+    "date": "2024-12-26"
+  },
+  {
+    "id": 248,
+    "description": "Part\u2011time earnings received",
+    "amount": 2939.8,
+    "type": "income",
+    "category": "Transport",
+    "date": "2024-10-01"
+  },
+  {
+    "id": 249,
+    "description": "Refund credited to account",
+    "amount": 405.87,
+    "type": "income",
+    "category": "Entertainment",
+    "date": "2024-10-05"
+  },
+  {
+    "id": 250,
+    "description": "Taxi fare for city travel",
+    "amount": 299.59,
+    "type": "expense",
+    "category": "Salary",
+    "date": "2024-10-10"
+  },
+  {
+    "id": 251,
+    "description": "Client invoice settlement",
+    "amount": 1796.44,
+    "type": "income",
+    "category": "Work",
+    "date": "2024-05-20"
+  },
+  {
+    "id": 252,
+    "description": "Freelance project payment",
+    "amount": 2625.32,
+    "type": "income",
+    "category": "Transport",
+    "date": "2024-04-21"
+  },
+  {
+    "id": 253,
+    "description": "Pharmacy medical supplies",
+    "amount": 180.82,
+    "type": "expense",
+    "category": "Work",
+    "date": "2024-10-30"
+  },
+  {
+    "id": 254,
+    "description": "Pharmacy medical supplies",
+    "amount": 257.71,
+    "type": "expense",
+    "category": "Salary",
+    "date": "2024-08-18"
+  },
+  {
+    "id": 255,
+    "description": "Fuel refill at petrol station",
+    "amount": 267.92,
+    "type": "expense",
+    "category": "Salary",
+    "date": "2024-03-10"
+  },
+  {
+    "id": 256,
+    "description": "House rent monthly payment",
+    "amount": 149.04,
+    "type": "expense",
+    "category": "Work",
+    "date": "2024-01-11"
+  },
+  {
+    "id": 257,
+    "description": "Grocery shopping at supermarket",
+    "amount": 116.69,
+    "type": "expense",
+    "category": "Other",
+    "date": "2024-02-11"
+  },
+  {
+    "id": 258,
+    "description": "Restaurant dine\u2011in expense",
+    "amount": 412.93,
+    "type": "expense",
+    "category": "Transport",
+    "date": "2024-02-11"
+  },
+  {
+    "id": 259,
+    "description": "Client invoice settlement",
+    "amount": 2330.42,
+    "type": "income",
+    "category": "Transport",
+    "date": "2024-11-29"
+  },
+  {
+    "id": 260,
+    "description": "Electricity utility bill payment",
+    "amount": 471.89,
+    "type": "expense",
+    "category": "Work",
+    "date": "2024-03-21"
+  },
+  {
+    "id": 261,
+    "description": "Bonus payout from employer",
+    "amount": 2619.8,
+    "type": "income",
+    "category": "Shopping",
+    "date": "2024-12-15"
+  },
+  {
+    "id": 262,
+    "description": "Mobile data recharge payment",
+    "amount": 455.21,
+    "type": "expense",
+    "category": "Salary",
+    "date": "2024-07-08"
+  },
+  {
+    "id": 263,
+    "description": "Coffee shop takeaway order",
+    "amount": 406.22,
+    "type": "expense",
+    "category": "Bills",
+    "date": "2024-05-09"
+  },
+  {
+    "id": 264,
+    "description": "Taxi fare for city travel",
+    "amount": 445.27,
+    "type": "expense",
+    "category": "Transport",
+    "date": "2024-10-03"
+  },
+  {
+    "id": 265,
+    "description": "Taxi fare for city travel",
+    "amount": 126.71,
+    "type": "expense",
+    "category": "Entertainment",
+    "date": "2024-03-31"
+  },
+  {
+    "id": 266,
+    "description": "Dividend payout received",
+    "amount": 1123.35,
+    "type": "income",
+    "category": "Other",
+    "date": "2024-04-30"
+  },
+  {
+    "id": 267,
+    "description": "Fuel refill at petrol station",
+    "amount": 43.76,
+    "type": "expense",
+    "category": "Other",
+    "date": "2024-09-19"
+  },
+  {
+    "id": 268,
+    "description": "Refund credited to account",
+    "amount": 2875.22,
+    "type": "income",
+    "category": "Health",
+    "date": "2024-03-11"
+  },
+  {
+    "id": 269,
+    "description": "Bank interest earned",
+    "amount": 1289.61,
+    "type": "income",
+    "category": "Bills",
+    "date": "2024-03-26"
+  },
+  {
+    "id": 270,
+    "description": "Refund credited to account",
+    "amount": 839.34,
+    "type": "income",
+    "category": "Food",
+    "date": "2024-06-04"
+  },
+  {
+    "id": 271,
+    "description": "Bonus payout from employer",
+    "amount": 1075.82,
+    "type": "income",
+    "category": "Other",
+    "date": "2024-09-04"
+  },
+  {
+    "id": 272,
+    "description": "Bonus payout from employer",
+    "amount": 56.5,
+    "type": "income",
+    "category": "Food",
+    "date": "2024-05-04"
+  },
+  {
+    "id": 273,
+    "description": "Refund credited to account",
+    "amount": 897.65,
+    "type": "income",
+    "category": "Health",
+    "date": "2024-11-30"
+  },
+  {
+    "id": 274,
+    "description": "Bonus payout from employer",
+    "amount": 2662.29,
+    "type": "income",
+    "category": "Work",
+    "date": "2024-05-03"
+  },
+  {
+    "id": 275,
+    "description": "Online shopping purchase",
+    "amount": 269.89,
+    "type": "expense",
+    "category": "Health",
+    "date": "2024-07-03"
+  },
+  {
+    "id": 276,
+    "description": "School stationery supplies",
+    "amount": 439.46,
+    "type": "expense",
+    "category": "Other",
+    "date": "2024-01-14"
+  },
+  {
+    "id": 277,
+    "description": "Fuel refill at petrol station",
+    "amount": 396.71,
+    "type": "expense",
+    "category": "Transport",
+    "date": "2024-02-18"
+  },
+  {
+    "id": 278,
+    "description": "Commission income received",
+    "amount": 832.43,
+    "type": "income",
+    "category": "Food",
+    "date": "2024-04-04"
+  },
+  {
+    "id": 279,
+    "description": "Dividend payout received",
+    "amount": 2643.53,
+    "type": "income",
+    "category": "Transport",
+    "date": "2024-07-03"
+  },
+  {
+    "id": 280,
+    "description": "Client invoice settlement",
+    "amount": 406.46,
+    "type": "income",
+    "category": "Work",
+    "date": "2024-02-16"
+  },
+  {
+    "id": 281,
+    "description": "Online shopping purchase",
+    "amount": 253.35,
+    "type": "expense",
+    "category": "Salary",
+    "date": "2024-06-01"
+  },
+  {
+    "id": 282,
+    "description": "Commission income received",
+    "amount": 996.17,
+    "type": "income",
+    "category": "Salary",
+    "date": "2024-06-20"
+  },
+  {
+    "id": 283,
+    "description": "Taxi fare for city travel",
+    "amount": 406.48,
+    "type": "expense",
+    "category": "Work",
+    "date": "2024-05-24"
+  },
+  {
+    "id": 284,
+    "description": "Electricity utility bill payment",
+    "amount": 193.18,
+    "type": "expense",
+    "category": "Salary",
+    "date": "2024-11-10"
+  },
+  {
+    "id": 285,
+    "description": "Restaurant dine\u2011in expense",
+    "amount": 53.54,
+    "type": "expense",
+    "category": "Salary",
+    "date": "2024-06-09"
+  },
+  {
+    "id": 286,
+    "description": "Cashback reward deposited",
+    "amount": 2533.05,
+    "type": "income",
+    "category": "Health",
+    "date": "2024-05-19"
+  },
+  {
+    "id": 287,
+    "description": "Electricity utility bill payment",
+    "amount": 222.75,
+    "type": "expense",
+    "category": "Entertainment",
+    "date": "2024-01-29"
+  },
+  {
+    "id": 288,
+    "description": "Freelance project payment",
+    "amount": 1596.14,
+    "type": "income",
+    "category": "Entertainment",
+    "date": "2024-10-16"
+  },
+  {
+    "id": 289,
+    "description": "House rent monthly payment",
+    "amount": 338.75,
+    "type": "expense",
+    "category": "Shopping",
+    "date": "2024-04-15"
+  },
+  {
+    "id": 290,
+    "description": "Bonus payout from employer",
+    "amount": 1940.33,
+    "type": "income",
+    "category": "Bills",
+    "date": "2024-08-18"
+  },
+  {
+    "id": 291,
+    "description": "Dividend payout received",
+    "amount": 1586.02,
+    "type": "income",
+    "category": "Bills",
+    "date": "2024-07-25"
+  },
+  {
+    "id": 292,
+    "description": "House rent monthly payment",
+    "amount": 131.75,
+    "type": "expense",
+    "category": "Salary",
+    "date": "2024-08-04"
+  },
+  {
+    "id": 293,
+    "description": "Clothing store purchase",
+    "amount": 429.04,
+    "type": "expense",
+    "category": "Transport",
+    "date": "2024-06-14"
+  },
+  {
+    "id": 294,
+    "description": "Fuel refill at petrol station",
+    "amount": 117.62,
+    "type": "expense",
+    "category": "Entertainment",
+    "date": "2024-10-12"
+  },
+  {
+    "id": 295,
+    "description": "Client invoice settlement",
+    "amount": 2088.24,
+    "type": "income",
+    "category": "Shopping",
+    "date": "2024-08-15"
+  },
+  {
+    "id": 296,
+    "description": "Cashback reward deposited",
+    "amount": 1728.19,
+    "type": "income",
+    "category": "Food",
+    "date": "2024-12-25"
+  },
+  {
+    "id": 297,
+    "description": "Commission income received",
+    "amount": 2585.88,
+    "type": "income",
+    "category": "Health",
+    "date": "2024-09-07"
+  },
+  {
+    "id": 298,
+    "description": "Refund credited to account",
+    "amount": 2013.53,
+    "type": "income",
+    "category": "Transport",
+    "date": "2024-09-21"
+  },
+  {
+    "id": 299,
+    "description": "Dividend payout received",
+    "amount": 465.71,
+    "type": "income",
+    "category": "Bills",
+    "date": "2024-04-08"
+  },
+  {
+    "id": 300,
+    "description": "Fuel refill at petrol station",
+    "amount": 319.52,
+    "type": "expense",
+    "category": "Salary",
+    "date": "2024-09-14"
+  },
+  {
+    "id": 301,
+    "description": "Pharmacy medical supplies",
+    "amount": 397.89,
+    "type": "expense",
+    "category": "Bills",
+    "date": "2024-10-17"
+  },
+  {
+    "id": 302,
+    "description": "Bank interest earned",
+    "amount": 2734.2,
+    "type": "income",
+    "category": "Shopping",
+    "date": "2024-07-20"
+  },
+  {
+    "id": 303,
+    "description": "Freelance project payment",
+    "amount": 2144.44,
+    "type": "income",
+    "category": "Food",
+    "date": "2024-09-01"
+  },
+  {
+    "id": 304,
+    "description": "Freelance project payment",
+    "amount": 770.84,
+    "type": "income",
+    "category": "Transport",
+    "date": "2024-04-12"
+  },
+  {
+    "id": 305,
+    "description": "Part\u2011time earnings received",
+    "amount": 347.04,
+    "type": "income",
+    "category": "Transport",
+    "date": "2024-08-31"
+  },
+  {
+    "id": 306,
+    "description": "Cashback reward deposited",
+    "amount": 1924.44,
+    "type": "income",
+    "category": "Health",
+    "date": "2024-12-12"
+  },
+  {
+    "id": 307,
+    "description": "Fuel refill at petrol station",
+    "amount": 341.25,
+    "type": "expense",
+    "category": "Transport",
+    "date": "2024-05-31"
+  },
+  {
+    "id": 308,
+    "description": "Refund credited to account",
+    "amount": 70.58,
+    "type": "income",
+    "category": "Work",
+    "date": "2024-06-26"
+  },
+  {
+    "id": 309,
+    "description": "Taxi fare for city travel",
+    "amount": 433.72,
+    "type": "expense",
+    "category": "Shopping",
+    "date": "2024-08-03"
+  },
+  {
+    "id": 310,
+    "description": "Online shopping purchase",
+    "amount": 210.97,
+    "type": "expense",
+    "category": "Entertainment",
+    "date": "2024-11-07"
+  },
+  {
+    "id": 311,
+    "description": "Bank interest earned",
+    "amount": 1555.23,
+    "type": "income",
+    "category": "Shopping",
+    "date": "2024-02-09"
+  },
+  {
+    "id": 312,
+    "description": "Grocery shopping at supermarket",
+    "amount": 192.55,
+    "type": "expense",
+    "category": "Health",
+    "date": "2024-10-06"
+  },
+  {
+    "id": 313,
+    "description": "Part\u2011time earnings received",
+    "amount": 1809.84,
+    "type": "income",
+    "category": "Shopping",
+    "date": "2024-08-10"
+  },
+  {
+    "id": 314,
+    "description": "Commission income received",
+    "amount": 2191.76,
+    "type": "income",
+    "category": "Health",
+    "date": "2024-10-25"
+  },
+  {
+    "id": 315,
+    "description": "Cashback reward deposited",
+    "amount": 2820.75,
+    "type": "income",
+    "category": "Transport",
+    "date": "2024-03-03"
+  },
+  {
+    "id": 316,
+    "description": "Restaurant dine\u2011in expense",
+    "amount": 343.94,
+    "type": "expense",
+    "category": "Work",
+    "date": "2024-11-26"
+  },
+  {
+    "id": 317,
+    "description": "Cashback reward deposited",
+    "amount": 1003.25,
+    "type": "income",
+    "category": "Shopping",
+    "date": "2024-02-04"
+  },
+  {
+    "id": 318,
+    "description": "Bank interest earned",
+    "amount": 495.8,
+    "type": "income",
+    "category": "Work",
+    "date": "2024-02-29"
+  },
+  {
+    "id": 319,
+    "description": "Fuel refill at petrol station",
+    "amount": 71.92,
+    "type": "expense",
+    "category": "Work",
+    "date": "2024-05-30"
+  },
+  {
+    "id": 320,
+    "description": "Bonus payout from employer",
+    "amount": 626.27,
+    "type": "income",
+    "category": "Entertainment",
+    "date": "2024-03-26"
+  },
+  {
+    "id": 321,
+    "description": "Pharmacy medical supplies",
+    "amount": 450.48,
+    "type": "expense",
+    "category": "Shopping",
+    "date": "2024-05-19"
+  },
+  {
+    "id": 322,
+    "description": "Movie tickets at cinema",
+    "amount": 189.59,
+    "type": "expense",
+    "category": "Other",
+    "date": "2024-04-15"
+  },
+  {
+    "id": 323,
+    "description": "Dividend payout received",
+    "amount": 2502.58,
+    "type": "income",
+    "category": "Health",
+    "date": "2024-05-01"
+  },
+  {
+    "id": 324,
+    "description": "Client invoice settlement",
+    "amount": 1577.62,
+    "type": "income",
+    "category": "Food",
+    "date": "2024-04-30"
+  },
+  {
+    "id": 325,
+    "description": "Commission income received",
+    "amount": 53.34,
+    "type": "income",
+    "category": "Transport",
+    "date": "2024-03-19"
+  },
+  {
+    "id": 326,
+    "description": "Client invoice settlement",
+    "amount": 2836.81,
+    "type": "income",
+    "category": "Entertainment",
+    "date": "2024-04-09"
+  },
+  {
+    "id": 327,
+    "description": "Pharmacy medical supplies",
+    "amount": 244.19,
+    "type": "expense",
+    "category": "Food",
+    "date": "2024-01-20"
+  },
+  {
+    "id": 328,
+    "description": "Water bill settlement",
+    "amount": 391.53,
+    "type": "expense",
+    "category": "Food",
+    "date": "2024-02-16"
+  },
+  {
+    "id": 329,
+    "description": "Clothing store purchase",
+    "amount": 462.23,
+    "type": "expense",
+    "category": "Salary",
+    "date": "2024-06-25"
+  },
+  {
+    "id": 330,
+    "description": "Client invoice settlement",
+    "amount": 1350.02,
+    "type": "income",
+    "category": "Food",
+    "date": "2024-08-10"
+  },
+  {
+    "id": 331,
+    "description": "Commission income received",
+    "amount": 1637.35,
+    "type": "income",
+    "category": "Work",
+    "date": "2024-06-29"
+  },
+  {
+    "id": 332,
+    "description": "Fuel refill at petrol station",
+    "amount": 93.14,
+    "type": "expense",
+    "category": "Bills",
+    "date": "2024-02-23"
+  },
+  {
+    "id": 333,
+    "description": "Online shopping purchase",
+    "amount": 153.9,
+    "type": "expense",
+    "category": "Work",
+    "date": "2024-01-30"
+  },
+  {
+    "id": 334,
+    "description": "Mobile data recharge payment",
+    "amount": 98.87,
+    "type": "expense",
+    "category": "Entertainment",
+    "date": "2024-11-15"
+  },
+  {
+    "id": 335,
+    "description": "Monthly salary received",
+    "amount": 2770.34,
+    "type": "income",
+    "category": "Transport",
+    "date": "2024-07-01"
+  },
+  {
+    "id": 336,
+    "description": "Movie tickets at cinema",
+    "amount": 453.88,
+    "type": "expense",
+    "category": "Salary",
+    "date": "2024-05-27"
+  },
+  {
+    "id": 337,
+    "description": "Gym membership monthly fee",
+    "amount": 399.25,
+    "type": "expense",
+    "category": "Transport",
+    "date": "2024-02-08"
+  },
+  {
+    "id": 338,
+    "description": "Bank interest earned",
+    "amount": 2554.14,
+    "type": "income",
+    "category": "Salary",
+    "date": "2024-12-04"
+  },
+  {
+    "id": 339,
+    "description": "Bonus payout from employer",
+    "amount": 2411.64,
+    "type": "income",
+    "category": "Food",
+    "date": "2024-12-12"
+  },
+  {
+    "id": 340,
+    "description": "Fuel refill at petrol station",
+    "amount": 237.76,
+    "type": "expense",
+    "category": "Food",
+    "date": "2024-10-26"
+  },
+  {
+    "id": 341,
+    "description": "Bonus payout from employer",
+    "amount": 2671.42,
+    "type": "income",
+    "category": "Entertainment",
+    "date": "2024-01-14"
+  },
+  {
+    "id": 342,
+    "description": "Electricity utility bill payment",
+    "amount": 264.29,
+    "type": "expense",
+    "category": "Other",
+    "date": "2024-04-28"
+  },
+  {
+    "id": 343,
+    "description": "House rent monthly payment",
+    "amount": 209.22,
+    "type": "expense",
+    "category": "Food",
+    "date": "2024-12-08"
+  },
+  {
+    "id": 344,
+    "description": "Taxi fare for city travel",
+    "amount": 87.27,
+    "type": "expense",
+    "category": "Food",
+    "date": "2024-06-20"
+  },
+  {
+    "id": 345,
+    "description": "Pharmacy medical supplies",
+    "amount": 68.32,
+    "type": "expense",
+    "category": "Salary",
+    "date": "2024-06-17"
+  },
+  {
+    "id": 346,
+    "description": "Fuel refill at petrol station",
+    "amount": 98.93,
+    "type": "expense",
+    "category": "Entertainment",
+    "date": "2024-12-10"
+  },
+  {
+    "id": 347,
+    "description": "School stationery supplies",
+    "amount": 266.22,
+    "type": "expense",
+    "category": "Salary",
+    "date": "2024-03-07"
+  },
+  {
+    "id": 348,
+    "description": "School stationery supplies",
+    "amount": 156.08,
+    "type": "expense",
+    "category": "Bills",
+    "date": "2024-09-13"
+  },
+  {
+    "id": 349,
+    "description": "Online shopping purchase",
+    "amount": 135.86,
+    "type": "expense",
+    "category": "Health",
+    "date": "2024-08-29"
+  },
+  {
+    "id": 350,
+    "description": "Dividend payout received",
+    "amount": 2367.92,
+    "type": "income",
+    "category": "Health",
+    "date": "2024-11-15"
+  },
+  {
+    "id": 351,
+    "description": "Taxi fare for city travel",
+    "amount": 471.02,
+    "type": "expense",
+    "category": "Salary",
+    "date": "2024-11-02"
+  },
+  {
+    "id": 352,
+    "description": "Freelance project payment",
+    "amount": 2514.01,
+    "type": "income",
+    "category": "Other",
+    "date": "2024-04-25"
+  },
+  {
+    "id": 353,
+    "description": "Pharmacy medical supplies",
+    "amount": 224.98,
+    "type": "expense",
+    "category": "Transport",
+    "date": "2024-08-15"
+  },
+  {
+    "id": 354,
+    "description": "Online shopping purchase",
+    "amount": 127.81,
+    "type": "expense",
+    "category": "Salary",
+    "date": "2024-12-06"
+  },
+  {
+    "id": 355,
+    "description": "School stationery supplies",
+    "amount": 179.24,
+    "type": "expense",
+    "category": "Bills",
+    "date": "2024-11-07"
+  },
+  {
+    "id": 356,
+    "description": "Bank interest earned",
+    "amount": 303.74,
+    "type": "income",
+    "category": "Salary",
+    "date": "2024-03-13"
+  },
+  {
+    "id": 357,
+    "description": "Freelance project payment",
+    "amount": 2203.97,
+    "type": "income",
+    "category": "Entertainment",
+    "date": "2024-08-01"
+  },
+  {
+    "id": 358,
+    "description": "School stationery supplies",
+    "amount": 336.66,
+    "type": "expense",
+    "category": "Entertainment",
+    "date": "2024-10-24"
+  },
+  {
+    "id": 359,
+    "description": "House rent monthly payment",
+    "amount": 48.81,
+    "type": "expense",
+    "category": "Entertainment",
+    "date": "2024-06-28"
+  },
+  {
+    "id": 360,
+    "description": "Online shopping purchase",
+    "amount": 204.29,
+    "type": "expense",
+    "category": "Transport",
+    "date": "2024-04-15"
+  },
+  {
+    "id": 361,
+    "description": "Mobile data recharge payment",
+    "amount": 357.2,
+    "type": "expense",
+    "category": "Food",
+    "date": "2024-04-27"
+  },
+  {
+    "id": 362,
+    "description": "House rent monthly payment",
+    "amount": 134.14,
+    "type": "expense",
+    "category": "Food",
+    "date": "2024-09-21"
+  },
+  {
+    "id": 363,
+    "description": "Clothing store purchase",
+    "amount": 473.92,
+    "type": "expense",
+    "category": "Food",
+    "date": "2024-07-24"
+  },
+  {
+    "id": 364,
+    "description": "Freelance project payment",
+    "amount": 1946.57,
+    "type": "income",
+    "category": "Work",
+    "date": "2024-02-15"
+  },
+  {
+    "id": 365,
+    "description": "Commission income received",
+    "amount": 1438.68,
+    "type": "income",
+    "category": "Work",
+    "date": "2024-08-21"
+  },
+  {
+    "id": 366,
+    "description": "Pharmacy medical supplies",
+    "amount": 244.14,
+    "type": "expense",
+    "category": "Entertainment",
+    "date": "2024-05-24"
+  },
+  {
+    "id": 367,
+    "description": "Coffee shop takeaway order",
+    "amount": 128.54,
+    "type": "expense",
+    "category": "Bills",
+    "date": "2024-08-27"
+  },
+  {
+    "id": 368,
+    "description": "Pharmacy medical supplies",
+    "amount": 2.69,
+    "type": "expense",
+    "category": "Bills",
+    "date": "2024-02-20"
+  },
+  {
+    "id": 369,
+    "description": "Commission income received",
+    "amount": 1230.57,
+    "type": "income",
+    "category": "Salary",
+    "date": "2024-03-30"
+  },
+  {
+    "id": 370,
+    "description": "Taxi fare for city travel",
+    "amount": 18.49,
+    "type": "expense",
+    "category": "Salary",
+    "date": "2024-10-17"
+  },
+  {
+    "id": 371,
+    "description": "Freelance project payment",
+    "amount": 455.69,
+    "type": "income",
+    "category": "Salary",
+    "date": "2024-01-27"
+  },
+  {
+    "id": 372,
+    "description": "Movie tickets at cinema",
+    "amount": 363.1,
+    "type": "expense",
+    "category": "Food",
+    "date": "2024-05-10"
+  },
+  {
+    "id": 373,
+    "description": "Cashback reward deposited",
+    "amount": 2707.16,
+    "type": "income",
+    "category": "Salary",
+    "date": "2024-12-25"
+  },
+  {
+    "id": 374,
+    "description": "Gym membership monthly fee",
+    "amount": 197.84,
+    "type": "expense",
+    "category": "Salary",
+    "date": "2024-04-10"
+  },
+  {
+    "id": 375,
+    "description": "Restaurant dine\u2011in expense",
+    "amount": 272.95,
+    "type": "expense",
+    "category": "Entertainment",
+    "date": "2024-12-25"
+  },
+  {
+    "id": 376,
+    "description": "Restaurant dine\u2011in expense",
+    "amount": 122.21,
+    "type": "expense",
+    "category": "Work",
+    "date": "2024-04-27"
+  },
+  {
+    "id": 377,
+    "description": "Bonus payout from employer",
+    "amount": 1928.71,
+    "type": "income",
+    "category": "Work",
+    "date": "2024-05-30"
+  },
+  {
+    "id": 378,
+    "description": "Monthly salary received",
+    "amount": 1825.13,
+    "type": "income",
+    "category": "Transport",
+    "date": "2024-09-26"
+  },
+  {
+    "id": 379,
+    "description": "Fuel refill at petrol station",
+    "amount": 497.28,
+    "type": "expense",
+    "category": "Transport",
+    "date": "2024-01-19"
+  },
+  {
+    "id": 380,
+    "description": "House rent monthly payment",
+    "amount": 270.26,
+    "type": "expense",
+    "category": "Entertainment",
+    "date": "2024-09-12"
+  },
+  {
+    "id": 381,
+    "description": "Clothing store purchase",
+    "amount": 179.54,
+    "type": "expense",
+    "category": "Transport",
+    "date": "2024-10-19"
+  },
+  {
+    "id": 382,
+    "description": "Part\u2011time earnings received",
+    "amount": 2503.36,
+    "type": "income",
+    "category": "Other",
+    "date": "2024-11-24"
+  },
+  {
+    "id": 383,
+    "description": "Bonus payout from employer",
+    "amount": 1939.45,
+    "type": "income",
+    "category": "Shopping",
+    "date": "2024-12-21"
+  },
+  {
+    "id": 384,
+    "description": "Bonus payout from employer",
+    "amount": 2634.83,
+    "type": "income",
+    "category": "Shopping",
+    "date": "2024-10-04"
+  },
+  {
+    "id": 385,
+    "description": "Cashback reward deposited",
+    "amount": 738.59,
+    "type": "income",
+    "category": "Shopping",
+    "date": "2024-01-14"
+  },
+  {
+    "id": 386,
+    "description": "Refund credited to account",
+    "amount": 2310.21,
+    "type": "income",
+    "category": "Bills",
+    "date": "2024-06-04"
+  },
+  {
+    "id": 387,
+    "description": "Pharmacy medical supplies",
+    "amount": 182.75,
+    "type": "expense",
+    "category": "Shopping",
+    "date": "2024-03-05"
+  },
+  {
+    "id": 388,
+    "description": "Coffee shop takeaway order",
+    "amount": 19.36,
+    "type": "expense",
+    "category": "Other",
+    "date": "2024-04-19"
+  },
+  {
+    "id": 389,
+    "description": "Cashback reward deposited",
+    "amount": 2296.98,
+    "type": "income",
+    "category": "Bills",
+    "date": "2024-06-03"
+  },
+  {
+    "id": 390,
+    "description": "Fuel refill at petrol station",
+    "amount": 37.55,
+    "type": "expense",
+    "category": "Entertainment",
+    "date": "2024-03-10"
+  },
+  {
+    "id": 391,
+    "description": "Grocery shopping at supermarket",
+    "amount": 315.36,
+    "type": "expense",
+    "category": "Transport",
+    "date": "2024-10-23"
+  },
+  {
+    "id": 392,
+    "description": "Freelance project payment",
+    "amount": 881.94,
+    "type": "income",
+    "category": "Other",
+    "date": "2024-08-09"
+  },
+  {
+    "id": 393,
+    "description": "Fuel refill at petrol station",
+    "amount": 174.58,
+    "type": "expense",
+    "category": "Health",
+    "date": "2024-07-06"
+  },
+  {
+    "id": 394,
+    "description": "Dividend payout received",
+    "amount": 452.76,
+    "type": "income",
+    "category": "Other",
+    "date": "2024-02-09"
+  },
+  {
+    "id": 395,
+    "description": "Fuel refill at petrol station",
+    "amount": 94.97,
+    "type": "expense",
+    "category": "Transport",
+    "date": "2024-01-02"
+  },
+  {
+    "id": 396,
+    "description": "School stationery supplies",
+    "amount": 315.79,
+    "type": "expense",
+    "category": "Transport",
+    "date": "2024-01-12"
+  },
+  {
+    "id": 397,
+    "description": "Bonus payout from employer",
+    "amount": 1588.64,
+    "type": "income",
+    "category": "Bills",
+    "date": "2024-03-10"
+  },
+  {
+    "id": 398,
+    "description": "Freelance project payment",
+    "amount": 1074.46,
+    "type": "income",
+    "category": "Work",
+    "date": "2024-09-14"
+  },
+  {
+    "id": 399,
+    "description": "Bank interest earned",
+    "amount": 2688.72,
+    "type": "income",
+    "category": "Bills",
+    "date": "2024-07-02"
+  },
+  {
+    "id": 400,
+    "description": "Bonus payout from employer",
+    "amount": 1763.69,
+    "type": "income",
+    "category": "Health",
+    "date": "2024-01-04"
+  },
+  {
+    "id": 401,
+    "description": "Coffee shop takeaway order",
+    "amount": 49.91,
+    "type": "expense",
+    "category": "Shopping",
+    "date": "2024-08-25"
+  },
+  {
+    "id": 402,
+    "description": "Restaurant dine\u2011in expense",
+    "amount": 192.72,
+    "type": "expense",
+    "category": "Health",
+    "date": "2024-08-29"
+  },
+  {
+    "id": 403,
+    "description": "Part\u2011time earnings received",
+    "amount": 1111.29,
+    "type": "income",
+    "category": "Work",
+    "date": "2024-12-06"
+  },
+  {
+    "id": 404,
+    "description": "Pharmacy medical supplies",
+    "amount": 105.81,
+    "type": "expense",
+    "category": "Bills",
+    "date": "2024-08-26"
+  },
+  {
+    "id": 405,
+    "description": "Bonus payout from employer",
+    "amount": 2226.06,
+    "type": "income",
+    "category": "Food",
+    "date": "2024-09-30"
+  },
+  {
+    "id": 406,
+    "description": "School stationery supplies",
+    "amount": 179.89,
+    "type": "expense",
+    "category": "Health",
+    "date": "2024-11-26"
+  },
+  {
+    "id": 407,
+    "description": "Pharmacy medical supplies",
+    "amount": 2.02,
+    "type": "expense",
+    "category": "Other",
+    "date": "2024-01-23"
+  },
+  {
+    "id": 408,
+    "description": "Refund credited to account",
+    "amount": 2552.36,
+    "type": "income",
+    "category": "Entertainment",
+    "date": "2024-06-02"
+  },
+  {
+    "id": 409,
+    "description": "School stationery supplies",
+    "amount": 473.47,
+    "type": "expense",
+    "category": "Health",
+    "date": "2024-03-30"
+  },
+  {
+    "id": 410,
+    "description": "Fuel refill at petrol station",
+    "amount": 66.27,
+    "type": "expense",
+    "category": "Entertainment",
+    "date": "2024-11-12"
+  },
+  {
+    "id": 411,
+    "description": "Dividend payout received",
+    "amount": 1173.66,
+    "type": "income",
+    "category": "Transport",
+    "date": "2024-12-16"
+  },
+  {
+    "id": 412,
+    "description": "Client invoice settlement",
+    "amount": 148.28,
+    "type": "income",
+    "category": "Entertainment",
+    "date": "2024-10-19"
+  },
+  {
+    "id": 413,
+    "description": "Fuel refill at petrol station",
+    "amount": 478.81,
+    "type": "expense",
+    "category": "Other",
+    "date": "2024-02-21"
+  },
+  {
+    "id": 414,
+    "description": "Coffee shop takeaway order",
+    "amount": 96.15,
+    "type": "expense",
+    "category": "Bills",
+    "date": "2024-04-26"
+  },
+  {
+    "id": 415,
+    "description": "Pharmacy medical supplies",
+    "amount": 448.01,
+    "type": "expense",
+    "category": "Shopping",
+    "date": "2024-01-21"
+  },
+  {
+    "id": 416,
+    "description": "Pharmacy medical supplies",
+    "amount": 184.04,
+    "type": "expense",
+    "category": "Bills",
+    "date": "2024-10-14"
+  },
+  {
+    "id": 417,
+    "description": "Clothing store purchase",
+    "amount": 266.98,
+    "type": "expense",
+    "category": "Entertainment",
+    "date": "2024-12-14"
+  },
+  {
+    "id": 418,
+    "description": "Commission income received",
+    "amount": 2368.47,
+    "type": "income",
+    "category": "Food",
+    "date": "2024-08-21"
+  },
+  {
+    "id": 419,
+    "description": "Clothing store purchase",
+    "amount": 376.61,
+    "type": "expense",
+    "category": "Shopping",
+    "date": "2024-12-07"
+  },
+  {
+    "id": 420,
+    "description": "Electricity utility bill payment",
+    "amount": 342.12,
+    "type": "expense",
+    "category": "Health",
+    "date": "2024-04-14"
+  },
+  {
+    "id": 421,
+    "description": "Coffee shop takeaway order",
+    "amount": 51.09,
+    "type": "expense",
+    "category": "Entertainment",
+    "date": "2024-11-15"
+  },
+  {
+    "id": 422,
+    "description": "Movie tickets at cinema",
+    "amount": 315.5,
+    "type": "expense",
+    "category": "Health",
+    "date": "2024-02-21"
+  },
+  {
+    "id": 423,
+    "description": "Fuel refill at petrol station",
+    "amount": 419.77,
+    "type": "expense",
+    "category": "Food",
+    "date": "2024-11-22"
+  },
+  {
+    "id": 424,
+    "description": "House rent monthly payment",
+    "amount": 315.56,
+    "type": "expense",
+    "category": "Bills",
+    "date": "2024-06-05"
+  },
+  {
+    "id": 425,
+    "description": "Water bill settlement",
+    "amount": 85.72,
+    "type": "expense",
+    "category": "Transport",
+    "date": "2024-01-24"
+  },
+  {
+    "id": 426,
+    "description": "Monthly salary received",
+    "amount": 1819.2,
+    "type": "income",
+    "category": "Bills",
+    "date": "2024-06-09"
+  },
+  {
+    "id": 427,
+    "description": "Electricity utility bill payment",
+    "amount": 462.27,
+    "type": "expense",
+    "category": "Food",
+    "date": "2024-07-02"
+  },
+  {
+    "id": 428,
+    "description": "Dividend payout received",
+    "amount": 213.2,
+    "type": "income",
+    "category": "Shopping",
+    "date": "2024-10-05"
+  },
+  {
+    "id": 429,
+    "description": "Restaurant dine\u2011in expense",
+    "amount": 370.86,
+    "type": "expense",
+    "category": "Other",
+    "date": "2024-10-12"
+  },
+  {
+    "id": 430,
+    "description": "Bonus payout from employer",
+    "amount": 2125.7,
+    "type": "income",
+    "category": "Work",
+    "date": "2024-08-13"
+  },
+  {
+    "id": 431,
+    "description": "Clothing store purchase",
+    "amount": 140.8,
+    "type": "expense",
+    "category": "Food",
+    "date": "2024-10-20"
+  },
+  {
+    "id": 432,
+    "description": "Fuel refill at petrol station",
+    "amount": 167.54,
+    "type": "expense",
+    "category": "Health",
+    "date": "2024-07-11"
+  },
+  {
+    "id": 433,
+    "description": "Refund credited to account",
+    "amount": 2156.8,
+    "type": "income",
+    "category": "Entertainment",
+    "date": "2024-01-24"
+  },
+  {
+    "id": 434,
+    "description": "Monthly salary received",
+    "amount": 1401.42,
+    "type": "income",
+    "category": "Shopping",
+    "date": "2024-07-25"
+  },
+  {
+    "id": 435,
+    "description": "Bank interest earned",
+    "amount": 2730.61,
+    "type": "income",
+    "category": "Other",
+    "date": "2024-01-10"
+  },
+  {
+    "id": 436,
+    "description": "Fuel refill at petrol station",
+    "amount": 328.02,
+    "type": "expense",
+    "category": "Salary",
+    "date": "2024-03-25"
+  },
+  {
+    "id": 437,
+    "description": "Monthly salary received",
+    "amount": 1606.28,
+    "type": "income",
+    "category": "Transport",
+    "date": "2024-12-03"
+  },
+  {
+    "id": 438,
+    "description": "Gym membership monthly fee",
+    "amount": 108.49,
+    "type": "expense",
+    "category": "Salary",
+    "date": "2024-06-29"
+  },
+  {
+    "id": 439,
+    "description": "Bonus payout from employer",
+    "amount": 1409.54,
+    "type": "income",
+    "category": "Entertainment",
+    "date": "2024-06-21"
+  },
+  {
+    "id": 440,
+    "description": "Taxi fare for city travel",
+    "amount": 203.2,
+    "type": "expense",
+    "category": "Entertainment",
+    "date": "2024-03-19"
+  },
+  {
+    "id": 441,
+    "description": "Taxi fare for city travel",
+    "amount": 269.17,
+    "type": "expense",
+    "category": "Other",
+    "date": "2024-10-31"
+  },
+  {
+    "id": 442,
+    "description": "Mobile data recharge payment",
+    "amount": 171.32,
+    "type": "expense",
+    "category": "Bills",
+    "date": "2024-01-26"
+  },
+  {
+    "id": 443,
+    "description": "Bonus payout from employer",
+    "amount": 436.82,
+    "type": "income",
+    "category": "Health",
+    "date": "2024-08-03"
+  },
+  {
+    "id": 444,
+    "description": "Water bill settlement",
+    "amount": 213.68,
+    "type": "expense",
+    "category": "Shopping",
+    "date": "2024-01-21"
+  },
+  {
+    "id": 445,
+    "description": "Mobile data recharge payment",
+    "amount": 256.37,
+    "type": "expense",
+    "category": "Health",
+    "date": "2024-07-05"
+  },
+  {
+    "id": 446,
+    "description": "Bonus payout from employer",
+    "amount": 2499.09,
+    "type": "income",
+    "category": "Health",
+    "date": "2024-07-20"
+  },
+  {
+    "id": 447,
+    "description": "Part\u2011time earnings received",
+    "amount": 1456.91,
+    "type": "income",
+    "category": "Other",
+    "date": "2024-10-23"
+  },
+  {
+    "id": 448,
+    "description": "Refund credited to account",
+    "amount": 1944.41,
+    "type": "income",
+    "category": "Shopping",
+    "date": "2024-04-18"
+  },
+  {
+    "id": 449,
+    "description": "Clothing store purchase",
+    "amount": 481.76,
+    "type": "expense",
+    "category": "Transport",
+    "date": "2024-03-07"
+  },
+  {
+    "id": 450,
+    "description": "Freelance project payment",
+    "amount": 352.9,
+    "type": "income",
+    "category": "Food",
+    "date": "2024-06-27"
+  },
+  {
+    "id": 451,
+    "description": "Grocery shopping at supermarket",
+    "amount": 91.62,
+    "type": "expense",
+    "category": "Transport",
+    "date": "2024-07-28"
+  },
+  {
+    "id": 452,
+    "description": "Online shopping purchase",
+    "amount": 197.45,
+    "type": "expense",
+    "category": "Entertainment",
+    "date": "2024-02-27"
+  },
+  {
+    "id": 453,
+    "description": "Restaurant dine\u2011in expense",
+    "amount": 359.57,
+    "type": "expense",
+    "category": "Salary",
+    "date": "2024-01-22"
+  },
+  {
+    "id": 454,
+    "description": "Electricity utility bill payment",
+    "amount": 113.79,
+    "type": "expense",
+    "category": "Food",
+    "date": "2024-06-04"
+  },
+  {
+    "id": 455,
+    "description": "School stationery supplies",
+    "amount": 433.18,
+    "type": "expense",
+    "category": "Salary",
+    "date": "2024-05-19"
+  },
+  {
+    "id": 456,
+    "description": "Coffee shop takeaway order",
+    "amount": 497.42,
+    "type": "expense",
+    "category": "Entertainment",
+    "date": "2024-06-15"
+  },
+  {
+    "id": 457,
+    "description": "Mobile data recharge payment",
+    "amount": 10.75,
+    "type": "expense",
+    "category": "Bills",
+    "date": "2024-07-06"
+  },
+  {
+    "id": 458,
+    "description": "Freelance project payment",
+    "amount": 1938.51,
+    "type": "income",
+    "category": "Shopping",
+    "date": "2024-02-10"
+  },
+  {
+    "id": 459,
+    "description": "Dividend payout received",
+    "amount": 684.31,
+    "type": "income",
+    "category": "Transport",
+    "date": "2024-04-27"
+  },
+  {
+    "id": 460,
+    "description": "Movie tickets at cinema",
+    "amount": 320.14,
+    "type": "expense",
+    "category": "Other",
+    "date": "2024-08-17"
+  },
+  {
+    "id": 461,
+    "description": "Pharmacy medical supplies",
+    "amount": 215.73,
+    "type": "expense",
+    "category": "Other",
+    "date": "2024-06-28"
+  },
+  {
+    "id": 462,
+    "description": "Pharmacy medical supplies",
+    "amount": 498.61,
+    "type": "expense",
+    "category": "Transport",
+    "date": "2024-11-15"
+  },
+  {
+    "id": 463,
+    "description": "Clothing store purchase",
+    "amount": 243.17,
+    "type": "expense",
+    "category": "Shopping",
+    "date": "2024-02-12"
+  },
+  {
+    "id": 464,
+    "description": "Pharmacy medical supplies",
+    "amount": 216.61,
+    "type": "expense",
+    "category": "Transport",
+    "date": "2024-07-07"
+  },
+  {
+    "id": 465,
+    "description": "Electricity utility bill payment",
+    "amount": 21.15,
+    "type": "expense",
+    "category": "Transport",
+    "date": "2024-01-22"
+  },
+  {
+    "id": 466,
+    "description": "Mobile data recharge payment",
+    "amount": 290.73,
+    "type": "expense",
+    "category": "Work",
+    "date": "2024-07-11"
+  },
+  {
+    "id": 467,
+    "description": "Mobile data recharge payment",
+    "amount": 84.09,
+    "type": "expense",
+    "category": "Salary",
+    "date": "2024-09-15"
+  },
+  {
+    "id": 468,
+    "description": "Monthly salary received",
+    "amount": 500.9,
+    "type": "income",
+    "category": "Salary",
+    "date": "2024-11-14"
+  },
+  {
+    "id": 469,
+    "description": "Commission income received",
+    "amount": 1803.35,
+    "type": "income",
+    "category": "Transport",
+    "date": "2024-09-29"
+  },
+  {
+    "id": 470,
+    "description": "Bonus payout from employer",
+    "amount": 2453.13,
+    "type": "income",
+    "category": "Transport",
+    "date": "2024-08-20"
+  },
+  {
+    "id": 471,
+    "description": "Bonus payout from employer",
+    "amount": 1157.73,
+    "type": "income",
+    "category": "Food",
+    "date": "2024-05-10"
+  },
+  {
+    "id": 472,
+    "description": "Bank interest earned",
+    "amount": 2145.49,
+    "type": "income",
+    "category": "Salary",
+    "date": "2024-07-28"
+  },
+  {
+    "id": 473,
+    "description": "Commission income received",
+    "amount": 2702.53,
+    "type": "income",
+    "category": "Other",
+    "date": "2024-12-13"
+  },
+  {
+    "id": 474,
+    "description": "Dividend payout received",
+    "amount": 2350.34,
+    "type": "income",
+    "category": "Bills",
+    "date": "2024-05-29"
+  },
+  {
+    "id": 475,
+    "description": "Restaurant dine\u2011in expense",
+    "amount": 221.64,
+    "type": "expense",
+    "category": "Entertainment",
+    "date": "2024-04-21"
+  },
+  {
+    "id": 476,
+    "description": "Water bill settlement",
+    "amount": 185.91,
+    "type": "expense",
+    "category": "Other",
+    "date": "2024-05-16"
+  },
+  {
+    "id": 477,
+    "description": "Dividend payout received",
+    "amount": 1728.37,
+    "type": "income",
+    "category": "Shopping",
+    "date": "2024-04-18"
+  },
+  {
+    "id": 478,
+    "description": "Bank interest earned",
+    "amount": 188.23,
+    "type": "income",
+    "category": "Entertainment",
+    "date": "2024-09-09"
+  },
+  {
+    "id": 479,
+    "description": "Fuel refill at petrol station",
+    "amount": 114.79,
+    "type": "expense",
+    "category": "Work",
+    "date": "2024-04-29"
+  },
+  {
+    "id": 480,
+    "description": "Bank interest earned",
+    "amount": 903.43,
+    "type": "income",
+    "category": "Other",
+    "date": "2024-08-03"
+  },
+  {
+    "id": 481,
+    "description": "Mobile data recharge payment",
+    "amount": 428.31,
+    "type": "expense",
+    "category": "Transport",
+    "date": "2024-06-25"
+  },
+  {
+    "id": 482,
+    "description": "Client invoice settlement",
+    "amount": 842.34,
+    "type": "income",
+    "category": "Health",
+    "date": "2024-07-06"
+  },
+  {
+    "id": 483,
+    "description": "Fuel refill at petrol station",
+    "amount": 477.29,
+    "type": "expense",
+    "category": "Other",
+    "date": "2024-06-16"
+  },
+  {
+    "id": 484,
+    "description": "Dividend payout received",
+    "amount": 1316.92,
+    "type": "income",
+    "category": "Health",
+    "date": "2024-07-09"
+  },
+  {
+    "id": 485,
+    "description": "Cashback reward deposited",
+    "amount": 1438.45,
+    "type": "income",
+    "category": "Entertainment",
+    "date": "2024-02-04"
+  },
+  {
+    "id": 486,
+    "description": "School stationery supplies",
+    "amount": 407.11,
+    "type": "expense",
+    "category": "Shopping",
+    "date": "2024-07-15"
+  },
+  {
+    "id": 487,
+    "description": "Part\u2011time earnings received",
+    "amount": 2929.78,
+    "type": "income",
+    "category": "Health",
+    "date": "2024-06-12"
+  },
+  {
+    "id": 488,
+    "description": "Taxi fare for city travel",
+    "amount": 404.43,
+    "type": "expense",
+    "category": "Food",
+    "date": "2024-04-10"
+  },
+  {
+    "id": 489,
+    "description": "Grocery shopping at supermarket",
+    "amount": 185.59,
+    "type": "expense",
+    "category": "Salary",
+    "date": "2024-01-15"
+  },
+  {
+    "id": 490,
+    "description": "Client invoice settlement",
+    "amount": 2174.08,
+    "type": "income",
+    "category": "Food",
+    "date": "2024-01-20"
+  },
+  {
+    "id": 491,
+    "description": "Dividend payout received",
+    "amount": 77.53,
+    "type": "income",
+    "category": "Salary",
+    "date": "2024-07-31"
+  },
+  {
+    "id": 492,
+    "description": "Gym membership monthly fee",
+    "amount": 97.0,
+    "type": "expense",
+    "category": "Transport",
+    "date": "2024-07-18"
+  },
+  {
+    "id": 493,
+    "description": "Grocery shopping at supermarket",
+    "amount": 54.58,
+    "type": "expense",
+    "category": "Work",
+    "date": "2024-09-06"
+  },
+  {
+    "id": 494,
+    "description": "Gym membership monthly fee",
+    "amount": 55.49,
+    "type": "expense",
+    "category": "Salary",
+    "date": "2024-07-31"
+  },
+  {
+    "id": 495,
+    "description": "Movie tickets at cinema",
+    "amount": 457.25,
+    "type": "expense",
+    "category": "Food",
+    "date": "2024-11-30"
+  },
+  {
+    "id": 496,
+    "description": "Part\u2011time earnings received",
+    "amount": 2222.1,
+    "type": "income",
+    "category": "Health",
+    "date": "2024-08-13"
+  },
+  {
+    "id": 497,
+    "description": "Clothing store purchase",
+    "amount": 244.15,
+    "type": "expense",
+    "category": "Work",
+    "date": "2024-12-27"
+  },
+  {
+    "id": 498,
+    "description": "School stationery supplies",
+    "amount": 229.07,
+    "type": "expense",
+    "category": "Bills",
+    "date": "2024-01-12"
+  },
+  {
+    "id": 499,
+    "description": "Bonus payout from employer",
+    "amount": 912.37,
+    "type": "income",
+    "category": "Entertainment",
+    "date": "2024-04-18"
+  },
+  {
+    "id": 500,
+    "description": "Monthly salary received",
+    "amount": 1961.85,
+    "type": "income",
+    "category": "Salary",
+    "date": "2024-06-02"
+  },
+  {
+    "id": 501,
+    "description": "Refund credited to account",
+    "amount": 1153.99,
+    "type": "income",
+    "category": "Other",
+    "date": "2024-08-24"
+  },
+  {
+    "id": 502,
+    "description": "Bank interest earned",
+    "amount": 2042.61,
+    "type": "income",
+    "category": "Transport",
+    "date": "2024-04-19"
+  },
+  {
+    "id": 503,
+    "description": "Gym membership monthly fee",
+    "amount": 34.01,
+    "type": "expense",
+    "category": "Work",
+    "date": "2024-03-23"
+  },
+  {
+    "id": 504,
+    "description": "Part\u2011time earnings received",
+    "amount": 1485.13,
+    "type": "income",
+    "category": "Shopping",
+    "date": "2024-09-16"
+  },
+  {
+    "id": 505,
+    "description": "Fuel refill at petrol station",
+    "amount": 343.28,
+    "type": "expense",
+    "category": "Entertainment",
+    "date": "2024-06-26"
+  },
+  {
+    "id": 506,
+    "description": "Grocery shopping at supermarket",
+    "amount": 265.61,
+    "type": "expense",
+    "category": "Other",
+    "date": "2024-06-19"
+  },
+  {
+    "id": 507,
+    "description": "Freelance project payment",
+    "amount": 930.59,
+    "type": "income",
+    "category": "Food",
+    "date": "2024-09-29"
+  },
+  {
+    "id": 508,
+    "description": "Dividend payout received",
+    "amount": 1093.79,
+    "type": "income",
+    "category": "Entertainment",
+    "date": "2024-08-03"
+  },
+  {
+    "id": 509,
+    "description": "Pharmacy medical supplies",
+    "amount": 198.03,
+    "type": "expense",
+    "category": "Work",
+    "date": "2024-11-27"
+  },
+  {
+    "id": 510,
+    "description": "Refund credited to account",
+    "amount": 1621.8,
+    "type": "income",
+    "category": "Health",
+    "date": "2024-01-21"
+  },
+  {
+    "id": 511,
+    "description": "Refund credited to account",
+    "amount": 1493.1,
+    "type": "income",
+    "category": "Food",
+    "date": "2024-10-09"
+  },
+  {
+    "id": 512,
+    "description": "Part\u2011time earnings received",
+    "amount": 2829.43,
+    "type": "income",
+    "category": "Salary",
+    "date": "2024-11-28"
+  },
+  {
+    "id": 513,
+    "description": "Mobile data recharge payment",
+    "amount": 385.13,
+    "type": "expense",
+    "category": "Entertainment",
+    "date": "2024-06-29"
+  },
+  {
+    "id": 514,
+    "description": "Client invoice settlement",
+    "amount": 220.89,
+    "type": "income",
+    "category": "Entertainment",
+    "date": "2024-04-11"
+  },
+  {
+    "id": 515,
+    "description": "Restaurant dine\u2011in expense",
+    "amount": 199.25,
+    "type": "expense",
+    "category": "Transport",
+    "date": "2024-12-24"
+  },
+  {
+    "id": 516,
+    "description": "Water bill settlement",
+    "amount": 453.8,
+    "type": "expense",
+    "category": "Work",
+    "date": "2024-12-09"
+  },
+  {
+    "id": 517,
+    "description": "Bonus payout from employer",
+    "amount": 2393.73,
+    "type": "income",
+    "category": "Bills",
+    "date": "2024-08-30"
+  },
+  {
+    "id": 518,
+    "description": "Client invoice settlement",
+    "amount": 411.11,
+    "type": "income",
+    "category": "Health",
+    "date": "2024-07-06"
+  },
+  {
+    "id": 519,
+    "description": "Taxi fare for city travel",
+    "amount": 337.32,
+    "type": "expense",
+    "category": "Salary",
+    "date": "2024-06-06"
+  },
+  {
+    "id": 520,
+    "description": "Cashback reward deposited",
+    "amount": 2621.44,
+    "type": "income",
+    "category": "Bills",
+    "date": "2024-05-15"
+  },
+  {
+    "id": 521,
+    "description": "Restaurant dine\u2011in expense",
+    "amount": 144.59,
+    "type": "expense",
+    "category": "Shopping",
+    "date": "2024-08-29"
+  },
+  {
+    "id": 522,
+    "description": "Bonus payout from employer",
+    "amount": 2578.75,
+    "type": "income",
+    "category": "Transport",
+    "date": "2024-09-21"
+  },
+  {
+    "id": 523,
+    "description": "Commission income received",
+    "amount": 2871.71,
+    "type": "income",
+    "category": "Work",
+    "date": "2024-12-16"
+  },
+  {
+    "id": 524,
+    "description": "Dividend payout received",
+    "amount": 940.98,
+    "type": "income",
+    "category": "Work",
+    "date": "2024-09-10"
+  },
+  {
+    "id": 525,
+    "description": "Movie tickets at cinema",
+    "amount": 105.95,
+    "type": "expense",
+    "category": "Other",
+    "date": "2024-03-03"
+  },
+  {
+    "id": 526,
+    "description": "House rent monthly payment",
+    "amount": 436.74,
+    "type": "expense",
+    "category": "Food",
+    "date": "2024-10-17"
+  },
+  {
+    "id": 527,
+    "description": "Gym membership monthly fee",
+    "amount": 47.94,
+    "type": "expense",
+    "category": "Bills",
+    "date": "2024-03-20"
+  },
+  {
+    "id": 528,
+    "description": "Online shopping purchase",
+    "amount": 162.07,
+    "type": "expense",
+    "category": "Shopping",
+    "date": "2024-06-25"
+  },
+  {
+    "id": 529,
+    "description": "Freelance project payment",
+    "amount": 110.78,
+    "type": "income",
+    "category": "Other",
+    "date": "2024-02-05"
+  },
+  {
+    "id": 530,
+    "description": "Client invoice settlement",
+    "amount": 2408.96,
+    "type": "income",
+    "category": "Health",
+    "date": "2024-03-15"
+  },
+  {
+    "id": 531,
+    "description": "Part\u2011time earnings received",
+    "amount": 2683.35,
+    "type": "income",
+    "category": "Salary",
+    "date": "2024-02-28"
+  },
+  {
+    "id": 532,
+    "description": "Pharmacy medical supplies",
+    "amount": 195.09,
+    "type": "expense",
+    "category": "Work",
+    "date": "2024-01-01"
+  },
+  {
+    "id": 533,
+    "description": "Freelance project payment",
+    "amount": 1999.05,
+    "type": "income",
+    "category": "Entertainment",
+    "date": "2024-02-26"
+  },
+  {
+    "id": 534,
+    "description": "Electricity utility bill payment",
+    "amount": 339.2,
+    "type": "expense",
+    "category": "Bills",
+    "date": "2024-10-21"
+  },
+  {
+    "id": 535,
+    "description": "Bonus payout from employer",
+    "amount": 2564.92,
+    "type": "income",
+    "category": "Health",
+    "date": "2024-05-30"
+  },
+  {
+    "id": 536,
+    "description": "Refund credited to account",
+    "amount": 1843.88,
+    "type": "income",
+    "category": "Entertainment",
+    "date": "2024-09-13"
+  },
+  {
+    "id": 537,
+    "description": "Monthly salary received",
+    "amount": 2148.07,
+    "type": "income",
+    "category": "Other",
+    "date": "2024-10-25"
+  },
+  {
+    "id": 538,
+    "description": "Client invoice settlement",
+    "amount": 1189.6,
+    "type": "income",
+    "category": "Entertainment",
+    "date": "2024-08-13"
+  },
+  {
+    "id": 539,
+    "description": "Freelance project payment",
+    "amount": 2458.53,
+    "type": "income",
+    "category": "Transport",
+    "date": "2024-08-08"
+  },
+  {
+    "id": 540,
+    "description": "Client invoice settlement",
+    "amount": 1838.31,
+    "type": "income",
+    "category": "Other",
+    "date": "2024-03-12"
+  },
+  {
+    "id": 541,
+    "description": "Restaurant dine\u2011in expense",
+    "amount": 355.88,
+    "type": "expense",
+    "category": "Salary",
+    "date": "2024-04-01"
+  },
+  {
+    "id": 542,
+    "description": "Monthly salary received",
+    "amount": 2784.88,
+    "type": "income",
+    "category": "Bills",
+    "date": "2024-03-17"
+  },
+  {
+    "id": 543,
+    "description": "Refund credited to account",
+    "amount": 2193.62,
+    "type": "income",
+    "category": "Salary",
+    "date": "2024-06-16"
+  },
+  {
+    "id": 544,
+    "description": "Water bill settlement",
+    "amount": 414.66,
+    "type": "expense",
+    "category": "Work",
+    "date": "2024-08-02"
+  },
+  {
+    "id": 545,
+    "description": "Coffee shop takeaway order",
+    "amount": 126.45,
+    "type": "expense",
+    "category": "Other",
+    "date": "2024-04-21"
+  },
+  {
+    "id": 546,
+    "description": "Bonus payout from employer",
+    "amount": 1105.31,
+    "type": "income",
+    "category": "Entertainment",
+    "date": "2024-08-17"
+  },
+  {
+    "id": 547,
+    "description": "Grocery shopping at supermarket",
+    "amount": 366.05,
+    "type": "expense",
+    "category": "Other",
+    "date": "2024-01-07"
+  },
+  {
+    "id": 548,
+    "description": "Client invoice settlement",
+    "amount": 1706.34,
+    "type": "income",
+    "category": "Shopping",
+    "date": "2024-05-11"
+  },
+  {
+    "id": 549,
+    "description": "Bonus payout from employer",
+    "amount": 2984.11,
+    "type": "income",
+    "category": "Salary",
+    "date": "2024-06-29"
+  },
+  {
+    "id": 550,
+    "description": "Monthly salary received",
+    "amount": 1932.42,
+    "type": "income",
+    "category": "Work",
+    "date": "2024-07-10"
+  },
+  {
+    "id": 551,
+    "description": "Online shopping purchase",
+    "amount": 8.11,
+    "type": "expense",
+    "category": "Entertainment",
+    "date": "2024-09-24"
+  },
+  {
+    "id": 552,
+    "description": "Fuel refill at petrol station",
+    "amount": 156.07,
+    "type": "expense",
+    "category": "Shopping",
+    "date": "2024-08-01"
+  },
+  {
+    "id": 553,
+    "description": "Fuel refill at petrol station",
+    "amount": 280.11,
+    "type": "expense",
+    "category": "Work",
+    "date": "2024-03-26"
+  },
+  {
+    "id": 554,
+    "description": "Clothing store purchase",
+    "amount": 111.69,
+    "type": "expense",
+    "category": "Health",
+    "date": "2024-12-12"
+  },
+  {
+    "id": 555,
+    "description": "Freelance project payment",
+    "amount": 2287.53,
+    "type": "income",
+    "category": "Health",
+    "date": "2024-10-29"
+  },
+  {
+    "id": 556,
+    "description": "Online shopping purchase",
+    "amount": 300.14,
+    "type": "expense",
+    "category": "Shopping",
+    "date": "2024-03-11"
+  },
+  {
+    "id": 557,
+    "description": "Cashback reward deposited",
+    "amount": 1777.87,
+    "type": "income",
+    "category": "Entertainment",
+    "date": "2024-10-25"
+  },
+  {
+    "id": 558,
+    "description": "Mobile data recharge payment",
+    "amount": 144.73,
+    "type": "expense",
+    "category": "Shopping",
+    "date": "2024-02-12"
+  },
+  {
+    "id": 559,
+    "description": "Bonus payout from employer",
+    "amount": 2653.13,
+    "type": "income",
+    "category": "Other",
+    "date": "2024-09-01"
+  },
+  {
+    "id": 560,
+    "description": "Water bill settlement",
+    "amount": 189.65,
+    "type": "expense",
+    "category": "Health",
+    "date": "2024-11-02"
+  },
+  {
+    "id": 561,
+    "description": "Taxi fare for city travel",
+    "amount": 309.38,
+    "type": "expense",
+    "category": "Other",
+    "date": "2024-04-17"
+  },
+  {
+    "id": 562,
+    "description": "Clothing store purchase",
+    "amount": 303.13,
+    "type": "expense",
+    "category": "Shopping",
+    "date": "2024-10-25"
+  },
+  {
+    "id": 563,
+    "description": "School stationery supplies",
+    "amount": 337.27,
+    "type": "expense",
+    "category": "Bills",
+    "date": "2024-12-17"
+  },
+  {
+    "id": 564,
+    "description": "Online shopping purchase",
+    "amount": 17.12,
+    "type": "expense",
+    "category": "Work",
+    "date": "2024-01-31"
+  },
+  {
+    "id": 565,
+    "description": "Water bill settlement",
+    "amount": 243.01,
+    "type": "expense",
+    "category": "Other",
+    "date": "2024-07-06"
+  },
+  {
+    "id": 566,
+    "description": "Refund credited to account",
+    "amount": 2843.97,
+    "type": "income",
+    "category": "Shopping",
+    "date": "2024-01-10"
+  },
+  {
+    "id": 567,
+    "description": "School stationery supplies",
+    "amount": 168.99,
+    "type": "expense",
+    "category": "Other",
+    "date": "2024-02-19"
+  },
+  {
+    "id": 568,
+    "description": "Water bill settlement",
+    "amount": 120.17,
+    "type": "expense",
+    "category": "Food",
+    "date": "2024-05-23"
+  },
+  {
+    "id": 569,
+    "description": "Taxi fare for city travel",
+    "amount": 296.37,
+    "type": "expense",
+    "category": "Entertainment",
+    "date": "2024-09-07"
+  },
+  {
+    "id": 570,
+    "description": "Part\u2011time earnings received",
+    "amount": 232.72,
+    "type": "income",
+    "category": "Bills",
+    "date": "2024-12-09"
+  },
+  {
+    "id": 571,
+    "description": "Mobile data recharge payment",
+    "amount": 280.52,
+    "type": "expense",
+    "category": "Shopping",
+    "date": "2024-08-06"
+  },
+  {
+    "id": 572,
+    "description": "Electricity utility bill payment",
+    "amount": 289.42,
+    "type": "expense",
+    "category": "Entertainment",
+    "date": "2024-04-30"
+  },
+  {
+    "id": 573,
+    "description": "Online shopping purchase",
+    "amount": 373.68,
+    "type": "expense",
+    "category": "Health",
+    "date": "2024-08-13"
+  },
+  {
+    "id": 574,
+    "description": "Gym membership monthly fee",
+    "amount": 302.43,
+    "type": "expense",
+    "category": "Shopping",
+    "date": "2024-02-26"
+  },
+  {
+    "id": 575,
+    "description": "Client invoice settlement",
+    "amount": 2226.04,
+    "type": "income",
+    "category": "Other",
+    "date": "2024-10-20"
+  },
+  {
+    "id": 576,
+    "description": "Taxi fare for city travel",
+    "amount": 23.78,
+    "type": "expense",
+    "category": "Food",
+    "date": "2024-08-17"
+  },
+  {
+    "id": 577,
+    "description": "Monthly salary received",
+    "amount": 2536.21,
+    "type": "income",
+    "category": "Bills",
+    "date": "2024-09-30"
+  },
+  {
+    "id": 578,
+    "description": "Cashback reward deposited",
+    "amount": 2308.74,
+    "type": "income",
+    "category": "Health",
+    "date": "2024-06-05"
+  },
+  {
+    "id": 579,
+    "description": "Cashback reward deposited",
+    "amount": 526.08,
+    "type": "income",
+    "category": "Transport",
+    "date": "2024-01-04"
+  },
+  {
+    "id": 580,
+    "description": "Part\u2011time earnings received",
+    "amount": 412.98,
+    "type": "income",
+    "category": "Bills",
+    "date": "2024-03-10"
+  },
+  {
+    "id": 581,
+    "description": "Clothing store purchase",
+    "amount": 396.52,
+    "type": "expense",
+    "category": "Entertainment",
+    "date": "2024-09-03"
+  },
+  {
+    "id": 582,
+    "description": "Movie tickets at cinema",
+    "amount": 279.49,
+    "type": "expense",
+    "category": "Shopping",
+    "date": "2024-05-04"
+  },
+  {
+    "id": 583,
+    "description": "Water bill settlement",
+    "amount": 456.76,
+    "type": "expense",
+    "category": "Other",
+    "date": "2024-10-26"
+  },
+  {
+    "id": 584,
+    "description": "Coffee shop takeaway order",
+    "amount": 238.83,
+    "type": "expense",
+    "category": "Work",
+    "date": "2024-01-12"
+  },
+  {
+    "id": 585,
+    "description": "Bank interest earned",
+    "amount": 984.28,
+    "type": "income",
+    "category": "Bills",
+    "date": "2024-12-22"
+  },
+  {
+    "id": 586,
+    "description": "Monthly salary received",
+    "amount": 1851.67,
+    "type": "income",
+    "category": "Entertainment",
+    "date": "2024-07-19"
+  },
+  {
+    "id": 587,
+    "description": "Refund credited to account",
+    "amount": 2131.19,
+    "type": "income",
+    "category": "Other",
+    "date": "2024-02-10"
+  },
+  {
+    "id": 588,
+    "description": "Bank interest earned",
+    "amount": 1110.85,
+    "type": "income",
+    "category": "Other",
+    "date": "2024-08-18"
+  },
+  {
+    "id": 589,
+    "description": "Pharmacy medical supplies",
+    "amount": 487.05,
+    "type": "expense",
+    "category": "Work",
+    "date": "2024-07-08"
+  },
+  {
+    "id": 590,
+    "description": "Online shopping purchase",
+    "amount": 198.29,
+    "type": "expense",
+    "category": "Health",
+    "date": "2024-06-12"
+  },
+  {
+    "id": 591,
+    "description": "Commission income received",
+    "amount": 476.86,
+    "type": "income",
+    "category": "Entertainment",
+    "date": "2024-05-07"
+  },
+  {
+    "id": 592,
+    "description": "House rent monthly payment",
+    "amount": 384.29,
+    "type": "expense",
+    "category": "Health",
+    "date": "2024-02-01"
+  },
+  {
+    "id": 593,
+    "description": "Part\u2011time earnings received",
+    "amount": 2314.19,
+    "type": "income",
+    "category": "Shopping",
+    "date": "2024-02-29"
+  },
+  {
+    "id": 594,
+    "description": "House rent monthly payment",
+    "amount": 42.79,
+    "type": "expense",
+    "category": "Shopping",
+    "date": "2024-12-11"
+  },
+  {
+    "id": 595,
+    "description": "Client invoice settlement",
+    "amount": 172.93,
+    "type": "income",
+    "category": "Shopping",
+    "date": "2024-06-21"
+  },
+  {
+    "id": 596,
+    "description": "Dividend payout received",
+    "amount": 1336.61,
+    "type": "income",
+    "category": "Work",
+    "date": "2024-12-01"
+  },
+  {
+    "id": 597,
+    "description": "Coffee shop takeaway order",
+    "amount": 394.82,
+    "type": "expense",
+    "category": "Food",
+    "date": "2024-10-07"
+  },
+  {
+    "id": 598,
+    "description": "Monthly salary received",
+    "amount": 1554.8,
+    "type": "income",
+    "category": "Food",
+    "date": "2024-08-30"
+  },
+  {
+    "id": 599,
+    "description": "Gym membership monthly fee",
+    "amount": 352.38,
+    "type": "expense",
+    "category": "Salary",
+    "date": "2024-04-16"
+  },
+  {
+    "id": 600,
+    "description": "Mobile data recharge payment",
+    "amount": 391.0,
+    "type": "expense",
+    "category": "Transport",
+    "date": "2024-10-13"
+  },
+  {
+    "id": 601,
+    "description": "Dividend payout received",
+    "amount": 1903.54,
+    "type": "income",
+    "category": "Transport",
+    "date": "2024-02-16"
+  },
+  {
+    "id": 602,
+    "description": "Bank interest earned",
+    "amount": 201.29,
+    "type": "income",
+    "category": "Other",
+    "date": "2024-01-08"
+  },
+  {
+    "id": 603,
+    "description": "Refund credited to account",
+    "amount": 1817.59,
+    "type": "income",
+    "category": "Bills",
+    "date": "2024-01-07"
+  },
+  {
+    "id": 604,
+    "description": "School stationery supplies",
+    "amount": 337.74,
+    "type": "expense",
+    "category": "Salary",
+    "date": "2024-08-24"
+  },
+  {
+    "id": 605,
+    "description": "School stationery supplies",
+    "amount": 405.93,
+    "type": "expense",
+    "category": "Other",
+    "date": "2024-03-17"
+  },
+  {
+    "id": 606,
+    "description": "Dividend payout received",
+    "amount": 971.19,
+    "type": "income",
+    "category": "Other",
+    "date": "2024-05-29"
+  },
+  {
+    "id": 607,
+    "description": "Clothing store purchase",
+    "amount": 91.21,
+    "type": "expense",
+    "category": "Other",
+    "date": "2024-02-24"
+  },
+  {
+    "id": 608,
+    "description": "Fuel refill at petrol station",
+    "amount": 329.39,
+    "type": "expense",
+    "category": "Salary",
+    "date": "2024-01-26"
+  },
+  {
+    "id": 609,
+    "description": "Mobile data recharge payment",
+    "amount": 497.05,
+    "type": "expense",
+    "category": "Salary",
+    "date": "2024-05-26"
+  },
+  {
+    "id": 610,
+    "description": "Part\u2011time earnings received",
+    "amount": 1863.23,
+    "type": "income",
+    "category": "Salary",
+    "date": "2024-04-15"
+  },
+  {
+    "id": 611,
+    "description": "Cashback reward deposited",
+    "amount": 154.21,
+    "type": "income",
+    "category": "Shopping",
+    "date": "2024-09-23"
+  },
+  {
+    "id": 612,
+    "description": "Online shopping purchase",
+    "amount": 143.82,
+    "type": "expense",
+    "category": "Transport",
+    "date": "2024-10-18"
+  },
+  {
+    "id": 613,
+    "description": "Client invoice settlement",
+    "amount": 2095.92,
+    "type": "income",
+    "category": "Entertainment",
+    "date": "2024-07-22"
+  },
+  {
+    "id": 614,
+    "description": "Bonus payout from employer",
+    "amount": 141.09,
+    "type": "income",
+    "category": "Shopping",
+    "date": "2024-05-08"
+  },
+  {
+    "id": 615,
+    "description": "Cashback reward deposited",
+    "amount": 203.91,
+    "type": "income",
+    "category": "Other",
+    "date": "2024-09-25"
+  },
+  {
+    "id": 616,
+    "description": "Bank interest earned",
+    "amount": 289.57,
+    "type": "income",
+    "category": "Food",
+    "date": "2024-08-26"
+  },
+  {
+    "id": 617,
+    "description": "Bank interest earned",
+    "amount": 1240.89,
+    "type": "income",
+    "category": "Health",
+    "date": "2024-06-29"
+  },
+  {
+    "id": 618,
+    "description": "Gym membership monthly fee",
+    "amount": 438.31,
+    "type": "expense",
+    "category": "Food",
+    "date": "2024-10-24"
+  },
+  {
+    "id": 619,
+    "description": "Freelance project payment",
+    "amount": 2691.58,
+    "type": "income",
+    "category": "Other",
+    "date": "2024-11-24"
+  },
+  {
+    "id": 620,
+    "description": "Electricity utility bill payment",
+    "amount": 265.9,
+    "type": "expense",
+    "category": "Food",
+    "date": "2024-09-02"
+  },
+  {
+    "id": 621,
+    "description": "Dividend payout received",
+    "amount": 1317.48,
+    "type": "income",
+    "category": "Entertainment",
+    "date": "2024-12-30"
+  },
+  {
+    "id": 622,
+    "description": "Pharmacy medical supplies",
+    "amount": 118.59,
+    "type": "expense",
+    "category": "Work",
+    "date": "2024-01-19"
+  },
+  {
+    "id": 623,
+    "description": "Commission income received",
+    "amount": 1673.7,
+    "type": "income",
+    "category": "Transport",
+    "date": "2024-11-06"
+  },
+  {
+    "id": 624,
+    "description": "Pharmacy medical supplies",
+    "amount": 381.21,
+    "type": "expense",
+    "category": "Salary",
+    "date": "2024-07-24"
+  },
+  {
+    "id": 625,
+    "description": "Commission income received",
+    "amount": 2865.57,
+    "type": "income",
+    "category": "Work",
+    "date": "2024-08-04"
+  },
+  {
+    "id": 626,
+    "description": "Refund credited to account",
+    "amount": 2925.81,
+    "type": "income",
+    "category": "Bills",
+    "date": "2024-09-26"
+  },
+  {
+    "id": 627,
+    "description": "Refund credited to account",
+    "amount": 2047.65,
+    "type": "income",
+    "category": "Food",
+    "date": "2024-10-12"
+  },
+  {
+    "id": 628,
+    "description": "Commission income received",
+    "amount": 2248.04,
+    "type": "income",
+    "category": "Work",
+    "date": "2024-05-28"
+  },
+  {
+    "id": 629,
+    "description": "House rent monthly payment",
+    "amount": 76.96,
+    "type": "expense",
+    "category": "Transport",
+    "date": "2024-02-05"
+  },
+  {
+    "id": 630,
+    "description": "Dividend payout received",
+    "amount": 2582.92,
+    "type": "income",
+    "category": "Health",
+    "date": "2024-09-25"
+  },
+  {
+    "id": 631,
+    "description": "Part\u2011time earnings received",
+    "amount": 946.33,
+    "type": "income",
+    "category": "Salary",
+    "date": "2024-10-14"
+  },
+  {
+    "id": 632,
+    "description": "Gym membership monthly fee",
+    "amount": 110.95,
+    "type": "expense",
+    "category": "Health",
+    "date": "2024-03-26"
+  },
+  {
+    "id": 633,
+    "description": "Cashback reward deposited",
+    "amount": 1598.52,
+    "type": "income",
+    "category": "Salary",
+    "date": "2024-04-01"
+  },
+  {
+    "id": 634,
+    "description": "Freelance project payment",
+    "amount": 2390.8,
+    "type": "income",
+    "category": "Food",
+    "date": "2024-04-10"
+  },
+  {
+    "id": 635,
+    "description": "Movie tickets at cinema",
+    "amount": 149.47,
+    "type": "expense",
+    "category": "Bills",
+    "date": "2024-10-14"
+  },
+  {
+    "id": 636,
+    "description": "Freelance project payment",
+    "amount": 582.09,
+    "type": "income",
+    "category": "Health",
+    "date": "2024-09-01"
+  },
+  {
+    "id": 637,
+    "description": "Movie tickets at cinema",
+    "amount": 221.74,
+    "type": "expense",
+    "category": "Bills",
+    "date": "2024-04-05"
+  },
+  {
+    "id": 638,
+    "description": "Pharmacy medical supplies",
+    "amount": 445.17,
+    "type": "expense",
+    "category": "Shopping",
+    "date": "2024-12-06"
+  },
+  {
+    "id": 639,
+    "description": "Client invoice settlement",
+    "amount": 43.33,
+    "type": "income",
+    "category": "Work",
+    "date": "2024-03-26"
+  },
+  {
+    "id": 640,
+    "description": "Bonus payout from employer",
+    "amount": 1843.02,
+    "type": "income",
+    "category": "Transport",
+    "date": "2024-11-15"
+  },
+  {
+    "id": 641,
+    "description": "Freelance project payment",
+    "amount": 901.15,
+    "type": "income",
+    "category": "Entertainment",
+    "date": "2024-11-30"
+  },
+  {
+    "id": 642,
+    "description": "Mobile data recharge payment",
+    "amount": 426.67,
+    "type": "expense",
+    "category": "Health",
+    "date": "2024-05-26"
+  },
+  {
+    "id": 643,
+    "description": "Bank interest earned",
+    "amount": 938.01,
+    "type": "income",
+    "category": "Bills",
+    "date": "2024-03-12"
+  },
+  {
+    "id": 644,
+    "description": "Dividend payout received",
+    "amount": 948.44,
+    "type": "income",
+    "category": "Entertainment",
+    "date": "2024-03-07"
+  },
+  {
+    "id": 645,
+    "description": "Dividend payout received",
+    "amount": 1051.11,
+    "type": "income",
+    "category": "Bills",
+    "date": "2024-02-03"
+  },
+  {
+    "id": 646,
+    "description": "Restaurant dine\u2011in expense",
+    "amount": 267.77,
+    "type": "expense",
+    "category": "Entertainment",
+    "date": "2024-05-30"
+  },
+  {
+    "id": 647,
+    "description": "Gym membership monthly fee",
+    "amount": 497.76,
+    "type": "expense",
+    "category": "Salary",
+    "date": "2024-02-23"
+  },
+  {
+    "id": 648,
+    "description": "Bonus payout from employer",
+    "amount": 2329.91,
+    "type": "income",
+    "category": "Shopping",
+    "date": "2024-09-22"
+  },
+  {
+    "id": 649,
+    "description": "Freelance project payment",
+    "amount": 2238.84,
+    "type": "income",
+    "category": "Transport",
+    "date": "2024-09-01"
+  },
+  {
+    "id": 650,
+    "description": "Bonus payout from employer",
+    "amount": 1030.78,
+    "type": "income",
+    "category": "Work",
+    "date": "2024-06-28"
+  },
+  {
+    "id": 651,
+    "description": "House rent monthly payment",
+    "amount": 283.35,
+    "type": "expense",
+    "category": "Transport",
+    "date": "2024-11-08"
+  },
+  {
+    "id": 652,
+    "description": "Refund credited to account",
+    "amount": 1423.23,
+    "type": "income",
+    "category": "Food",
+    "date": "2024-08-16"
+  },
+  {
+    "id": 653,
+    "description": "Taxi fare for city travel",
+    "amount": 10.25,
+    "type": "expense",
+    "category": "Salary",
+    "date": "2024-11-01"
+  },
+  {
+    "id": 654,
+    "description": "Fuel refill at petrol station",
+    "amount": 311.59,
+    "type": "expense",
+    "category": "Health",
+    "date": "2024-02-14"
+  },
+  {
+    "id": 655,
+    "description": "Dividend payout received",
+    "amount": 2353.03,
+    "type": "income",
+    "category": "Work",
+    "date": "2024-04-13"
+  },
+  {
+    "id": 656,
+    "description": "Fuel refill at petrol station",
+    "amount": 475.39,
+    "type": "expense",
+    "category": "Shopping",
+    "date": "2024-06-22"
+  },
+  {
+    "id": 657,
+    "description": "Part\u2011time earnings received",
+    "amount": 542.16,
+    "type": "income",
+    "category": "Entertainment",
+    "date": "2024-11-19"
+  },
+  {
+    "id": 658,
+    "description": "Client invoice settlement",
+    "amount": 2810.01,
+    "type": "income",
+    "category": "Bills",
+    "date": "2024-11-24"
+  },
+  {
+    "id": 659,
+    "description": "School stationery supplies",
+    "amount": 69.11,
+    "type": "expense",
+    "category": "Health",
+    "date": "2024-08-01"
+  },
+  {
+    "id": 660,
+    "description": "Movie tickets at cinema",
+    "amount": 228.28,
+    "type": "expense",
+    "category": "Salary",
+    "date": "2024-06-05"
+  },
+  {
+    "id": 661,
+    "description": "School stationery supplies",
+    "amount": 131.97,
+    "type": "expense",
+    "category": "Transport",
+    "date": "2024-03-12"
+  },
+  {
+    "id": 662,
+    "description": "Freelance project payment",
+    "amount": 396.37,
+    "type": "income",
+    "category": "Other",
+    "date": "2024-03-03"
+  },
+  {
+    "id": 663,
+    "description": "Bank interest earned",
+    "amount": 2492.67,
+    "type": "income",
+    "category": "Shopping",
+    "date": "2024-07-23"
+  },
+  {
+    "id": 664,
+    "description": "Commission income received",
+    "amount": 110.95,
+    "type": "income",
+    "category": "Health",
+    "date": "2024-02-16"
+  },
+  {
+    "id": 665,
+    "description": "Commission income received",
+    "amount": 2277.13,
+    "type": "income",
+    "category": "Entertainment",
+    "date": "2024-01-18"
+  },
+  {
+    "id": 666,
+    "description": "Part\u2011time earnings received",
+    "amount": 2527.65,
+    "type": "income",
+    "category": "Health",
+    "date": "2024-10-08"
+  },
+  {
+    "id": 667,
+    "description": "Taxi fare for city travel",
+    "amount": 54.52,
+    "type": "expense",
+    "category": "Work",
+    "date": "2024-10-15"
+  },
+  {
+    "id": 668,
+    "description": "Monthly salary received",
+    "amount": 234.81,
+    "type": "income",
+    "category": "Entertainment",
+    "date": "2024-07-04"
+  },
+  {
+    "id": 669,
+    "description": "Bonus payout from employer",
+    "amount": 1670.72,
+    "type": "income",
+    "category": "Work",
+    "date": "2024-10-07"
+  },
+  {
+    "id": 670,
+    "description": "Bank interest earned",
+    "amount": 1594.03,
+    "type": "income",
+    "category": "Transport",
+    "date": "2024-01-02"
+  },
+  {
+    "id": 671,
+    "description": "Gym membership monthly fee",
+    "amount": 183.17,
+    "type": "expense",
+    "category": "Salary",
+    "date": "2024-04-17"
+  },
+  {
+    "id": 672,
+    "description": "Online shopping purchase",
+    "amount": 389.71,
+    "type": "expense",
+    "category": "Entertainment",
+    "date": "2024-12-09"
+  },
+  {
+    "id": 673,
+    "description": "Part\u2011time earnings received",
+    "amount": 185.98,
+    "type": "income",
+    "category": "Entertainment",
+    "date": "2024-08-14"
+  },
+  {
+    "id": 674,
+    "description": "Grocery shopping at supermarket",
+    "amount": 91.96,
+    "type": "expense",
+    "category": "Health",
+    "date": "2024-06-09"
+  },
+  {
+    "id": 675,
+    "description": "Mobile data recharge payment",
+    "amount": 92.15,
+    "type": "expense",
+    "category": "Transport",
+    "date": "2024-11-14"
+  },
+  {
+    "id": 676,
+    "description": "Refund credited to account",
+    "amount": 1019.13,
+    "type": "income",
+    "category": "Shopping",
+    "date": "2024-08-02"
+  },
+  {
+    "id": 677,
+    "description": "Taxi fare for city travel",
+    "amount": 465.72,
+    "type": "expense",
+    "category": "Entertainment",
+    "date": "2024-11-24"
+  },
+  {
+    "id": 678,
+    "description": "Cashback reward deposited",
+    "amount": 2529.82,
+    "type": "income",
+    "category": "Food",
+    "date": "2024-08-31"
+  },
+  {
+    "id": 679,
+    "description": "Gym membership monthly fee",
+    "amount": 449.95,
+    "type": "expense",
+    "category": "Transport",
+    "date": "2024-01-21"
+  },
+  {
+    "id": 680,
+    "description": "Cashback reward deposited",
+    "amount": 2026.25,
+    "type": "income",
+    "category": "Shopping",
+    "date": "2024-08-17"
+  },
+  {
+    "id": 681,
+    "description": "Bank interest earned",
+    "amount": 1639.28,
+    "type": "income",
+    "category": "Health",
+    "date": "2024-04-21"
+  },
+  {
+    "id": 682,
+    "description": "Commission income received",
+    "amount": 2739.52,
+    "type": "income",
+    "category": "Work",
+    "date": "2024-04-27"
+  },
+  {
+    "id": 683,
+    "description": "Part\u2011time earnings received",
+    "amount": 1520.74,
+    "type": "income",
+    "category": "Bills",
+    "date": "2024-12-07"
+  },
+  {
+    "id": 684,
+    "description": "Monthly salary received",
+    "amount": 1715.3,
+    "type": "income",
+    "category": "Salary",
+    "date": "2024-04-24"
+  },
+  {
+    "id": 685,
+    "description": "Bonus payout from employer",
+    "amount": 2478.57,
+    "type": "income",
+    "category": "Salary",
+    "date": "2024-05-24"
+  },
+  {
+    "id": 686,
+    "description": "Client invoice settlement",
+    "amount": 2627.43,
+    "type": "income",
+    "category": "Shopping",
+    "date": "2024-12-12"
+  },
+  {
+    "id": 687,
+    "description": "Cashback reward deposited",
+    "amount": 1548.82,
+    "type": "income",
+    "category": "Shopping",
+    "date": "2024-07-19"
+  },
+  {
+    "id": 688,
+    "description": "Online shopping purchase",
+    "amount": 210.67,
+    "type": "expense",
+    "category": "Bills",
+    "date": "2024-11-11"
+  },
+  {
+    "id": 689,
+    "description": "Commission income received",
+    "amount": 1223.49,
+    "type": "income",
+    "category": "Work",
+    "date": "2024-07-02"
+  },
+  {
+    "id": 690,
+    "description": "Gym membership monthly fee",
+    "amount": 451.16,
+    "type": "expense",
+    "category": "Transport",
+    "date": "2024-12-04"
+  },
+  {
+    "id": 691,
+    "description": "Bank interest earned",
+    "amount": 1468.94,
+    "type": "income",
+    "category": "Food",
+    "date": "2024-06-14"
+  },
+  {
+    "id": 692,
+    "description": "Freelance project payment",
+    "amount": 448.08,
+    "type": "income",
+    "category": "Work",
+    "date": "2024-01-27"
+  },
+  {
+    "id": 693,
+    "description": "Fuel refill at petrol station",
+    "amount": 140.93,
+    "type": "expense",
+    "category": "Shopping",
+    "date": "2024-04-05"
+  },
+  {
+    "id": 694,
+    "description": "Refund credited to account",
+    "amount": 2621.54,
+    "type": "income",
+    "category": "Food",
+    "date": "2024-01-15"
+  },
+  {
+    "id": 695,
+    "description": "Bank interest earned",
+    "amount": 1607.75,
+    "type": "income",
+    "category": "Work",
+    "date": "2024-02-21"
+  },
+  {
+    "id": 696,
+    "description": "Bonus payout from employer",
+    "amount": 814.46,
+    "type": "income",
+    "category": "Bills",
+    "date": "2024-06-18"
+  },
+  {
+    "id": 697,
+    "description": "School stationery supplies",
+    "amount": 450.31,
+    "type": "expense",
+    "category": "Bills",
+    "date": "2024-11-17"
+  },
+  {
+    "id": 698,
+    "description": "Coffee shop takeaway order",
+    "amount": 436.84,
+    "type": "expense",
+    "category": "Salary",
+    "date": "2024-10-30"
+  },
+  {
+    "id": 699,
+    "description": "Part\u2011time earnings received",
+    "amount": 2713.42,
+    "type": "income",
+    "category": "Work",
+    "date": "2024-07-13"
+  },
+  {
+    "id": 700,
+    "description": "Cashback reward deposited",
+    "amount": 611.32,
+    "type": "income",
+    "category": "Entertainment",
+    "date": "2024-01-15"
+  },
+  {
+    "id": 701,
+    "description": "Water bill settlement",
+    "amount": 67.18,
+    "type": "expense",
+    "category": "Work",
+    "date": "2024-12-03"
+  },
+  {
+    "id": 702,
+    "description": "Taxi fare for city travel",
+    "amount": 384.57,
+    "type": "expense",
+    "category": "Shopping",
+    "date": "2024-07-13"
+  },
+  {
+    "id": 703,
+    "description": "Commission income received",
+    "amount": 66.71,
+    "type": "income",
+    "category": "Food",
+    "date": "2024-04-22"
+  },
+  {
+    "id": 704,
+    "description": "Refund credited to account",
+    "amount": 2618.65,
+    "type": "income",
+    "category": "Transport",
+    "date": "2024-06-30"
+  },
+  {
+    "id": 705,
+    "description": "Part\u2011time earnings received",
+    "amount": 545.94,
+    "type": "income",
+    "category": "Other",
+    "date": "2024-12-05"
+  },
+  {
+    "id": 706,
+    "description": "Movie tickets at cinema",
+    "amount": 177.87,
+    "type": "expense",
+    "category": "Other",
+    "date": "2024-06-27"
+  },
+  {
+    "id": 707,
+    "description": "Mobile data recharge payment",
+    "amount": 277.43,
+    "type": "expense",
+    "category": "Work",
+    "date": "2024-04-18"
+  },
+  {
+    "id": 708,
+    "description": "School stationery supplies",
+    "amount": 361.99,
+    "type": "expense",
+    "category": "Shopping",
+    "date": "2024-10-10"
+  },
+  {
+    "id": 709,
+    "description": "Commission income received",
+    "amount": 1177.75,
+    "type": "income",
+    "category": "Health",
+    "date": "2024-02-26"
+  },
+  {
+    "id": 710,
+    "description": "Coffee shop takeaway order",
+    "amount": 51.35,
+    "type": "expense",
+    "category": "Health",
+    "date": "2024-11-22"
+  },
+  {
+    "id": 711,
+    "description": "Monthly salary received",
+    "amount": 2273.91,
+    "type": "income",
+    "category": "Entertainment",
+    "date": "2024-06-25"
+  },
+  {
+    "id": 712,
+    "description": "Freelance project payment",
+    "amount": 1293.71,
+    "type": "income",
+    "category": "Salary",
+    "date": "2024-04-03"
+  },
+  {
+    "id": 713,
+    "description": "Gym membership monthly fee",
+    "amount": 112.14,
+    "type": "expense",
+    "category": "Work",
+    "date": "2024-10-25"
+  },
+  {
+    "id": 714,
+    "description": "Water bill settlement",
+    "amount": 306.14,
+    "type": "expense",
+    "category": "Transport",
+    "date": "2024-10-31"
+  },
+  {
+    "id": 715,
+    "description": "Bank interest earned",
+    "amount": 1638.9,
+    "type": "income",
+    "category": "Work",
+    "date": "2024-06-30"
+  },
+  {
+    "id": 716,
+    "description": "Monthly salary received",
+    "amount": 2470.42,
+    "type": "income",
+    "category": "Bills",
+    "date": "2024-06-29"
+  },
+  {
+    "id": 717,
+    "description": "Refund credited to account",
+    "amount": 2510.0,
+    "type": "income",
+    "category": "Entertainment",
+    "date": "2024-03-16"
+  },
+  {
+    "id": 718,
+    "description": "Pharmacy medical supplies",
+    "amount": 460.42,
+    "type": "expense",
+    "category": "Work",
+    "date": "2024-04-18"
+  },
+  {
+    "id": 719,
+    "description": "Freelance project payment",
+    "amount": 2041.47,
+    "type": "income",
+    "category": "Bills",
+    "date": "2024-09-27"
+  },
+  {
+    "id": 720,
+    "description": "Taxi fare for city travel",
+    "amount": 102.53,
+    "type": "expense",
+    "category": "Entertainment",
+    "date": "2024-03-14"
+  },
+  {
+    "id": 721,
+    "description": "Bank interest earned",
+    "amount": 2136.06,
+    "type": "income",
+    "category": "Bills",
+    "date": "2024-01-12"
+  },
+  {
+    "id": 722,
+    "description": "Restaurant dine\u2011in expense",
+    "amount": 309.07,
+    "type": "expense",
+    "category": "Work",
+    "date": "2024-05-30"
+  },
+  {
+    "id": 723,
+    "description": "Pharmacy medical supplies",
+    "amount": 372.61,
+    "type": "expense",
+    "category": "Entertainment",
+    "date": "2024-01-16"
+  },
+  {
+    "id": 724,
+    "description": "Clothing store purchase",
+    "amount": 13.56,
+    "type": "expense",
+    "category": "Transport",
+    "date": "2024-03-08"
+  },
+  {
+    "id": 725,
+    "description": "Commission income received",
+    "amount": 1564.39,
+    "type": "income",
+    "category": "Work",
+    "date": "2024-09-04"
+  },
+  {
+    "id": 726,
+    "description": "Refund credited to account",
+    "amount": 963.05,
+    "type": "income",
+    "category": "Bills",
+    "date": "2024-09-04"
+  },
+  {
+    "id": 727,
+    "description": "Client invoice settlement",
+    "amount": 129.2,
+    "type": "income",
+    "category": "Other",
+    "date": "2024-08-01"
+  },
+  {
+    "id": 728,
+    "description": "Electricity utility bill payment",
+    "amount": 270.13,
+    "type": "expense",
+    "category": "Health",
+    "date": "2024-07-31"
+  },
+  {
+    "id": 729,
+    "description": "Taxi fare for city travel",
+    "amount": 280.22,
+    "type": "expense",
+    "category": "Food",
+    "date": "2024-08-15"
+  },
+  {
+    "id": 730,
+    "description": "House rent monthly payment",
+    "amount": 169.97,
+    "type": "expense",
+    "category": "Food",
+    "date": "2024-06-29"
+  },
+  {
+    "id": 731,
+    "description": "Restaurant dine\u2011in expense",
+    "amount": 353.96,
+    "type": "expense",
+    "category": "Transport",
+    "date": "2024-06-04"
+  },
+  {
+    "id": 732,
+    "description": "Coffee shop takeaway order",
+    "amount": 230.36,
+    "type": "expense",
+    "category": "Entertainment",
+    "date": "2024-06-22"
+  },
+  {
+    "id": 733,
+    "description": "Fuel refill at petrol station",
+    "amount": 458.96,
+    "type": "expense",
+    "category": "Work",
+    "date": "2024-08-07"
+  },
+  {
+    "id": 734,
+    "description": "Refund credited to account",
+    "amount": 2828.69,
+    "type": "income",
+    "category": "Shopping",
+    "date": "2024-10-26"
+  },
+  {
+    "id": 735,
+    "description": "Water bill settlement",
+    "amount": 181.31,
+    "type": "expense",
+    "category": "Shopping",
+    "date": "2024-11-15"
+  },
+  {
+    "id": 736,
+    "description": "Part\u2011time earnings received",
+    "amount": 924.45,
+    "type": "income",
+    "category": "Health",
+    "date": "2024-08-02"
+  },
+  {
+    "id": 737,
+    "description": "Bonus payout from employer",
+    "amount": 659.39,
+    "type": "income",
+    "category": "Bills",
+    "date": "2024-12-29"
+  },
+  {
+    "id": 738,
+    "description": "Bonus payout from employer",
+    "amount": 1627.0,
+    "type": "income",
+    "category": "Salary",
+    "date": "2024-02-23"
+  },
+  {
+    "id": 739,
+    "description": "Movie tickets at cinema",
+    "amount": 461.0,
+    "type": "expense",
+    "category": "Health",
+    "date": "2024-03-21"
+  },
+  {
+    "id": 740,
+    "description": "School stationery supplies",
+    "amount": 205.88,
+    "type": "expense",
+    "category": "Other",
+    "date": "2024-06-03"
+  },
+  {
+    "id": 741,
+    "description": "Clothing store purchase",
+    "amount": 348.91,
+    "type": "expense",
+    "category": "Transport",
+    "date": "2024-12-30"
+  },
+  {
+    "id": 742,
+    "description": "Freelance project payment",
+    "amount": 224.49,
+    "type": "income",
+    "category": "Bills",
+    "date": "2024-09-21"
+  },
+  {
+    "id": 743,
+    "description": "Mobile data recharge payment",
+    "amount": 29.38,
+    "type": "expense",
+    "category": "Other",
+    "date": "2024-08-04"
+  },
+  {
+    "id": 744,
+    "description": "Monthly salary received",
+    "amount": 1676.43,
+    "type": "income",
+    "category": "Food",
+    "date": "2024-03-30"
+  },
+  {
+    "id": 745,
+    "description": "Part\u2011time earnings received",
+    "amount": 2176.6,
+    "type": "income",
+    "category": "Health",
+    "date": "2024-09-28"
+  },
+  {
+    "id": 746,
+    "description": "Water bill settlement",
+    "amount": 451.24,
+    "type": "expense",
+    "category": "Work",
+    "date": "2024-07-09"
+  },
+  {
+    "id": 747,
+    "description": "Online shopping purchase",
+    "amount": 284.17,
+    "type": "expense",
+    "category": "Other",
+    "date": "2024-10-31"
+  },
+  {
+    "id": 748,
+    "description": "Freelance project payment",
+    "amount": 2988.49,
+    "type": "income",
+    "category": "Bills",
+    "date": "2024-11-06"
+  },
+  {
+    "id": 749,
+    "description": "Pharmacy medical supplies",
+    "amount": 42.17,
+    "type": "expense",
+    "category": "Work",
+    "date": "2024-04-12"
+  },
+  {
+    "id": 750,
+    "description": "Movie tickets at cinema",
+    "amount": 467.8,
+    "type": "expense",
+    "category": "Entertainment",
+    "date": "2024-10-08"
+  },
+  {
+    "id": 751,
+    "description": "Mobile data recharge payment",
+    "amount": 104.19,
+    "type": "expense",
+    "category": "Other",
+    "date": "2024-12-01"
+  },
+  {
+    "id": 752,
+    "description": "Dividend payout received",
+    "amount": 573.64,
+    "type": "income",
+    "category": "Salary",
+    "date": "2024-04-17"
+  },
+  {
+    "id": 753,
+    "description": "Clothing store purchase",
+    "amount": 162.12,
+    "type": "expense",
+    "category": "Salary",
+    "date": "2024-05-12"
+  },
+  {
+    "id": 754,
+    "description": "Bank interest earned",
+    "amount": 630.64,
+    "type": "income",
+    "category": "Bills",
+    "date": "2024-03-04"
+  },
+  {
+    "id": 755,
+    "description": "Monthly salary received",
+    "amount": 2636.47,
+    "type": "income",
+    "category": "Transport",
+    "date": "2024-04-09"
+  },
+  {
+    "id": 756,
+    "description": "Clothing store purchase",
+    "amount": 372.1,
+    "type": "expense",
+    "category": "Shopping",
+    "date": "2024-02-18"
+  },
+  {
+    "id": 757,
+    "description": "Bonus payout from employer",
+    "amount": 998.33,
+    "type": "income",
+    "category": "Food",
+    "date": "2024-07-07"
+  },
+  {
+    "id": 758,
+    "description": "Freelance project payment",
+    "amount": 2142.72,
+    "type": "income",
+    "category": "Work",
+    "date": "2024-01-11"
+  },
+  {
+    "id": 759,
+    "description": "Refund credited to account",
+    "amount": 1768.89,
+    "type": "income",
+    "category": "Salary",
+    "date": "2024-06-11"
+  },
+  {
+    "id": 760,
+    "description": "Cashback reward deposited",
+    "amount": 2526.59,
+    "type": "income",
+    "category": "Transport",
+    "date": "2024-05-14"
+  },
+  {
+    "id": 761,
+    "description": "Monthly salary received",
+    "amount": 354.38,
+    "type": "income",
+    "category": "Transport",
+    "date": "2024-09-18"
+  },
+  {
+    "id": 762,
+    "description": "Movie tickets at cinema",
+    "amount": 275.04,
+    "type": "expense",
+    "category": "Work",
+    "date": "2024-09-24"
+  },
+  {
+    "id": 763,
+    "description": "Restaurant dine\u2011in expense",
+    "amount": 391.04,
+    "type": "expense",
+    "category": "Work",
+    "date": "2024-06-09"
+  },
+  {
+    "id": 764,
+    "description": "Fuel refill at petrol station",
+    "amount": 421.53,
+    "type": "expense",
+    "category": "Bills",
+    "date": "2024-04-05"
+  },
+  {
+    "id": 765,
+    "description": "Bonus payout from employer",
+    "amount": 1049.66,
+    "type": "income",
+    "category": "Salary",
+    "date": "2024-11-17"
+  },
+  {
+    "id": 766,
+    "description": "Refund credited to account",
+    "amount": 365.48,
+    "type": "income",
+    "category": "Bills",
+    "date": "2024-01-13"
+  },
+  {
+    "id": 767,
+    "description": "Restaurant dine\u2011in expense",
+    "amount": 115.96,
+    "type": "expense",
+    "category": "Health",
+    "date": "2024-10-24"
+  },
+  {
+    "id": 768,
+    "description": "Taxi fare for city travel",
+    "amount": 61.27,
+    "type": "expense",
+    "category": "Transport",
+    "date": "2024-10-19"
+  },
+  {
+    "id": 769,
+    "description": "Dividend payout received",
+    "amount": 779.21,
+    "type": "income",
+    "category": "Shopping",
+    "date": "2024-12-10"
+  },
+  {
+    "id": 770,
+    "description": "Pharmacy medical supplies",
+    "amount": 270.9,
+    "type": "expense",
+    "category": "Salary",
+    "date": "2024-02-08"
+  },
+  {
+    "id": 771,
+    "description": "Monthly salary received",
+    "amount": 2812.16,
+    "type": "income",
+    "category": "Food",
+    "date": "2024-04-10"
+  },
+  {
+    "id": 772,
+    "description": "Bank interest earned",
+    "amount": 708.38,
+    "type": "income",
+    "category": "Salary",
+    "date": "2024-09-11"
+  },
+  {
+    "id": 773,
+    "description": "Commission income received",
+    "amount": 1060.38,
+    "type": "income",
+    "category": "Food",
+    "date": "2024-08-31"
+  },
+  {
+    "id": 774,
+    "description": "Client invoice settlement",
+    "amount": 2857.11,
+    "type": "income",
+    "category": "Food",
+    "date": "2024-04-02"
+  },
+  {
+    "id": 775,
+    "description": "House rent monthly payment",
+    "amount": 369.2,
+    "type": "expense",
+    "category": "Other",
+    "date": "2024-05-01"
+  },
+  {
+    "id": 776,
+    "description": "Water bill settlement",
+    "amount": 489.83,
+    "type": "expense",
+    "category": "Entertainment",
+    "date": "2024-02-17"
+  },
+  {
+    "id": 777,
+    "description": "Online shopping purchase",
+    "amount": 241.43,
+    "type": "expense",
+    "category": "Work",
+    "date": "2024-08-28"
+  },
+  {
+    "id": 778,
+    "description": "Pharmacy medical supplies",
+    "amount": 407.58,
+    "type": "expense",
+    "category": "Work",
+    "date": "2024-02-26"
+  },
+  {
+    "id": 779,
+    "description": "Bonus payout from employer",
+    "amount": 2456.06,
+    "type": "income",
+    "category": "Salary",
+    "date": "2024-12-07"
+  },
+  {
+    "id": 780,
+    "description": "Gym membership monthly fee",
+    "amount": 155.49,
+    "type": "expense",
+    "category": "Other",
+    "date": "2024-06-02"
+  },
+  {
+    "id": 781,
+    "description": "Movie tickets at cinema",
+    "amount": 338.94,
+    "type": "expense",
+    "category": "Work",
+    "date": "2024-04-20"
+  },
+  {
+    "id": 782,
+    "description": "Dividend payout received",
+    "amount": 1385.38,
+    "type": "income",
+    "category": "Shopping",
+    "date": "2024-08-19"
+  },
+  {
+    "id": 783,
+    "description": "Online shopping purchase",
+    "amount": 435.58,
+    "type": "expense",
+    "category": "Bills",
+    "date": "2024-08-07"
+  },
+  {
+    "id": 784,
+    "description": "Part\u2011time earnings received",
+    "amount": 1570.48,
+    "type": "income",
+    "category": "Health",
+    "date": "2024-02-02"
+  },
+  {
+    "id": 785,
+    "description": "Monthly salary received",
+    "amount": 1850.04,
+    "type": "income",
+    "category": "Salary",
+    "date": "2024-04-29"
+  },
+  {
+    "id": 786,
+    "description": "School stationery supplies",
+    "amount": 412.05,
+    "type": "expense",
+    "category": "Bills",
+    "date": "2024-10-28"
+  },
+  {
+    "id": 787,
+    "description": "Taxi fare for city travel",
+    "amount": 271.31,
+    "type": "expense",
+    "category": "Entertainment",
+    "date": "2024-06-10"
+  },
+  {
+    "id": 788,
+    "description": "Dividend payout received",
+    "amount": 2221.29,
+    "type": "income",
+    "category": "Food",
+    "date": "2024-04-03"
+  },
+  {
+    "id": 789,
+    "description": "Cashback reward deposited",
+    "amount": 2091.74,
+    "type": "income",
+    "category": "Health",
+    "date": "2024-12-16"
+  },
+  {
+    "id": 790,
+    "description": "Electricity utility bill payment",
+    "amount": 115.07,
+    "type": "expense",
+    "category": "Health",
+    "date": "2024-04-20"
+  },
+  {
+    "id": 791,
+    "description": "Movie tickets at cinema",
+    "amount": 289.15,
+    "type": "expense",
+    "category": "Bills",
+    "date": "2024-11-30"
+  },
+  {
+    "id": 792,
+    "description": "Commission income received",
+    "amount": 158.01,
+    "type": "income",
+    "category": "Bills",
+    "date": "2024-07-23"
+  },
+  {
+    "id": 793,
+    "description": "School stationery supplies",
+    "amount": 42.46,
+    "type": "expense",
+    "category": "Entertainment",
+    "date": "2024-09-28"
+  },
+  {
+    "id": 794,
+    "description": "Bank interest earned",
+    "amount": 730.04,
+    "type": "income",
+    "category": "Food",
+    "date": "2024-07-08"
+  },
+  {
+    "id": 795,
+    "description": "Coffee shop takeaway order",
+    "amount": 382.76,
+    "type": "expense",
+    "category": "Other",
+    "date": "2024-04-05"
+  },
+  {
+    "id": 796,
+    "description": "Clothing store purchase",
+    "amount": 248.84,
+    "type": "expense",
+    "category": "Entertainment",
+    "date": "2024-07-10"
+  },
+  {
+    "id": 797,
+    "description": "Movie tickets at cinema",
+    "amount": 404.1,
+    "type": "expense",
+    "category": "Other",
+    "date": "2024-05-03"
+  },
+  {
+    "id": 798,
+    "description": "House rent monthly payment",
+    "amount": 289.75,
+    "type": "expense",
+    "category": "Bills",
+    "date": "2024-06-03"
+  },
+  {
+    "id": 799,
+    "description": "Commission income received",
+    "amount": 2477.13,
+    "type": "income",
+    "category": "Entertainment",
+    "date": "2024-12-05"
+  },
+  {
+    "id": 800,
+    "description": "Clothing store purchase",
+    "amount": 135.85,
+    "type": "expense",
+    "category": "Work",
+    "date": "2024-02-13"
+  },
+  {
+    "id": 801,
+    "description": "Mobile data recharge payment",
+    "amount": 64.33,
+    "type": "expense",
+    "category": "Entertainment",
+    "date": "2024-12-06"
+  },
+  {
+    "id": 802,
+    "description": "Electricity utility bill payment",
+    "amount": 72.88,
+    "type": "expense",
+    "category": "Salary",
+    "date": "2024-02-14"
+  },
+  {
+    "id": 803,
+    "description": "Taxi fare for city travel",
+    "amount": 20.25,
+    "type": "expense",
+    "category": "Health",
+    "date": "2024-02-07"
+  },
+  {
+    "id": 804,
+    "description": "Online shopping purchase",
+    "amount": 472.92,
+    "type": "expense",
+    "category": "Entertainment",
+    "date": "2024-10-27"
+  },
+  {
+    "id": 805,
+    "description": "Refund credited to account",
+    "amount": 2222.97,
+    "type": "income",
+    "category": "Transport",
+    "date": "2024-02-26"
+  },
+  {
+    "id": 806,
+    "description": "Mobile data recharge payment",
+    "amount": 333.82,
+    "type": "expense",
+    "category": "Food",
+    "date": "2024-01-30"
+  },
+  {
+    "id": 807,
+    "description": "Pharmacy medical supplies",
+    "amount": 53.31,
+    "type": "expense",
+    "category": "Salary",
+    "date": "2024-06-17"
+  },
+  {
+    "id": 808,
+    "description": "Part\u2011time earnings received",
+    "amount": 1149.6,
+    "type": "income",
+    "category": "Transport",
+    "date": "2024-07-28"
+  },
+  {
+    "id": 809,
+    "description": "Bank interest earned",
+    "amount": 1264.03,
+    "type": "income",
+    "category": "Transport",
+    "date": "2024-06-22"
+  },
+  {
+    "id": 810,
+    "description": "Online shopping purchase",
+    "amount": 125.18,
+    "type": "expense",
+    "category": "Entertainment",
+    "date": "2024-06-30"
+  },
+  {
+    "id": 811,
+    "description": "Dividend payout received",
+    "amount": 1881.56,
+    "type": "income",
+    "category": "Salary",
+    "date": "2024-04-06"
+  },
+  {
+    "id": 812,
+    "description": "Client invoice settlement",
+    "amount": 2848.41,
+    "type": "income",
+    "category": "Work",
+    "date": "2024-07-18"
+  },
+  {
+    "id": 813,
+    "description": "Client invoice settlement",
+    "amount": 174.66,
+    "type": "income",
+    "category": "Work",
+    "date": "2024-10-16"
+  },
+  {
+    "id": 814,
+    "description": "Cashback reward deposited",
+    "amount": 2491.97,
+    "type": "income",
+    "category": "Bills",
+    "date": "2024-11-25"
+  },
+  {
+    "id": 815,
+    "description": "Restaurant dine\u2011in expense",
+    "amount": 479.4,
+    "type": "expense",
+    "category": "Entertainment",
+    "date": "2024-05-08"
+  },
+  {
+    "id": 816,
+    "description": "Monthly salary received",
+    "amount": 915.68,
+    "type": "income",
+    "category": "Work",
+    "date": "2024-02-27"
+  },
+  {
+    "id": 817,
+    "description": "Dividend payout received",
+    "amount": 467.85,
+    "type": "income",
+    "category": "Food",
+    "date": "2024-07-11"
+  },
+  {
+    "id": 818,
+    "description": "Taxi fare for city travel",
+    "amount": 231.18,
+    "type": "expense",
+    "category": "Transport",
+    "date": "2024-04-22"
+  },
+  {
+    "id": 819,
+    "description": "Mobile data recharge payment",
+    "amount": 11.97,
+    "type": "expense",
+    "category": "Entertainment",
+    "date": "2024-04-13"
+  },
+  {
+    "id": 820,
+    "description": "Monthly salary received",
+    "amount": 814.06,
+    "type": "income",
+    "category": "Work",
+    "date": "2024-10-02"
+  },
+  {
+    "id": 821,
+    "description": "Commission income received",
+    "amount": 2008.78,
+    "type": "income",
+    "category": "Salary",
+    "date": "2024-12-11"
+  },
+  {
+    "id": 822,
+    "description": "Bonus payout from employer",
+    "amount": 910.07,
+    "type": "income",
+    "category": "Entertainment",
+    "date": "2024-12-29"
+  },
+  {
+    "id": 823,
+    "description": "Client invoice settlement",
+    "amount": 2057.79,
+    "type": "income",
+    "category": "Work",
+    "date": "2024-08-25"
+  },
+  {
+    "id": 824,
+    "description": "Commission income received",
+    "amount": 334.52,
+    "type": "income",
+    "category": "Shopping",
+    "date": "2024-05-17"
+  },
+  {
+    "id": 825,
+    "description": "Monthly salary received",
+    "amount": 357.61,
+    "type": "income",
+    "category": "Shopping",
+    "date": "2024-09-30"
+  },
+  {
+    "id": 826,
+    "description": "Part\u2011time earnings received",
+    "amount": 2047.5,
+    "type": "income",
+    "category": "Health",
+    "date": "2024-07-25"
+  },
+  {
+    "id": 827,
+    "description": "Bonus payout from employer",
+    "amount": 2651.13,
+    "type": "income",
+    "category": "Work",
+    "date": "2024-02-25"
+  },
+  {
+    "id": 828,
+    "description": "Fuel refill at petrol station",
+    "amount": 330.38,
+    "type": "expense",
+    "category": "Entertainment",
+    "date": "2024-05-23"
+  },
+  {
+    "id": 829,
+    "description": "Monthly salary received",
+    "amount": 1660.64,
+    "type": "income",
+    "category": "Transport",
+    "date": "2024-09-15"
+  },
+  {
+    "id": 830,
+    "description": "Mobile data recharge payment",
+    "amount": 11.88,
+    "type": "expense",
+    "category": "Shopping",
+    "date": "2024-04-01"
+  },
+  {
+    "id": 831,
+    "description": "Bank interest earned",
+    "amount": 120.65,
+    "type": "income",
+    "category": "Transport",
+    "date": "2024-02-27"
+  },
+  {
+    "id": 832,
+    "description": "Bank interest earned",
+    "amount": 435.68,
+    "type": "income",
+    "category": "Bills",
+    "date": "2024-02-26"
+  },
+  {
+    "id": 833,
+    "description": "Grocery shopping at supermarket",
+    "amount": 223.8,
+    "type": "expense",
+    "category": "Food",
+    "date": "2024-11-27"
+  },
+  {
+    "id": 834,
+    "description": "Grocery shopping at supermarket",
+    "amount": 302.54,
+    "type": "expense",
+    "category": "Transport",
+    "date": "2024-01-09"
+  },
+  {
+    "id": 835,
+    "description": "Gym membership monthly fee",
+    "amount": 312.19,
+    "type": "expense",
+    "category": "Health",
+    "date": "2024-12-17"
+  },
+  {
+    "id": 836,
+    "description": "Bonus payout from employer",
+    "amount": 2127.75,
+    "type": "income",
+    "category": "Shopping",
+    "date": "2024-04-11"
+  },
+  {
+    "id": 837,
+    "description": "Monthly salary received",
+    "amount": 2143.39,
+    "type": "income",
+    "category": "Entertainment",
+    "date": "2024-08-20"
+  },
+  {
+    "id": 838,
+    "description": "Clothing store purchase",
+    "amount": 348.67,
+    "type": "expense",
+    "category": "Bills",
+    "date": "2024-10-31"
+  },
+  {
+    "id": 839,
+    "description": "Grocery shopping at supermarket",
+    "amount": 151.14,
+    "type": "expense",
+    "category": "Shopping",
+    "date": "2024-04-22"
+  },
+  {
+    "id": 840,
+    "description": "House rent monthly payment",
+    "amount": 340.45,
+    "type": "expense",
+    "category": "Other",
+    "date": "2024-12-24"
+  },
+  {
+    "id": 841,
+    "description": "Taxi fare for city travel",
+    "amount": 144.89,
+    "type": "expense",
+    "category": "Entertainment",
+    "date": "2024-02-15"
+  },
+  {
+    "id": 842,
+    "description": "Freelance project payment",
+    "amount": 2582.96,
+    "type": "income",
+    "category": "Other",
+    "date": "2024-08-27"
+  },
+  {
+    "id": 843,
+    "description": "Refund credited to account",
+    "amount": 2652.8,
+    "type": "income",
+    "category": "Entertainment",
+    "date": "2024-07-28"
+  },
+  {
+    "id": 844,
+    "description": "Cashback reward deposited",
+    "amount": 2945.57,
+    "type": "income",
+    "category": "Work",
+    "date": "2024-06-07"
+  },
+  {
+    "id": 845,
+    "description": "Taxi fare for city travel",
+    "amount": 392.13,
+    "type": "expense",
+    "category": "Health",
+    "date": "2024-04-04"
+  },
+  {
+    "id": 846,
+    "description": "Commission income received",
+    "amount": 2164.49,
+    "type": "income",
+    "category": "Other",
+    "date": "2024-04-06"
+  },
+  {
+    "id": 847,
+    "description": "Monthly salary received",
+    "amount": 2801.32,
+    "type": "income",
+    "category": "Salary",
+    "date": "2024-03-19"
+  },
+  {
+    "id": 848,
+    "description": "Electricity utility bill payment",
+    "amount": 165.2,
+    "type": "expense",
+    "category": "Salary",
+    "date": "2024-11-25"
+  },
+  {
+    "id": 849,
+    "description": "School stationery supplies",
+    "amount": 142.2,
+    "type": "expense",
+    "category": "Shopping",
+    "date": "2024-06-01"
+  },
+  {
+    "id": 850,
+    "description": "Part\u2011time earnings received",
+    "amount": 2627.63,
+    "type": "income",
+    "category": "Food",
+    "date": "2024-01-11"
+  },
+  {
+    "id": 851,
+    "description": "Commission income received",
+    "amount": 1213.75,
+    "type": "income",
+    "category": "Shopping",
+    "date": "2024-03-31"
+  },
+  {
+    "id": 852,
+    "description": "Dividend payout received",
+    "amount": 2197.33,
+    "type": "income",
+    "category": "Health",
+    "date": "2024-05-17"
+  },
+  {
+    "id": 853,
+    "description": "Bank interest earned",
+    "amount": 383.77,
+    "type": "income",
+    "category": "Transport",
+    "date": "2024-04-22"
+  },
+  {
+    "id": 854,
+    "description": "Restaurant dine\u2011in expense",
+    "amount": 403.96,
+    "type": "expense",
+    "category": "Health",
+    "date": "2024-07-22"
+  },
+  {
+    "id": 855,
+    "description": "Freelance project payment",
+    "amount": 2637.65,
+    "type": "income",
+    "category": "Shopping",
+    "date": "2024-03-01"
+  },
+  {
+    "id": 856,
+    "description": "House rent monthly payment",
+    "amount": 134.99,
+    "type": "expense",
+    "category": "Salary",
+    "date": "2024-01-17"
+  },
+  {
+    "id": 857,
+    "description": "Bonus payout from employer",
+    "amount": 1469.13,
+    "type": "income",
+    "category": "Food",
+    "date": "2024-02-03"
+  },
+  {
+    "id": 858,
+    "description": "Movie tickets at cinema",
+    "amount": 51.87,
+    "type": "expense",
+    "category": "Salary",
+    "date": "2024-08-17"
+  },
+  {
+    "id": 859,
+    "description": "Bonus payout from employer",
+    "amount": 561.09,
+    "type": "income",
+    "category": "Transport",
+    "date": "2024-08-13"
+  },
+  {
+    "id": 860,
+    "description": "Refund credited to account",
+    "amount": 529.56,
+    "type": "income",
+    "category": "Entertainment",
+    "date": "2024-04-14"
+  },
+  {
+    "id": 861,
+    "description": "Taxi fare for city travel",
+    "amount": 124.95,
+    "type": "expense",
+    "category": "Salary",
+    "date": "2024-07-09"
+  },
+  {
+    "id": 862,
+    "description": "Dividend payout received",
+    "amount": 1080.36,
+    "type": "income",
+    "category": "Transport",
+    "date": "2024-05-31"
+  },
+  {
+    "id": 863,
+    "description": "Bonus payout from employer",
+    "amount": 780.08,
+    "type": "income",
+    "category": "Bills",
+    "date": "2024-01-12"
+  },
+  {
+    "id": 864,
+    "description": "Pharmacy medical supplies",
+    "amount": 493.94,
+    "type": "expense",
+    "category": "Entertainment",
+    "date": "2024-11-24"
+  },
+  {
+    "id": 865,
+    "description": "Pharmacy medical supplies",
+    "amount": 175.63,
+    "type": "expense",
+    "category": "Food",
+    "date": "2024-10-01"
+  },
+  {
+    "id": 866,
+    "description": "Gym membership monthly fee",
+    "amount": 268.43,
+    "type": "expense",
+    "category": "Transport",
+    "date": "2024-10-03"
+  },
+  {
+    "id": 867,
+    "description": "Bank interest earned",
+    "amount": 506.3,
+    "type": "income",
+    "category": "Bills",
+    "date": "2024-07-25"
+  },
+  {
+    "id": 868,
+    "description": "Commission income received",
+    "amount": 67.24,
+    "type": "income",
+    "category": "Transport",
+    "date": "2024-06-05"
+  },
+  {
+    "id": 869,
+    "description": "Commission income received",
+    "amount": 2205.02,
+    "type": "income",
+    "category": "Salary",
+    "date": "2024-11-09"
+  },
+  {
+    "id": 870,
+    "description": "Online shopping purchase",
+    "amount": 128.19,
+    "type": "expense",
+    "category": "Salary",
+    "date": "2024-07-21"
+  },
+  {
+    "id": 871,
+    "description": "Movie tickets at cinema",
+    "amount": 49.81,
+    "type": "expense",
+    "category": "Salary",
+    "date": "2024-12-18"
+  },
+  {
+    "id": 872,
+    "description": "Fuel refill at petrol station",
+    "amount": 36.43,
+    "type": "expense",
+    "category": "Health",
+    "date": "2024-08-04"
+  },
+  {
+    "id": 873,
+    "description": "Dividend payout received",
+    "amount": 1431.42,
+    "type": "income",
+    "category": "Salary",
+    "date": "2024-12-03"
+  },
+  {
+    "id": 874,
+    "description": "Monthly salary received",
+    "amount": 2336.51,
+    "type": "income",
+    "category": "Health",
+    "date": "2024-02-23"
+  },
+  {
+    "id": 875,
+    "description": "Grocery shopping at supermarket",
+    "amount": 108.96,
+    "type": "expense",
+    "category": "Bills",
+    "date": "2024-03-06"
+  },
+  {
+    "id": 876,
+    "description": "Restaurant dine\u2011in expense",
+    "amount": 441.48,
+    "type": "expense",
+    "category": "Bills",
+    "date": "2024-06-26"
+  },
+  {
+    "id": 877,
+    "description": "Cashback reward deposited",
+    "amount": 67.27,
+    "type": "income",
+    "category": "Food",
+    "date": "2024-08-30"
+  },
+  {
+    "id": 878,
+    "description": "Monthly salary received",
+    "amount": 24.02,
+    "type": "income",
+    "category": "Shopping",
+    "date": "2024-12-13"
+  },
+  {
+    "id": 879,
+    "description": "Bonus payout from employer",
+    "amount": 2097.11,
+    "type": "income",
+    "category": "Food",
+    "date": "2024-11-23"
+  },
+  {
+    "id": 880,
+    "description": "Water bill settlement",
+    "amount": 65.95,
+    "type": "expense",
+    "category": "Transport",
+    "date": "2024-08-24"
+  },
+  {
+    "id": 881,
+    "description": "Cashback reward deposited",
+    "amount": 296.69,
+    "type": "income",
+    "category": "Food",
+    "date": "2024-10-30"
+  },
+  {
+    "id": 882,
+    "description": "Part\u2011time earnings received",
+    "amount": 584.43,
+    "type": "income",
+    "category": "Other",
+    "date": "2024-04-30"
+  },
+  {
+    "id": 883,
+    "description": "House rent monthly payment",
+    "amount": 442.22,
+    "type": "expense",
+    "category": "Work",
+    "date": "2024-08-17"
+  },
+  {
+    "id": 884,
+    "description": "Grocery shopping at supermarket",
+    "amount": 24.86,
+    "type": "expense",
+    "category": "Entertainment",
+    "date": "2024-06-15"
+  },
+  {
+    "id": 885,
+    "description": "School stationery supplies",
+    "amount": 408.95,
+    "type": "expense",
+    "category": "Salary",
+    "date": "2024-03-18"
+  },
+  {
+    "id": 886,
+    "description": "Bank interest earned",
+    "amount": 1087.87,
+    "type": "income",
+    "category": "Salary",
+    "date": "2024-06-15"
+  },
+  {
+    "id": 887,
+    "description": "Client invoice settlement",
+    "amount": 1529.0,
+    "type": "income",
+    "category": "Health",
+    "date": "2024-05-06"
+  },
+  {
+    "id": 888,
+    "description": "Clothing store purchase",
+    "amount": 434.16,
+    "type": "expense",
+    "category": "Other",
+    "date": "2024-05-22"
+  },
+  {
+    "id": 889,
+    "description": "Commission income received",
+    "amount": 2619.47,
+    "type": "income",
+    "category": "Shopping",
+    "date": "2024-03-22"
+  },
+  {
+    "id": 890,
+    "description": "Grocery shopping at supermarket",
+    "amount": 310.36,
+    "type": "expense",
+    "category": "Food",
+    "date": "2024-03-30"
+  },
+  {
+    "id": 891,
+    "description": "Gym membership monthly fee",
+    "amount": 141.75,
+    "type": "expense",
+    "category": "Health",
+    "date": "2024-05-20"
+  },
+  {
+    "id": 892,
+    "description": "Part\u2011time earnings received",
+    "amount": 576.07,
+    "type": "income",
+    "category": "Health",
+    "date": "2024-02-19"
+  },
+  {
+    "id": 893,
+    "description": "Dividend payout received",
+    "amount": 2381.67,
+    "type": "income",
+    "category": "Shopping",
+    "date": "2024-11-13"
+  },
+  {
+    "id": 894,
+    "description": "Client invoice settlement",
+    "amount": 561.82,
+    "type": "income",
+    "category": "Other",
+    "date": "2024-03-30"
+  },
+  {
+    "id": 895,
+    "description": "Bank interest earned",
+    "amount": 614.93,
+    "type": "income",
+    "category": "Salary",
+    "date": "2024-09-30"
+  },
+  {
+    "id": 896,
+    "description": "Online shopping purchase",
+    "amount": 489.6,
+    "type": "expense",
+    "category": "Food",
+    "date": "2024-11-03"
+  },
+  {
+    "id": 897,
+    "description": "Cashback reward deposited",
+    "amount": 1270.86,
+    "type": "income",
+    "category": "Shopping",
+    "date": "2024-10-30"
+  },
+  {
+    "id": 898,
+    "description": "Freelance project payment",
+    "amount": 2202.33,
+    "type": "income",
+    "category": "Salary",
+    "date": "2024-11-11"
+  },
+  {
+    "id": 899,
+    "description": "Gym membership monthly fee",
+    "amount": 31.34,
+    "type": "expense",
+    "category": "Entertainment",
+    "date": "2024-12-25"
+  },
+  {
+    "id": 900,
+    "description": "Restaurant dine\u2011in expense",
+    "amount": 151.87,
+    "type": "expense",
+    "category": "Other",
+    "date": "2024-04-18"
+  },
+  {
+    "id": 901,
+    "description": "Taxi fare for city travel",
+    "amount": 462.9,
+    "type": "expense",
+    "category": "Food",
+    "date": "2024-03-31"
+  },
+  {
+    "id": 902,
+    "description": "Part\u2011time earnings received",
+    "amount": 1382.95,
+    "type": "income",
+    "category": "Salary",
+    "date": "2024-06-24"
+  },
+  {
+    "id": 903,
+    "description": "Restaurant dine\u2011in expense",
+    "amount": 383.39,
+    "type": "expense",
+    "category": "Transport",
+    "date": "2024-08-04"
+  },
+  {
+    "id": 904,
+    "description": "Part\u2011time earnings received",
+    "amount": 1201.55,
+    "type": "income",
+    "category": "Other",
+    "date": "2024-04-23"
+  },
+  {
+    "id": 905,
+    "description": "Refund credited to account",
+    "amount": 2349.38,
+    "type": "income",
+    "category": "Work",
+    "date": "2024-07-27"
+  },
+  {
+    "id": 906,
+    "description": "Part\u2011time earnings received",
+    "amount": 220.77,
+    "type": "income",
+    "category": "Other",
+    "date": "2024-10-27"
+  },
+  {
+    "id": 907,
+    "description": "Dividend payout received",
+    "amount": 1459.78,
+    "type": "income",
+    "category": "Transport",
+    "date": "2024-08-20"
+  },
+  {
+    "id": 908,
+    "description": "Part\u2011time earnings received",
+    "amount": 2564.77,
+    "type": "income",
+    "category": "Work",
+    "date": "2024-03-03"
+  },
+  {
+    "id": 909,
+    "description": "Dividend payout received",
+    "amount": 125.49,
+    "type": "income",
+    "category": "Other",
+    "date": "2024-06-09"
+  },
+  {
+    "id": 910,
+    "description": "Bank interest earned",
+    "amount": 807.9,
+    "type": "income",
+    "category": "Transport",
+    "date": "2024-02-29"
+  },
+  {
+    "id": 911,
+    "description": "Water bill settlement",
+    "amount": 345.96,
+    "type": "expense",
+    "category": "Transport",
+    "date": "2024-08-30"
+  },
+  {
+    "id": 912,
+    "description": "Bonus payout from employer",
+    "amount": 579.51,
+    "type": "income",
+    "category": "Work",
+    "date": "2024-03-17"
+  },
+  {
+    "id": 913,
+    "description": "Online shopping purchase",
+    "amount": 242.99,
+    "type": "expense",
+    "category": "Food",
+    "date": "2024-06-25"
+  },
+  {
+    "id": 914,
+    "description": "Electricity utility bill payment",
+    "amount": 20.77,
+    "type": "expense",
+    "category": "Work",
+    "date": "2024-06-07"
+  },
+  {
+    "id": 915,
+    "description": "Refund credited to account",
+    "amount": 308.35,
+    "type": "income",
+    "category": "Health",
+    "date": "2024-10-07"
+  },
+  {
+    "id": 916,
+    "description": "Fuel refill at petrol station",
+    "amount": 454.83,
+    "type": "expense",
+    "category": "Food",
+    "date": "2024-10-11"
+  },
+  {
+    "id": 917,
+    "description": "Coffee shop takeaway order",
+    "amount": 37.58,
+    "type": "expense",
+    "category": "Transport",
+    "date": "2024-02-08"
+  },
+  {
+    "id": 918,
+    "description": "Client invoice settlement",
+    "amount": 832.07,
+    "type": "income",
+    "category": "Shopping",
+    "date": "2024-07-03"
+  },
+  {
+    "id": 919,
+    "description": "Mobile data recharge payment",
+    "amount": 160.26,
+    "type": "expense",
+    "category": "Bills",
+    "date": "2024-02-01"
+  },
+  {
+    "id": 920,
+    "description": "Gym membership monthly fee",
+    "amount": 89.67,
+    "type": "expense",
+    "category": "Transport",
+    "date": "2024-07-03"
+  },
+  {
+    "id": 921,
+    "description": "School stationery supplies",
+    "amount": 87.37,
+    "type": "expense",
+    "category": "Entertainment",
+    "date": "2024-01-23"
+  },
+  {
+    "id": 922,
+    "description": "Water bill settlement",
+    "amount": 305.36,
+    "type": "expense",
+    "category": "Other",
+    "date": "2024-03-08"
+  },
+  {
+    "id": 923,
+    "description": "Client invoice settlement",
+    "amount": 41.56,
+    "type": "income",
+    "category": "Salary",
+    "date": "2024-05-26"
+  },
+  {
+    "id": 924,
+    "description": "Water bill settlement",
+    "amount": 76.72,
+    "type": "expense",
+    "category": "Shopping",
+    "date": "2024-11-01"
+  },
+  {
+    "id": 925,
+    "description": "Clothing store purchase",
+    "amount": 48.9,
+    "type": "expense",
+    "category": "Bills",
+    "date": "2024-05-15"
+  },
+  {
+    "id": 926,
+    "description": "Freelance project payment",
+    "amount": 2592.6,
+    "type": "income",
+    "category": "Food",
+    "date": "2024-11-22"
+  },
+  {
+    "id": 927,
+    "description": "Freelance project payment",
+    "amount": 60.98,
+    "type": "income",
+    "category": "Salary",
+    "date": "2024-07-31"
+  },
+  {
+    "id": 928,
+    "description": "Bonus payout from employer",
+    "amount": 2005.25,
+    "type": "income",
+    "category": "Work",
+    "date": "2024-11-26"
+  },
+  {
+    "id": 929,
+    "description": "Bank interest earned",
+    "amount": 937.76,
+    "type": "income",
+    "category": "Food",
+    "date": "2024-10-13"
+  },
+  {
+    "id": 930,
+    "description": "Gym membership monthly fee",
+    "amount": 257.36,
+    "type": "expense",
+    "category": "Shopping",
+    "date": "2024-01-29"
+  },
+  {
+    "id": 931,
+    "description": "Mobile data recharge payment",
+    "amount": 261.99,
+    "type": "expense",
+    "category": "Other",
+    "date": "2024-08-08"
+  },
+  {
+    "id": 932,
+    "description": "House rent monthly payment",
+    "amount": 148.51,
+    "type": "expense",
+    "category": "Other",
+    "date": "2024-07-15"
+  },
+  {
+    "id": 933,
+    "description": "Gym membership monthly fee",
+    "amount": 80.03,
+    "type": "expense",
+    "category": "Entertainment",
+    "date": "2024-01-22"
+  },
+  {
+    "id": 934,
+    "description": "Monthly salary received",
+    "amount": 949.54,
+    "type": "income",
+    "category": "Other",
+    "date": "2024-09-12"
+  },
+  {
+    "id": 935,
+    "description": "Online shopping purchase",
+    "amount": 8.11,
+    "type": "expense",
+    "category": "Other",
+    "date": "2024-04-30"
+  },
+  {
+    "id": 936,
+    "description": "Fuel refill at petrol station",
+    "amount": 26.11,
+    "type": "expense",
+    "category": "Entertainment",
+    "date": "2024-11-02"
+  },
+  {
+    "id": 937,
+    "description": "Client invoice settlement",
+    "amount": 2605.91,
+    "type": "income",
+    "category": "Health",
+    "date": "2024-12-16"
+  },
+  {
+    "id": 938,
+    "description": "Client invoice settlement",
+    "amount": 46.08,
+    "type": "income",
+    "category": "Transport",
+    "date": "2024-11-17"
+  },
+  {
+    "id": 939,
+    "description": "Movie tickets at cinema",
+    "amount": 281.05,
+    "type": "expense",
+    "category": "Entertainment",
+    "date": "2024-03-01"
+  },
+  {
+    "id": 940,
+    "description": "Fuel refill at petrol station",
+    "amount": 373.73,
+    "type": "expense",
+    "category": "Entertainment",
+    "date": "2024-10-09"
+  },
+  {
+    "id": 941,
+    "description": "Monthly salary received",
+    "amount": 1696.45,
+    "type": "income",
+    "category": "Bills",
+    "date": "2024-08-27"
+  },
+  {
+    "id": 942,
+    "description": "Online shopping purchase",
+    "amount": 20.9,
+    "type": "expense",
+    "category": "Other",
+    "date": "2024-05-21"
+  },
+  {
+    "id": 943,
+    "description": "Refund credited to account",
+    "amount": 2588.21,
+    "type": "income",
+    "category": "Shopping",
+    "date": "2024-03-13"
+  },
+  {
+    "id": 944,
+    "description": "Dividend payout received",
+    "amount": 1218.33,
+    "type": "income",
+    "category": "Health",
+    "date": "2024-02-25"
+  },
+  {
+    "id": 945,
+    "description": "Movie tickets at cinema",
+    "amount": 27.15,
+    "type": "expense",
+    "category": "Shopping",
+    "date": "2024-06-07"
+  },
+  {
+    "id": 946,
+    "description": "Dividend payout received",
+    "amount": 2475.16,
+    "type": "income",
+    "category": "Entertainment",
+    "date": "2024-03-24"
+  },
+  {
+    "id": 947,
+    "description": "Dividend payout received",
+    "amount": 2588.84,
+    "type": "income",
+    "category": "Health",
+    "date": "2024-01-29"
+  },
+  {
+    "id": 948,
+    "description": "Bank interest earned",
+    "amount": 1947.17,
+    "type": "income",
+    "category": "Shopping",
+    "date": "2024-07-05"
+  },
+  {
+    "id": 949,
+    "description": "Mobile data recharge payment",
+    "amount": 70.21,
+    "type": "expense",
+    "category": "Salary",
+    "date": "2024-12-11"
+  },
+  {
+    "id": 950,
+    "description": "Bonus payout from employer",
+    "amount": 414.36,
+    "type": "income",
+    "category": "Shopping",
+    "date": "2024-08-08"
+  },
+  {
+    "id": 951,
+    "description": "Bank interest earned",
+    "amount": 467.23,
+    "type": "income",
+    "category": "Bills",
+    "date": "2024-02-05"
+  },
+  {
+    "id": 952,
+    "description": "Bonus payout from employer",
+    "amount": 2819.63,
+    "type": "income",
+    "category": "Health",
+    "date": "2024-08-05"
+  },
+  {
+    "id": 953,
+    "description": "Freelance project payment",
+    "amount": 2921.84,
+    "type": "income",
+    "category": "Bills",
+    "date": "2024-03-16"
+  },
+  {
+    "id": 954,
+    "description": "Movie tickets at cinema",
+    "amount": 112.68,
+    "type": "expense",
+    "category": "Shopping",
+    "date": "2024-01-15"
+  },
+  {
+    "id": 955,
+    "description": "Freelance project payment",
+    "amount": 1554.97,
+    "type": "income",
+    "category": "Bills",
+    "date": "2024-08-08"
+  },
+  {
+    "id": 956,
+    "description": "House rent monthly payment",
+    "amount": 412.84,
+    "type": "expense",
+    "category": "Salary",
+    "date": "2024-07-24"
+  },
+  {
+    "id": 957,
+    "description": "Commission income received",
+    "amount": 1786.0,
+    "type": "income",
+    "category": "Food",
+    "date": "2024-01-11"
+  },
+  {
+    "id": 958,
+    "description": "Refund credited to account",
+    "amount": 513.92,
+    "type": "income",
+    "category": "Food",
+    "date": "2024-12-25"
+  },
+  {
+    "id": 959,
+    "description": "Grocery shopping at supermarket",
+    "amount": 315.44,
+    "type": "expense",
+    "category": "Other",
+    "date": "2024-01-11"
+  },
+  {
+    "id": 960,
+    "description": "Cashback reward deposited",
+    "amount": 560.73,
+    "type": "income",
+    "category": "Shopping",
+    "date": "2024-11-29"
+  },
+  {
+    "id": 961,
+    "description": "School stationery supplies",
+    "amount": 420.32,
+    "type": "expense",
+    "category": "Food",
+    "date": "2024-10-15"
+  },
+  {
+    "id": 962,
+    "description": "Taxi fare for city travel",
+    "amount": 82.16,
+    "type": "expense",
+    "category": "Health",
+    "date": "2024-11-07"
+  },
+  {
+    "id": 963,
+    "description": "Coffee shop takeaway order",
+    "amount": 481.28,
+    "type": "expense",
+    "category": "Food",
+    "date": "2024-07-07"
+  },
+  {
+    "id": 964,
+    "description": "Cashback reward deposited",
+    "amount": 1209.43,
+    "type": "income",
+    "category": "Shopping",
+    "date": "2024-03-01"
+  },
+  {
+    "id": 965,
+    "description": "House rent monthly payment",
+    "amount": 121.9,
+    "type": "expense",
+    "category": "Transport",
+    "date": "2024-10-26"
+  },
+  {
+    "id": 966,
+    "description": "Pharmacy medical supplies",
+    "amount": 318.97,
+    "type": "expense",
+    "category": "Health",
+    "date": "2024-11-01"
+  },
+  {
+    "id": 967,
+    "description": "Electricity utility bill payment",
+    "amount": 64.11,
+    "type": "expense",
+    "category": "Bills",
+    "date": "2024-07-26"
+  },
+  {
+    "id": 968,
+    "description": "Fuel refill at petrol station",
+    "amount": 105.01,
+    "type": "expense",
+    "category": "Work",
+    "date": "2024-11-04"
+  },
+  {
+    "id": 969,
+    "description": "Dividend payout received",
+    "amount": 2728.78,
+    "type": "income",
+    "category": "Food",
+    "date": "2024-03-04"
+  },
+  {
+    "id": 970,
+    "description": "Monthly salary received",
+    "amount": 1441.77,
+    "type": "income",
+    "category": "Bills",
+    "date": "2024-04-26"
+  },
+  {
+    "id": 971,
+    "description": "Taxi fare for city travel",
+    "amount": 399.75,
+    "type": "expense",
+    "category": "Entertainment",
+    "date": "2024-10-24"
+  },
+  {
+    "id": 972,
+    "description": "Movie tickets at cinema",
+    "amount": 110.97,
+    "type": "expense",
+    "category": "Other",
+    "date": "2024-04-26"
+  },
+  {
+    "id": 973,
+    "description": "Coffee shop takeaway order",
+    "amount": 20.01,
+    "type": "expense",
+    "category": "Other",
+    "date": "2024-07-14"
+  },
+  {
+    "id": 974,
+    "description": "Refund credited to account",
+    "amount": 2092.33,
+    "type": "income",
+    "category": "Entertainment",
+    "date": "2024-05-08"
+  },
+  {
+    "id": 975,
+    "description": "Cashback reward deposited",
+    "amount": 1987.16,
+    "type": "income",
+    "category": "Health",
+    "date": "2024-08-04"
+  },
+  {
+    "id": 976,
+    "description": "Cashback reward deposited",
+    "amount": 2333.1,
+    "type": "income",
+    "category": "Health",
+    "date": "2024-06-29"
+  },
+  {
+    "id": 977,
+    "description": "Water bill settlement",
+    "amount": 403.85,
+    "type": "expense",
+    "category": "Other",
+    "date": "2024-02-18"
+  },
+  {
+    "id": 978,
+    "description": "Bank interest earned",
+    "amount": 515.95,
+    "type": "income",
+    "category": "Work",
+    "date": "2024-07-24"
+  },
+  {
+    "id": 979,
+    "description": "School stationery supplies",
+    "amount": 311.45,
+    "type": "expense",
+    "category": "Work",
+    "date": "2024-04-05"
+  },
+  {
+    "id": 980,
+    "description": "Refund credited to account",
+    "amount": 2394.29,
+    "type": "income",
+    "category": "Entertainment",
+    "date": "2024-12-11"
+  },
+  {
+    "id": 981,
+    "description": "Dividend payout received",
+    "amount": 1252.86,
+    "type": "income",
+    "category": "Shopping",
+    "date": "2024-02-21"
+  },
+  {
+    "id": 982,
+    "description": "Grocery shopping at supermarket",
+    "amount": 110.7,
+    "type": "expense",
+    "category": "Transport",
+    "date": "2024-01-23"
+  },
+  {
+    "id": 983,
+    "description": "Cashback reward deposited",
+    "amount": 1497.98,
+    "type": "income",
+    "category": "Entertainment",
+    "date": "2024-03-23"
+  },
+  {
+    "id": 984,
+    "description": "Movie tickets at cinema",
+    "amount": 126.56,
+    "type": "expense",
+    "category": "Bills",
+    "date": "2024-12-02"
+  },
+  {
+    "id": 985,
+    "description": "Dividend payout received",
+    "amount": 391.85,
+    "type": "income",
+    "category": "Bills",
+    "date": "2024-07-16"
+  },
+  {
+    "id": 986,
+    "description": "Refund credited to account",
+    "amount": 1038.66,
+    "type": "income",
+    "category": "Entertainment",
+    "date": "2024-05-04"
+  },
+  {
+    "id": 987,
+    "description": "Electricity utility bill payment",
+    "amount": 477.24,
+    "type": "expense",
+    "category": "Shopping",
+    "date": "2024-10-06"
+  },
+  {
+    "id": 988,
+    "description": "Movie tickets at cinema",
+    "amount": 246.06,
+    "type": "expense",
+    "category": "Shopping",
+    "date": "2024-09-28"
+  },
+  {
+    "id": 989,
+    "description": "Client invoice settlement",
+    "amount": 2081.37,
+    "type": "income",
+    "category": "Bills",
+    "date": "2024-12-18"
+  },
+  {
+    "id": 990,
+    "description": "Client invoice settlement",
+    "amount": 2639.13,
+    "type": "income",
+    "category": "Bills",
+    "date": "2024-10-28"
+  },
+  {
+    "id": 991,
+    "description": "Taxi fare for city travel",
+    "amount": 159.83,
+    "type": "expense",
+    "category": "Other",
+    "date": "2024-07-05"
+  },
+  {
+    "id": 992,
+    "description": "Clothing store purchase",
+    "amount": 277.89,
+    "type": "expense",
+    "category": "Salary",
+    "date": "2024-06-02"
+  },
+  {
+    "id": 993,
+    "description": "Movie tickets at cinema",
+    "amount": 83.98,
+    "type": "expense",
+    "category": "Salary",
+    "date": "2024-02-11"
+  },
+  {
+    "id": 994,
+    "description": "Water bill settlement",
+    "amount": 460.84,
+    "type": "expense",
+    "category": "Health",
+    "date": "2024-10-01"
+  },
+  {
+    "id": 995,
+    "description": "Coffee shop takeaway order",
+    "amount": 367.32,
+    "type": "expense",
+    "category": "Bills",
+    "date": "2024-02-19"
+  },
+  {
+    "id": 996,
+    "description": "Grocery shopping at supermarket",
+    "amount": 339.72,
+    "type": "expense",
+    "category": "Work",
+    "date": "2024-10-02"
+  },
+  {
+    "id": 997,
+    "description": "Monthly salary received",
+    "amount": 837.16,
+    "type": "income",
+    "category": "Shopping",
+    "date": "2024-10-13"
+  },
+  {
+    "id": 998,
+    "description": "Fuel refill at petrol station",
+    "amount": 344.12,
+    "type": "expense",
+    "category": "Entertainment",
+    "date": "2024-02-25"
+  },
+  {
+    "id": 999,
+    "description": "Client invoice settlement",
+    "amount": 795.6,
+    "type": "income",
+    "category": "Transport",
+    "date": "2024-08-04"
+  },
+  {
+    "id": 1000,
+    "description": "House rent monthly payment",
+    "amount": 110.93,
+    "type": "expense",
+    "category": "Work",
+    "date": "2024-06-29"
+  }
+]
