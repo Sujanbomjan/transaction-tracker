@@ -1,36 +1,151 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 💰 Financial Transaction Manager
 
-## Getting Started
+A modern, enterprise-grade transaction tracker application built with Next.js, Redux Toolkit, and TypeScript. Effortlessly manage, filter, and visualize your data with interactive charts and real-time analytics.
 
-First, run the development server:
+![Next.js](https://img.shields.io/badge/Next.js-16-black)
+![React](https://img.shields.io/badge/React-19-blue)
+![TypeScript](https://img.shields.io/badge/TypeScript-5-blue)
+![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-2.0-purple)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-4-38bdf8)
+
+## ✨ Features
+
+- 📊 **Interactive Data Visualization** - Toggle between bar and pie charts with custom legends
+- 🔍 **Advanced Filtering** - Multi-select category filters and transaction type filtering
+- 📈 **Real-time Analytics** - Live calculations of income, expenses, and balance
+- 📋 **Paginated Table** - Efficiently browse through large datasets with pagination
+- ➕ **Transaction Management** - Add and delete transactions with form validation
+- 🎨 **Beautiful UI** - Modern, responsive design with dark mode support
+- ⚡ **Optimized Performance** - Memoized selectors and efficient state management
+- 🔔 **Toast Notifications** - User-friendly feedback for all actions
+- 💀 **Skeleton Loading** - Professional loading states throughout the app
+
+## 🛠️ Tech Stack
+
+### Core
+
+- **Next.js 16** - React framework with App Router
+- **React 19** - UI library
+- **TypeScript** - Type-safe development
+
+### State Management
+
+- **Redux Toolkit** - Predictable state container
+- **React Redux** - Official React bindings for Redux
+
+### UI & Styling
+
+- **shadcn/ui** - Beautifully designed component library
+- **Tailwind CSS** - Utility-first CSS framework
+- **Radix UI** - Accessible component primitives
+- **Lucide React** - Beautiful icon library
+
+### Forms & Validation
+
+- **React Hook Form** - Performant form management
+- **Zod** - TypeScript-first schema validation
+
+### Charts & Visualization
+
+- **Recharts** - Composable charting library
+
+### Utilities
+
+- **date-fns** - Modern date utility library
+- **Sonner** - Beautiful toast notifications
+
+## 🚀 Getting Started
+
+### Prerequisites
+
+- Node.js 18+
+- Yarn package manager
+
+### Installation
+
+1. **Clone the repository**
+
+   ```bash
+   git clone https://github.com/Sujanbomjan/transaction-tracker.git
+   cd transaction-tracker
+   ```
+
+2. **Install dependencies**
+
+   ```bash
+   yarn install
+   ```
+
+3. **Add your transaction data**
+
+   Create `src/data/TrackerTransaction.json` with your transaction data in the following format:
+
+   ```json
+   [
+     {
+       "id": 1,
+       "description": "Salary",
+       "amount": 5000,
+       "type": "income",
+       "category": "Salary",
+       "date": "2024-01-01"
+     }
+   ]
+   ```
+
+4. **Run the development server**
+
+   ```bash
+   yarn dev
+   ```
+
+5. **Open your browser**
+
+   Navigate to [http://localhost:3000](http://localhost:3000)
+
+### Build for Production
 
 ```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+# Create production build
+yarn build
+
+# Start production server
+yarn start
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## 📁 Project Structure
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+```
+src/
+├── app/
+│   ├── layout.tsx              # Root layout with providers
+│   ├── page.tsx                # Main dashboard page
+│   └── globals.css             # Global styles
+│
+├── components/
+│   ├── providers/
+│   │   └── ReduxProvider.tsx   # Redux store provider
+│   ├── SummaryCards.tsx        # Financial summary cards
+│   ├── FilterSection.tsx       # Category & type filters
+│   ├── TransactionTable.tsx    # Paginated transaction table
+│   ├── ChartVisualization.tsx  # Interactive charts
+│   ├── AddTransactionForm.tsx  # Add transaction form
+│   └── ui/                     # shadcn/ui components
+│
+├── redux/
+│   ├── store.ts                # Redux store configuration
+│   └── features/
+│       └── transactions/
+│           └── transactionsSlice.ts  # Transaction state & selectors
+│
+└── data/
+    └── TrackerTransaction.json # Transaction data
+```
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## 📊 Performance Optimizations
 
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+- ✅ Memoized Redux selectors
+- ✅ React.memo for component optimization
+- ✅ useCallback for event handlers
+- ✅ Efficient re-render prevention
+- ✅ Pagination for large datasets
