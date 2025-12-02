@@ -142,6 +142,7 @@ export default function LineChartVisualization() {
             <Button
               variant={timeRange === "monthly" ? "default" : "outline"}
               size="sm"
+              className="cursor-pointer"
               onClick={() => setTimeRange("monthly")}
             >
               <CalendarDays className="h-4 w-4 mr-1" />
@@ -150,6 +151,7 @@ export default function LineChartVisualization() {
             <Button
               variant={timeRange === "yearly" ? "default" : "outline"}
               size="sm"
+              className="cursor-pointer"
               onClick={() => setTimeRange("yearly")}
             >
               <CalendarRange className="h-4 w-4 mr-1" />

@@ -115,6 +115,7 @@ export default function ChartVisualization({
             <Button
               variant={chartType === "bar" ? "default" : "outline"}
               size="sm"
+              className="cursor-pointer"
               onClick={() => setChartType("bar")}
             >
               <BarChart3 className="h-4 w-4 mr-1" />
@@ -123,6 +124,7 @@ export default function ChartVisualization({
             <Button
               variant={chartType === "pie" ? "default" : "outline"}
               size="sm"
+              className="cursor-pointer"
               onClick={() => setChartType("pie")}
             >
               <PieChartIcon className="h-4 w-4 mr-1" />

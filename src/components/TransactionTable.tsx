@@ -279,7 +279,7 @@ export default function TransactionTable() {
                                     transaction.description
                                   )
                                 }
-                                className="bg-red-600 hover:bg-red-700"
+                                className="bg-red-600 hover:bg-red-700 cursor-pointer"
                               >
                                 Delete
                               </AlertDialogAction>
