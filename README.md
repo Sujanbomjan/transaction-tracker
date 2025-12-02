@@ -78,7 +78,7 @@ A modern, enterprise-grade transaction tracker application built with Next.js, R
 
 3. **Add your transaction data**
 
-   Create `src/data/TrackerTransaction.json` with your transaction data in the following format:
+   `src/public/data/TrackerTransaction.json` with your transaction data in the following format:
 
    ```json
    [
