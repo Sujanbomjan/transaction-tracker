@@ -1,5 +1,11 @@
-import { createSlice, PayloadAction, createSelector } from "@reduxjs/toolkit";
+import {
+  createSlice,
+  PayloadAction,
+  createSelector,
+  createAsyncThunk,
+} from "@reduxjs/toolkit";
 import type { RootState } from "../../store";
+import { TransactionsAPI } from "@/lib/api/transactionsApi";
 
 export interface Transaction {
   id: number;
@@ -13,74 +19,51 @@ export interface Transaction {
 interface TransactionsState {
   transactions: Transaction[];
   isLoading: boolean;
+  error: string | null;
   filters: {
     categories: string[];
     type: string;
   };
 }
 
-const loadFromStorage = (): Transaction[] => {
-  if (typeof window === "undefined") return [];
-
-  try {
-    const stored = localStorage.getItem("transactions");
-    return stored ? JSON.parse(stored) : [];
-  } catch (error) {
-    console.error("Error loading transactions from storage:", error);
-    return [];
-  }
-};
-
-const saveToStorage = (transactions: Transaction[]) => {
-  if (typeof window === "undefined") return;
-
-  try {
-    localStorage.setItem("transactions", JSON.stringify(transactions));
-  } catch (error) {
-    console.error("Error saving transactions to storage:", error);
-  }
-};
-
 const initialState: TransactionsState = {
   transactions: [],
   isLoading: true,
+  error: null,
   filters: {
     categories: [],
     type: "all",
   },
 };
 
+export const fetchTransactions = createAsyncThunk(
+  "transactions/fetchTransactions",
+  async () => {
+    const data = await TransactionsAPI.fetchTransactions();
+    return data;
+  }
+);
+
+export const addTransactionAsync = createAsyncThunk(
+  "transactions/addTransaction",
+  async (transaction: Transaction) => {
+    const data = await TransactionsAPI.addTransaction(transaction);
+    return data;
+  }
+);
+
+export const deleteTransactionAsync = createAsyncThunk(
+  "transactions/deleteTransaction",
+  async (id: number) => {
+    await TransactionsAPI.deleteTransaction(id);
+    return id;
+  }
+);
+
 export const transactionsSlice = createSlice({
   name: "transactions",
   initialState,
   reducers: {
-    initializeFromStorage: (state) => {
-      const storedTransactions = loadFromStorage();
-      if (storedTransactions.length > 0) {
-        state.transactions = storedTransactions;
-      }
-      state.isLoading = false;
-    },
-    setTransactions: (state, action: PayloadAction<Transaction[]>) => {
-      const storedTransactions = loadFromStorage();
-      if (storedTransactions.length === 0) {
-        state.transactions = action.payload;
-        saveToStorage(action.payload);
-      } else {
-        state.transactions = storedTransactions;
-      }
-      state.isLoading = false;
-    },
-    addTransaction: (state, action: PayloadAction<Transaction>) => {
-      state.transactions.unshift(action.payload);
-      saveToStorage(state.transactions);
-    },
-    deleteTransaction: (state, action: PayloadAction<number>) => {
-      state.transactions = state.transactions.filter(
-        (t) => t.id !== action.payload
-      );
-      saveToStorage(state.transactions);
-    },
     setFilters: (
       state,
       action: PayloadAction<{ categories?: string[]; type?: string }>
@@ -92,25 +75,50 @@ export const transactionsSlice = createSlice({
         state.filters.type = action.payload.type;
       }
     },
-    setLoading: (state, action: PayloadAction<boolean>) => {
-      state.isLoading = action.payload;
+    clearError: (state) => {
+      state.error = null;
     },
-    clearAllTransactions: (state) => {
-      state.transactions = [];
-      saveToStorage([]);
-    },
+  },
+  extraReducers: (builder) => {
+    builder.addCase(fetchTransactions.pending, (state) => {
+      state.isLoading = true;
+      state.error = null;
+    });
+    builder.addCase(fetchTransactions.fulfilled, (state, action) => {
+      state.transactions = action.payload;
+      state.isLoading = false;
+      state.error = null;
+    });
+    builder.addCase(fetchTransactions.rejected, (state, action) => {
+      state.isLoading = false;
+      state.error = action.error.message || "Failed to fetch transactions";
+    });
+    builder.addCase(addTransactionAsync.pending, (state) => {
+      state.error = null;
+    });
+    builder.addCase(addTransactionAsync.fulfilled, (state, action) => {
+      state.transactions.unshift(action.payload);
+      state.error = null;
+    });
+    builder.addCase(addTransactionAsync.rejected, (state, action) => {
+      state.error = action.error.message || "Failed to add transaction";
+    });
+    builder.addCase(deleteTransactionAsync.pending, (state) => {
+      state.error = null;
+    });
+    builder.addCase(deleteTransactionAsync.fulfilled, (state, action) => {
+      state.transactions = state.transactions.filter(
+        (t) => t.id !== action.payload
+      );
+      state.error = null;
+    });
+    builder.addCase(deleteTransactionAsync.rejected, (state, action) => {
+      state.error = action.error.message || "Failed to delete transaction";
+    });
   },
 });
 
-export const {
-  initializeFromStorage,
-  setTransactions,
-  addTransaction,
-  deleteTransaction,
-  setFilters,
-  setLoading,
-  clearAllTransactions,
-} = transactionsSlice.actions;
+export const { setFilters, clearError } = transactionsSlice.actions;
 
 export const selectTransactions = (state: RootState) =>
   state.transactions.transactions;
@@ -119,6 +127,8 @@ export const selectFilters = (state: RootState) => state.transactions.filters;
 
 export const selectIsLoading = (state: RootState) =>
   state.transactions.isLoading;
+
+export const selectError = (state: RootState) => state.transactions.error;
 
 export const selectFilteredTransactions = createSelector(
   [selectTransactions, selectFilters],

@@ -4,6 +4,7 @@ import { useSelector, useDispatch } from "react-redux";
 import { useState, useMemo } from "react";
 import { Trash2, Loader2, Receipt, Search } from "lucide-react";
 import { toast } from "sonner";
+import type { AppDispatch } from "@/redux/store";
 
 import {
   Table,
@@ -40,7 +41,7 @@ import {
 import {
   selectFilteredTransactions,
   selectIsLoading,
-  deleteTransaction,
+  deleteTransactionAsync,
 } from "@/redux/features/transactions/transactionsSlice";
 
 const ITEMS_PER_PAGE = 10;
@@ -48,7 +49,7 @@ const ITEMS_PER_PAGE = 10;
 export default function TransactionTable() {
   const transactions = useSelector(selectFilteredTransactions);
   const isLoading = useSelector(selectIsLoading);
-  const dispatch = useDispatch();
+  const dispatch = useDispatch<AppDispatch>();
   const [deletingId, setDeletingId] = useState<number | null>(null);
   const [currentPage, setCurrentPage] = useState(1);
 
@@ -99,12 +100,13 @@ export default function TransactionTable() {
     setDeletingId(id);
 
     try {
-      await new Promise((resolve) => setTimeout(resolve, 500));
-      dispatch(deleteTransaction(id));
+      // Use async thunk to delete transaction (simulates API call + removes from localStorage)
+      await dispatch(deleteTransactionAsync(id)).unwrap();
 
       toast.success("Transaction deleted", {
         description: `"${description}" has been removed.`,
       });
+
       if (paginatedTransactions.length === 1 && currentPage > 1) {
         setCurrentPage(currentPage - 1);
       }
@@ -248,7 +250,7 @@ export default function TransactionTable() {
                     </TableCell>
                   </TableRow>
                 ) : (
-                  paginatedTransactions.map((transaction, index) => (
+                  paginatedTransactions.map((transaction) => (
                     <TableRow
                       key={transaction.id}
                       className={`${

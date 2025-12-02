@@ -1,37 +1,21 @@
 "use client";
 
 import { useEffect } from "react";
-import { useDispatch } from "react-redux";
+import { fetchTransactions } from "@/redux/features/transactions/transactionsSlice";
+
 import SummaryCards from "@/components/SummaryCard";
 import FilterSection from "@/components/FilterSection";
 import TransactionTable from "@/components/TransactionTable";
 import ChartVisualization from "@/components/ChartVisualization";
 import AddTransactionForm from "@/components/AddTransactionForm";
-import {
-  setTransactions,
-  setLoading,
-} from "@/redux/features/transactions/transactionsSlice";
-import transactionsData from "@/data/TrackerTransaction.json";
 import LineChartVisualization from "@/components/LineChartVisualization";
+import { useAppDispatch } from "@/redux/hooks";
 
 export default function Home() {
-  const dispatch = useDispatch();
+  const dispatch = useAppDispatch();
 
   useEffect(() => {
-    const loadData = async () => {
-      dispatch(setLoading(true));
-      await new Promise((resolve) => setTimeout(resolve, 1500));
-      dispatch(
-        setTransactions(
-          transactionsData.map((t) => ({
-            ...t,
-            type: t.type as "income" | "expense",
-          }))
-        )
-      );
-    };
-
-    loadData();
+    dispatch(fetchTransactions());
   }, [dispatch]);
 
   return (

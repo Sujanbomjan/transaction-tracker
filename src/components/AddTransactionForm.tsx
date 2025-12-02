@@ -9,6 +9,7 @@ import { format } from "date-fns";
 import { toast } from "sonner";
 
 import { useDispatch, useSelector } from "react-redux";
+import type { AppDispatch } from "@/redux/store";
 import {
   Dialog,
   DialogContent,
@@ -36,7 +37,7 @@ import {
   SelectValue,
 } from "@/components/ui/select";
 import {
-  addTransaction,
+  addTransactionAsync,
   selectCategories,
 } from "@/redux/features/transactions/transactionsSlice";
 
@@ -52,9 +53,7 @@ const transactionFormSchema = z.object({
   type: z.enum(["income", "expense"], {
     error: "Please select a transaction type.",
   }),
-
   category: z.string().min(1, { message: "Please select a category." }),
-
   date: z.string().refine(
     (date) => {
       const selectedDate = new Date(date);
@@ -69,7 +68,7 @@ const transactionFormSchema = z.object({
 type TransactionFormValues = z.infer<typeof transactionFormSchema>;
 
 export default function AddTransactionForm() {
-  const dispatch = useDispatch();
+  const dispatch = useDispatch<AppDispatch>();
   const categories = useSelector(selectCategories);
   const [open, setOpen] = useState(false);
   const [isSubmitting, setIsSubmitting] = useState(false);
@@ -89,9 +88,6 @@ export default function AddTransactionForm() {
     setIsSubmitting(true);
 
     try {
-      // Simulate API delay
-      await new Promise((resolve) => setTimeout(resolve, 1000));
-
       const newTransaction = {
         id: Date.now(),
         description: data.description,
@@ -101,7 +97,8 @@ export default function AddTransactionForm() {
         date: data.date,
       };
 
-      dispatch(addTransaction(newTransaction));
+      // Use async thunk to add transaction (simulates API call + saves to localStorage)
+      await dispatch(addTransactionAsync(newTransaction)).unwrap();
 
       toast.success("Transaction added successfully!", {
         description: `${

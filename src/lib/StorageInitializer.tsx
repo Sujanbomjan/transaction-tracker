@@ -2,13 +2,14 @@
 
 import { useEffect } from "react";
 import { useDispatch } from "react-redux";
-import { initializeFromStorage } from "@/redux/features/transactions/transactionsSlice";
+import { fetchTransactions } from "@/redux/features/transactions/transactionsSlice";
+import type { AppDispatch } from "@/redux/store";
 
-export default function StorageInitializer() {
-  const dispatch = useDispatch();
+export default function TransactionsInitializer() {
+  const dispatch = useDispatch<AppDispatch>();
 
   useEffect(() => {
-    dispatch(initializeFromStorage());
+    dispatch(fetchTransactions());
   }, [dispatch]);
 
   return null;
